@@ -42,7 +42,8 @@ Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente útei
 
 ### 5️⃣ Listening solto
 ⏱ **15 min** · 🧰 Musicas
-Ouça sem pausar e sem legenda. O objetivo não é entender tudo, é acostumar o ouvido ao fluxo real da língua.
+Ouça sem pausar e sem legenda.
+- O objetivo não é entender tudo, é acostumar o ouvido ao fluxo real da língua.
 
 ### 7️⃣ Writing
 ⏱ **20 min** · 🧰 ChatGPT
