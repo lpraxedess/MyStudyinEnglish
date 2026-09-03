@@ -1,157 +1,359 @@
-# Guia de Estudo de Inglês — A1 → B1/B2 em 12 meses
-### Foco: destravar conversação · Área: Segurança da Informação · Custo: R$ 0
+# 🎯 Guia de Estudo de Inglês — A1 → B1/B2 em 12 meses
+**Foco:** destravar conversação · **Área:** Segurança da Informação · **Custo:** R$ 0
+
+> Estrutura fixa em todos os blocos: bloco contínuo de **~4h10min**, 9 atividades na ordem abaixo, com pausa de ~10 min depois dos itens 3, 5 e 8. O que muda a cada bimestre é o *conteúdo* de cada atividade — por isso cada período tem sua rotina completa a seguir.
 
 ---
 
-## 1. Ponto de partida e meta
+## 📑 Sumário
 
-- **Nível hoje:** A1 alto — já forma frases simples (se apresentar, dizer gostos).
-- **Meta em 12 meses:** B1/B2. Não precisa ser nativo. Precisa entender o que ouve, responder sem travar, e se virar em conversa — inclusive profissional, para carreira internacional em Segurança da Informação.
-- **Tempo disponível:** ~4h/dia, em bloco contínuo, com pausas.
-- **Método de imersão:** anime, via Language Reactor (extensão Chrome para Netflix/YouTube).
-- **Método de speaking:** 100% com IA de texto (sem parceiro humano por enquanto).
-
----
-
-## 2. As 3 fases do ano
-
-| Fase | Meses | Nível alvo | Foco principal |
-|---|---|---|---|
-| **1 — Fundação** | 1-3 | A1 → A2 | Vocabulário de alta frequência, estrutura básica, ouvido se acostumando ao inglês real |
-| **2 — Decolagem** | 4-7 | A2 → B1 | Conversação fluindo no dia a dia, conteúdo de segurança começa a entrar |
-| **3 — Consolidação** | 8-12 | B1 → B2 | Conversação profissional, simulação de entrevista, inglês técnico no automático |
+- [Meses 1-2](#-meses-1-2)
+- [Meses 3-4](#-meses-3-4)
+- [Meses 5-6](#-meses-5-6)
+- [Meses 7-8](#-meses-7-8)
+- [Meses 9-10](#-meses-9-10)
+- [Meses 11-12](#-meses-11-12)
+- [Caixa de ferramentas](#-caixa-de-ferramentas-todas-gratuitas)
+- [Regra de sotaque](#-regra-de-sotaque)
+- [Checkpoints](#-checkpoints--a-cada-4-6-semanas)
+- [Regras de ouro](#-regras-de-ouro)
 
 ---
 
-## 3. Rotina diária fixa (~4h)
+## 🟢 Meses 1-2
+*Fase 1 — Fundação · Nível A1*
 
-Esta é a estrutura que você segue **todo santo dia**. O que muda mês a mês é o conteúdo de cada linha (seção 4), não o formato.
+### 1️⃣ Revisão relâmpago
+⏱ **10 min** · 🧰 Anki
+Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
 
-| # | Atividade | Tempo | Recurso |
-|---|---|---|---|
-| 1 | Revisão relâmpago: Anki de ontem, falando em voz alta | 10 min | Anki |
-| 2 | Curso estruturado (gramática + vocabulário guiado) | 45 min | USA Learns → depois conteúdo técnico |
-| 3 | Anki: 5 frases novas do dia | 15 min | Anki |
-| — | *pausa* | 10 min | |
-| 4 | Listening + Shadowing intensivo (anime, 2-3 passagens) | 50 min | Language Reactor |
-| 5 | Listening solto (sem pausar, sem legenda) | 15 min | Podcast/YouTube |
-| — | *pausa* | 10 min | |
-| 6 | Leitura (graded reader → artigo técnico) | 15 min | Ver seção 4 |
-| 7 | Writing: 5-10 frases + correção pela IA + reescrita | 20 min | ChatGPT |
-| 8 | Grammar reativa (só o que travou no dia) | 10 min | — |
-| — | *pausa* | 10 min | |
-| 9 | Speaking com IA (4 blocos de 10 min — ver seção 5) | 40 min | ChatGPT |
+### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
+⏱ **45 min** · 🧰 USA Learns, nível iniciante
+Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis do que você viu. Para cada uma: escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua usando a mesma estrutura. Essas 5 frases vão pro Anki no próximo passo.
 
-**Total: ~4h10min.**
+### 3️⃣ Anki — frases novas do dia
+⏱ **15 min** · 🧰 Anki
+Pegue as 5 frases selecionadas no curso e coloque manualmente, focando em vocabulário geral de sobrevivência. Nunca mais que 5 por dia. Frente: a frase em português. Verso: a frase completa em inglês (nunca palavra solta).
 
-### Regras de execução da tabela
+> ☕ *Pausa de ~10 min*
 
-1. **Anki (itens 1 e 3):** coloque 5 frases novas por dia, mesmo que tenha estudado 20. Escolha só as que você realmente imagina usando. Frente = português, verso = frase completa em inglês (não palavra solta).
-2. **Item 2 (curso):** durante o curso, não anote tudo — escolha 5 frases realmente úteis, escreva, leia em voz alta 5x, tente falar sem olhar 3x, crie 1 frase sua com a mesma estrutura. Essas 5 frases são as que vão pro Anki no item 3.
-3. **Item 4 (Language Reactor):** escolha anime **dublado em inglês**, com episódios de até 25 min, que você já tenha assistido antes (facilita entender mesmo perdendo palavras). Ative "AP" no plugin. Legenda em inglês nos dois campos (original e "translation"). Escolha 3-5 frases por sessão para repetir com o "S" (repetir cena) até sair natural.
-4. **Item 6 (leitura):** não traduza tudo mentalmente. Se travar em uma palavra, siga em frente e só volte se ela se repetir.
-5. **Item 7 (writing):** depois de escrever, peça exatamente isto pra IA: *"Corrija meu texto. Mostre apenas os 3 erros mais importantes e explique de forma simples."* Depois reescreva o texto inteiro incorporando a correção — não basta ler o erro.
-6. **Item 8 (grammar):** só estude a regra que te travou no dia. Aprendeu → produza 5 frases suas na hora. Nunca vire 30 min de teoria sem produção.
-7. **Item 9 (speaking):** ver estrutura detalhada na seção 5.
+### 4️⃣ Listening + Shadowing intensivo (anime)
+⏱ **50 min** · 🧰 Language Reactor (Chrome, Netflix/YouTube) — anime de ritmo calmo e fala pausada, ex. filmes do Studio Ghibli, se disponíveis dublados na Netflix
+Faça em 3 passagens: primeira sem parar, pra sentir quanto você entende; segunda pausando em palavras/expressões importantes, escolhendo 3-5 frases pra guardar; terceira sem legenda, pra notar quanto já reconhece. Repita as 3-5 frases escolhidas com a tecla "S" (repetir cena) até sair natural.
 
----
+### 5️⃣ Listening solto
+⏱ **15 min** · 🧰 canais gerais — Espresso English, EngVid, Rachel's English
+Ouça sem pausar e sem legenda. O objetivo não é entender tudo, é acostumar o ouvido ao fluxo real da língua.
 
-## 4. Evolução do conteúdo — mês a mês
+> ☕ *Pausa de ~10 min*
 
-### Meses 1-2 (Fase 1 — início)
-- **Curso:** USA Learns, nível iniciante
-- **Anime:** ritmo calmo, fala pausada — ex. filmes do Studio Ghibli, se disponíveis dublados na Netflix
-- **Listening solto:** Espresso English, EngVid
-- **Leitura:** graded readers A1
-- **Anki:** vocabulário geral de sobrevivência
-- **Speaking:** frases curtas, temas simples (comida, rotina, família)
+### 6️⃣ Leitura
+⏱ **15 min** · 🧰 graded readers A1
+Leia sem traduzir tudo mentalmente. Se travar numa palavra, siga em frente — só volte se ela se repetir.
 
-### Meses 3-4 (Fase 1 — avançado)
-- **Curso:** USA Learns, seguir para intermediário
-- **Anime:** episódico, diálogo previsível — ex. Doraemon, Pokémon (temporadas antigas)
-- **Listening solto:** mesmos canais, aumentar velocidade se possível
-- **Leitura:** graded readers A2
-- **Anki:** geral + 1-2 termos de TI/segurança por semana
-- **Speaking:** já mantém 2-3 trocas seguidas sem travar
+### 7️⃣ Writing
+⏱ **20 min** · 🧰 ChatGPT
+Escreva 5-10 frases sobre o seu dia. Depois peça exatamente isto pra IA: *"Corrija meu texto. Mostre apenas os 3 erros mais importantes e explique de forma simples."* Reescreva o texto inteiro incorporando a correção.
 
-### Meses 5-6 (Fase 2 — início)
-- **Curso:** trocar por artigos/vídeos curtos em inglês geral
-- **Anime:** shonen popular, contexto visual ajuda — ex. My Hero Academia, Demon Slayer
-- **Listening solto:** 1x/semana algo leve de segurança (ex. NetworkChuck)
-- **Leitura:** notícia curta e simples (ex. Hacker News resumido)
-- **Anki:** ~30% já é vocabulário técnico
-- **Speaking:** cenário já inclui explicar conceitos simples de segurança em inglês
+### 8️⃣ Grammar reativa
+⏱ **10 min** · 🧰 —
+Estude só a regra que te travou durante o dia. Depois de entender, produza 5 frases suas na hora.
 
-### Meses 7-8 (Fase 2 — avançado)
-- **Curso:** documentação e tutoriais técnicos em inglês
-- **Anime:** ritmo mais rápido, mais gíria — ex. Jujutsu Kaisen, Attack on Titan
-- **Listening solto:** metade geral, metade segurança (ex. trechos de Darknet Diaries)
-- **Leitura:** The Hacker News completo, sem simplificação
-- **Anki:** maioria técnico + expressões de reunião de trabalho
-- **Speaking:** cenário vira simulação de reunião técnica
+> ☕ *Pausa de ~10 min*
 
-### Meses 9-10 (Fase 3 — início)
-- **Curso:** material de certificação (Security+, CySA+ etc.), se for seu plano
-- **Anime:** registro mais formal — ex. Death Note, Fullmetal Alchemist: Brotherhood
-- **Listening solto:** majoritariamente podcasts de segurança (Darknet Diaries, Risky Business)
-- **Leitura:** Krebs on Security, Schneier on Security
-- **Anki:** foco total em vocabulário técnico + termos de entrevista
-- **Speaking:** cenário vira simulação de entrevista de emprego
-
-### Meses 11-12 (Fase 3 — final)
-- **Curso:** material de certificação ou documentação real do trabalho
-- **Anime:** livre escolha
-- **Listening solto:** podcasts de segurança em ritmo normal, sem apoio
-- **Leitura:** artigos técnicos completos, sem apoio
-- **Anki:** só manutenção — novo vocabulário genuíno
-- **Speaking:** entrevista completa simulada, do início ao fim, com feedback detalhado
+### 9️⃣ Speaking com IA
+⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
+1. **Conversa simples** — peça pro GPT perguntar sobre seu dia, com temas simples como comida, rotina e família. Deixe fluir sem parar pra corrigir.
+2. **Cenário prático** — simulações bem básicas do dia a dia, como pedir comida ou se apresentar.
+3. **Reutilização** — diga: *"Use the five expressions I learned today. Ask me questions so I have to use them."*
+4. **Correção** — diga: *"Correct my three most important mistakes. Give me the natural version and ask me to say each sentence again."* Depois crie mais uma frase sua usando a correção.
 
 ---
 
-## 5. Estrutura do bloco de Speaking com IA (40 min)
+## 🟢 Meses 3-4
+*Fase 1 — Fundação · A1 → A2*
 
-1. **Conversa simples (10 min)** — peça pro GPT perguntar sobre seu dia. Deixe fluir, não pare pra corrigir no meio.
-2. **Cenário prático (10 min)** — simulações como: *"Imagine that I am in a job interview for a cybersecurity position"* ou *"Imagine that I am reporting a security incident to a client."*
-3. **Reutilização (10 min)** — diga: *"Use the five expressions I learned today. Ask me questions so I have to use them."*
-4. **Correção (10 min)** — diga: *"Correct my three most important mistakes. Give me the natural version and ask me to say each sentence again."* Depois crie mais uma frase sua usando a correção.
+### 1️⃣ Revisão relâmpago
+⏱ **10 min** · 🧰 Anki
+Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
+
+### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
+⏱ **45 min** · 🧰 USA Learns, seguir para o nível intermediário
+Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis. Escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+
+### 3️⃣ Anki — frases novas do dia
+⏱ **15 min** · 🧰 Anki
+Continue com vocabulário geral, mas comece a incluir 1-2 termos de TI/segurança por semana (ex. "password", "update"). Nunca mais que 5 frases novas por dia.
+
+> ☕ *Pausa de ~10 min*
+
+### 4️⃣ Listening + Shadowing intensivo (anime)
+⏱ **50 min** · 🧰 Language Reactor — anime episódico, diálogo previsível, ex. Doraemon, Pokémon (temporadas antigas)
+Mesmas 3 passagens de sempre: sem parar, depois pausando em 3-5 frases importantes, depois sem legenda. Repita as frases escolhidas com "S" até sair natural.
+
+### 5️⃣ Listening solto
+⏱ **15 min** · 🧰 mesmos canais gerais — tente aumentar a velocidade de reprodução se possível
+Ouça sem pausar e sem legenda.
+
+> ☕ *Pausa de ~10 min*
+
+### 6️⃣ Leitura
+⏱ **15 min** · 🧰 graded readers A2
+Leia sem traduzir tudo mentalmente. Se travar numa palavra, siga em frente.
+
+### 7️⃣ Writing
+⏱ **20 min** · 🧰 ChatGPT
+5-10 frases sobre o seu dia, correção dos 3 erros principais, e reescrita completa incorporando a correção.
+
+### 8️⃣ Grammar reativa
+⏱ **10 min** · 🧰 —
+Estude só a regra que travou no dia, depois produza 5 frases suas.
+
+> ☕ *Pausa de ~10 min*
+
+### 9️⃣ Speaking com IA
+⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
+1. **Conversa simples** — já dá pra manter 2-3 trocas seguidas sobre um tema sem travar.
+2. **Cenário prático** — situações do cotidiano um pouco mais elaboradas, como planejar um passeio ou descrever um problema simples.
+3. **Reutilização** — *"Use the five expressions I learned today. Ask me questions so I have to use them."*
+4. **Correção** — peça os 3 erros mais importantes e repita cada frase corrigida.
 
 ---
 
-## 6. Caixa de ferramentas (todas gratuitas)
+## 🟡 Meses 5-6
+*Fase 2 — Decolagem · A2 → B1*
 
-| Categoria | Ferramenta | Link |
-|---|---|---|
-| Curso estruturado | USA Learns | usalearns.org |
-| Imersão (listening + shadowing) | Language Reactor (extensão Chrome) | languagereactor.com |
-| Pronúncia | YouGlish | youglish.com |
-| Pronúncia (alternativa) | Microfone do Google Translate | — |
-| Vocabulário/memória | Anki | — |
-| Escrita/fala | ChatGPT (plano grátis) | — |
-| Notícias de segurança | The Hacker News, Krebs on Security, Schneier on Security | — |
-| Podcasts de segurança | Darknet Diaries, Risky Business | — |
-| Canais gerais de inglês | Espresso English, EngVid, Rachel's English | — |
+### 1️⃣ Revisão relâmpago
+⏱ **10 min** · 🧰 Anki
+Revise as frases de ontem falando em voz alta.
+
+### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
+⏱ **45 min** · 🧰 artigos e vídeos curtos em inglês geral (trocando o USA Learns)
+Escolha 5 frases realmente úteis do que você viu ou leu. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+
+### 3️⃣ Anki — frases novas do dia
+⏱ **15 min** · 🧰 Anki
+Cerca de 30% das frases já pode ser vocabulário técnico de segurança da informação. Nunca mais que 5 frases novas por dia.
+
+> ☕ *Pausa de ~10 min*
+
+### 4️⃣ Listening + Shadowing intensivo (anime)
+⏱ **50 min** · 🧰 Language Reactor — shonen popular, contexto visual ajuda muito o entendimento, ex. My Hero Academia, Demon Slayer
+Confira disponibilidade em inglês na Netflix; se não tiver, procure clipes legendados no YouTube. Mesmas 3 passagens, repetindo 3-5 frases escolhidas com "S" até sair natural.
+
+### 5️⃣ Listening solto
+⏱ **15 min** · 🧰 canais gerais + 1x por semana algo leve de segurança (ex. um vídeo curto do NetworkChuck)
+Ouça sem pausar e sem legenda.
+
+> ☕ *Pausa de ~10 min*
+
+### 6️⃣ Leitura
+⏱ **15 min** · 🧰 notícia curta e simples de segurança (ex. Hacker News em formato resumido)
+Leia sem traduzir tudo mentalmente.
+
+### 7️⃣ Writing
+⏱ **20 min** · 🧰 ChatGPT
+5-10 frases, correção dos 3 erros principais, reescrita completa.
+
+### 8️⃣ Grammar reativa
+⏱ **10 min** · 🧰 —
+Só a regra que travou no dia, seguida de 5 frases suas.
+
+> ☕ *Pausa de ~10 min*
+
+### 9️⃣ Speaking com IA
+⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
+1. **Conversa simples** — sobre o dia, sem interrupções pra corrigir.
+2. **Cenário prático** — comece a incluir explicar conceitos simples de segurança em inglês, como *"Imagine that you're asking me what phishing is."*
+3. **Reutilização** — use as 5 frases do dia numa conversa guiada pela IA.
+4. **Correção** — os 3 erros mais importantes, repita cada frase corrigida.
 
 ---
 
-## 7. Regra de sotaque
+## 🟡 Meses 7-8
+*Fase 2 — Decolagem · B1*
 
-Escolha **um só** agora (americano ou britânico) e mantenha para todo estudo intensivo. Para lazer, qualquer sotaque serve. Misturar sotaque em fase intensiva confunde o ouvido nos primeiros meses.
+### 1️⃣ Revisão relâmpago
+⏱ **10 min** · 🧰 Anki
+Revise as frases de ontem falando em voz alta.
+
+### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
+⏱ **45 min** · 🧰 documentação e tutoriais técnicos em inglês (área de segurança/TI)
+Escolha 5 frases realmente úteis do material técnico. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+
+### 3️⃣ Anki — frases novas do dia
+⏱ **15 min** · 🧰 Anki
+A maioria das frases já é vocabulário técnico, mais expressões de reunião de trabalho. Nunca mais que 5 novas por dia.
+
+> ☕ *Pausa de ~10 min*
+
+### 4️⃣ Listening + Shadowing intensivo (anime)
+⏱ **50 min** · 🧰 Language Reactor — ritmo mais rápido, mais gíria, ex. Jujutsu Kaisen, Attack on Titan
+Mesmas 3 passagens, repetindo as frases escolhidas até sair natural.
+
+### 5️⃣ Listening solto
+⏱ **15 min** · 🧰 metade conteúdo geral, metade segurança (ex. trechos de Darknet Diaries)
+Ouça sem pausar e sem legenda.
+
+> ☕ *Pausa de ~10 min*
+
+### 6️⃣ Leitura
+⏱ **15 min** · 🧰 The Hacker News, artigos completos, sem simplificação
+Leia sem traduzir tudo mentalmente; se travar numa palavra, siga em frente.
+
+### 7️⃣ Writing
+⏱ **20 min** · 🧰 ChatGPT
+5-10 frases, correção dos 3 erros principais, reescrita completa.
+
+### 8️⃣ Grammar reativa
+⏱ **10 min** · 🧰 —
+Só a regra que travou no dia, seguida de 5 frases suas.
+
+> ☕ *Pausa de ~10 min*
+
+### 9️⃣ Speaking com IA
+⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
+1. **Conversa simples** — sobre o dia, sem interrupções.
+2. **Cenário prático** — vira simulação de reunião técnica, ex. *"Imagine that I am presenting a security incident report to my team."*
+3. **Reutilização** — use as 5 frases do dia numa conversa guiada pela IA.
+4. **Correção** — os 3 erros mais importantes, repita cada frase corrigida.
 
 ---
 
-## 8. Checkpoints — a cada 4-6 semanas
+## 🔵 Meses 9-10
+*Fase 3 — Consolidação · B1 → B2*
 
-1. Faça o teste gratuito **EF SET** ou **Cambridge** — te dá posição objetiva no CEFR.
+### 1️⃣ Revisão relâmpago
+⏱ **10 min** · 🧰 Anki
+Revise as frases de ontem falando em voz alta.
+
+### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
+⏱ **45 min** · 🧰 material de certificação em inglês (Security+, CySA+ etc.), se for seu plano
+Escolha 5 frases realmente úteis do material. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+
+### 3️⃣ Anki — frases novas do dia
+⏱ **15 min** · 🧰 Anki
+Foco total em vocabulário técnico e termos de entrevista de emprego. Nunca mais que 5 frases novas por dia.
+
+> ☕ *Pausa de ~10 min*
+
+### 4️⃣ Listening + Shadowing intensivo (anime)
+⏱ **50 min** · 🧰 Language Reactor — registro mais formal/dramático, vocabulário variado, ex. Death Note, Fullmetal Alchemist: Brotherhood
+Mesmas 3 passagens, repetindo as frases escolhidas até sair natural.
+
+### 5️⃣ Listening solto
+⏱ **15 min** · 🧰 majoritariamente podcasts de segurança (Darknet Diaries, Risky Business)
+Ouça sem pausar e sem legenda.
+
+> ☕ *Pausa de ~10 min*
+
+### 6️⃣ Leitura
+⏱ **15 min** · 🧰 Krebs on Security, Schneier on Security
+Leia sem apoio de tradução; se travar numa palavra, siga em frente.
+
+### 7️⃣ Writing
+⏱ **20 min** · 🧰 ChatGPT
+5-10 frases, correção dos 3 erros principais, reescrita completa.
+
+### 8️⃣ Grammar reativa
+⏱ **10 min** · 🧰 —
+Só a regra que travou no dia, seguida de 5 frases suas.
+
+> ☕ *Pausa de ~10 min*
+
+### 9️⃣ Speaking com IA
+⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
+1. **Conversa simples** — sobre o dia, sem interrupções.
+2. **Cenário prático** — vira simulação de entrevista de emprego (técnica + comportamental), ex. *"Imagine that I am interviewing you for a cybersecurity analyst position."*
+3. **Reutilização** — use as 5 frases do dia numa conversa guiada pela IA.
+4. **Correção** — os 3 erros mais importantes, repita cada frase corrigida.
+
+---
+
+## 🔵 Meses 11-12
+*Fase 3 — Consolidação · B2*
+
+### 1️⃣ Revisão relâmpago
+⏱ **10 min** · 🧰 Anki
+Revise as frases de ontem falando em voz alta.
+
+### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
+⏱ **45 min** · 🧰 material de certificação ou documentação real do seu trabalho
+Escolha 5 frases realmente úteis do que você está estudando ou usando no trabalho. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+
+### 3️⃣ Anki — frases novas do dia
+⏱ **15 min** · 🧰 Anki
+Fase de manutenção — só entra vocabulário genuinamente novo que aparecer no seu dia a dia.
+
+> ☕ *Pausa de ~10 min*
+
+### 4️⃣ Listening + Shadowing intensivo (anime)
+⏱ **50 min** · 🧰 Language Reactor — livre escolha, o nível de dificuldade importa menos que sua vontade de continuar assistindo
+Mesmas 3 passagens, repetindo as frases escolhidas até sair natural.
+
+### 5️⃣ Listening solto
+⏱ **15 min** · 🧰 podcasts de segurança em ritmo normal, sem apoio de legenda
+Ouça sem pausar e sem legenda.
+
+> ☕ *Pausa de ~10 min*
+
+### 6️⃣ Leitura
+⏱ **15 min** · 🧰 artigos técnicos completos, sem apoio
+Leia normalmente, no seu ritmo de trabalho real.
+
+### 7️⃣ Writing
+⏱ **20 min** · 🧰 ChatGPT
+5-10 frases, correção dos 3 erros principais, reescrita completa.
+
+### 8️⃣ Grammar reativa
+⏱ **10 min** · 🧰 —
+Só a regra que travou no dia, seguida de 5 frases suas.
+
+> ☕ *Pausa de ~10 min*
+
+### 9️⃣ Speaking com IA
+⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
+1. **Conversa simples** — sobre o dia, sem interrupções.
+2. **Cenário prático** — entrevista completa simulada, do início ao fim, com feedback detalhado ao final.
+3. **Reutilização** — use as 5 frases do dia numa conversa guiada pela IA.
+4. **Correção** — os 3 erros mais importantes, repita cada frase corrigida.
+
+---
+
+## 🧰 Caixa de ferramentas (todas gratuitas)
+
+| | |
+|---|---|
+| 📘 Curso estruturado | [USA Learns](https://www.usalearns.org/) |
+| 🎬 Imersão | [Language Reactor](https://www.languagereactor.com/) (extensão Chrome) |
+| 🗣️ Pronúncia | [YouGlish](https://youglish.com/) |
+| 🎤 Pronúncia (alternativa) | Microfone do Google Translate |
+| 🧠 Vocabulário/memória | Anki |
+| ✍️ Escrita/fala | ChatGPT (plano grátis) |
+| 📰 Notícias de segurança | The Hacker News, Krebs on Security, Schneier on Security |
+| 🎧 Podcasts de segurança | Darknet Diaries, Risky Business |
+| 📺 Canais gerais de inglês | Espresso English, EngVid, Rachel's English |
+
+---
+
+## 🗣️ Regra de sotaque
+
+Escolha **um só** agora (americano ou britânico) e mantenha para todo estudo intensivo. Para lazer, qualquer sotaque serve.
+
+---
+
+## ✅ Checkpoints — a cada 4-6 semanas
+
+1. Faça o teste gratuito **EF SET** ou **Cambridge**.
 2. Grave um áudio de 3-5 min falando livremente sobre seu dia ou trabalho.
 3. Compare com a gravação do checkpoint anterior.
-4. Ajuste o ritmo: se estiver adiantado, avance o conteúdo técnico mais cedo; se atrasado, estique a fase — nunca pule etapa.
+4. Ajuste o ritmo: se estiver adiantado, avance o conteúdo técnico mais cedo; se atrasado, estique a fase — **nunca pule etapa**.
 
 ---
 
-## 9. Regras de ouro
+## 🏆 Regras de ouro
 
-- Consistência vale mais que intensidade. Se um dia 4h for impossível, faça 1h e mantenha a sequência — não deixe o "tudo ou nada" quebrar o hábito.
-- Erro é dado, não vergonha. Fale mesmo errado, sempre.
-- Cansaço trava aprendizado. Se a mente saturar, pare e volte no dia seguinte.
-- Todo mês, compare "o que eu entendo hoje" com 30 dias atrás — não "quanto estudei".
-- Nem todo anime que você gosta vai estar disponível dublado/legendado em inglês na Netflix ou YouTube. Confirme antes de montar a semana; se não achar, qualquer outro do mesmo nível de dificuldade serve.
+- **Consistência vale mais que intensidade.** Se um dia 4h for impossível, faça 1h e mantenha a sequência.
+- **Erro é dado, não vergonha.** Fale mesmo errado, sempre.
+- **Cansaço trava aprendizado.** Se a mente saturar, pare e volte no dia seguinte.
+- Todo mês, compare *"o que eu entendo hoje"* com 30 dias atrás — não *"quanto estudei"*.
