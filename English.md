@@ -34,21 +34,15 @@ Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente útei
 - Pegue as 5 a 10 frases selecionadas no curso e coloque manualmente, focando em vocabulário geral de sobrevivência. Frente: a frase em português. Verso: a frase completa em inglês (nunca palavra solta)
 
 ### 4️⃣ Listening + Shadowing intensivo
-⏱ **50 min** · 🧰 Language Reactor (Chrome, Netflix/YouTube) — anime de ritmo calmo e fala pausada.
+⏱ **50 min** · 🧰 https://elllo.org/levels/A1-English-Lessons/index.html 
 - Faça em 3 passagens:
  - primeira sem parar, pra sentir quanto você entende.
  - segunda pausando em palavras/expressões importantes, escolhendo 3-5 frases pra guardar;
- - terceira sem legenda, pra notar quanto já reconhece. Repita as 3-5 frases escolhidas com a tecla "S" (repetir cena) até sair natural.
+ - terceira sem legenda, e tentando imitar ou responder.
 
 ### 5️⃣ Listening solto
-⏱ **15 min** · 🧰 canais gerais — Espresso English, EngVid, Rachel's English
+⏱ **15 min** · 🧰 Musicas
 Ouça sem pausar e sem legenda. O objetivo não é entender tudo, é acostumar o ouvido ao fluxo real da língua.
-
-> ☕ *Pausa de ~10 min*
-
-### 6️⃣ Leitura
-⏱ **15 min** · 🧰 graded readers A1
-Leia sem traduzir tudo mentalmente. Se travar numa palavra, siga em frente — só volte se ela se repetir.
 
 ### 7️⃣ Writing
 ⏱ **20 min** · 🧰 ChatGPT
@@ -57,8 +51,6 @@ Escreva 5-10 frases sobre o seu dia. Depois peça exatamente isto pra IA: *"Corr
 ### 8️⃣ Grammar reativa
 ⏱ **10 min** · 🧰 —
 Estude só a regra que te travou durante o dia. Depois de entender, produza 5 frases suas na hora.
-
-> ☕ *Pausa de ~10 min*
 
 ### 9️⃣ Speaking com IA
 ⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
