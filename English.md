@@ -1,344 +1,1222 @@
-# 🎯 Guia de Estudo de Inglês — A1 → B1/B2 em 12 meses
-**Foco:** destravar conversação · **Área:** Segurança da Informação · **Custo:** R$ 0
+# Guia de Estudo de Inglês — A1 → B1/B2 em 12 Meses
 
-> Estrutura fixa em todos os blocos: bloco contínuo de **~4h10min**, 9 atividades na ordem abaixo, com pausa de ~10 min depois dos itens 3, 5 e 8. O que muda a cada bimestre é o *conteúdo* de cada atividade — por isso cada período tem sua rotina completa a seguir.
+## 1. Objetivo
 
----
+Desenvolver competência comunicativa em inglês com prioridade para:
 
-### 📑 Sumário
+- conversação espontânea;
+- compreensão auditiva;
+- pronúncia e inteligibilidade;
+- vocabulário funcional;
+- escrita funcional;
+- inglês profissional;
+- inglês técnico voltado para TI e cibersegurança.
 
-- [Meses 1-2](#-meses-1-2)
-- [Meses 3-4](#-meses-3-4)
-- [Meses 5-6](#-meses-5-6)
-- [Meses 7-8](#-meses-7-8)
-- [Meses 9-10](#-meses-9-10)
-- [Meses 11-12](#-meses-11-12)
-- [Caixa de ferramentas](#-caixa-de-ferramentas-todas-gratuitas)
-- [Regra de sotaque](#-regra-de-sotaque)
-- [Checkpoints](#-checkpoints--a-cada-4-6-semanas)
-- [Regras de ouro](#-regras-de-ouro)
+A meta é progredir aproximadamente de **A1 → A2 → B1 → B1+/B2**, utilizando o CEFR como referência e validando a evolução por desempenho, não apenas por quantidade de horas estudadas.
 
----
-### 1. Revisão relâmpago
-- ⏱ **10 min** · 🧰 Anki
-  
-  - Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
-
-### 2. Curso estruturado (gramática + vocabulário guiado)
-- ⏱ **45 min** · 🧰 *The Complete English Megacourse: From Zero to Conversational* (Toon Riot Academy)
-  
-  - continuando de onde já está
-  - Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis do que você viu. Para cada uma: escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua usando a mesma estrutura.
-  - Pegue as 5 a 10 frases selecionadas no curso e coloque manualmente, focando em vocabulário geral de sobrevivência. Frente: a frase em português. Verso: a frase completa em inglês (nunca palavra solta)
-
-### 3. Listening + Shadowing intensivo
-- ⏱ **50 min** · 🧰 https://elllo.org/levels/A1-English-Lessons/index.html
-  
-  - Faça em 3 passagens: primeira sem parar, pra sentir quanto você entende.
-  - segunda pausando em palavras/expressões importantes, escolhendo 5 frases que pode usar no seu dia e inclua a regra que te travou durante o dia ou durante o curso.
-  - terceira sem legenda, respondendo do seu jeito.
-  - Depois peça exatamente isto pra IA: *"Corrija meu texto. Mostre apenas os 3 erros mais importantes e explique de forma simples."* Reescreva o texto inteiro incorporando a correção.
-
-### 4. Listening solto
-- ⏱ **15 min** · 🧰 Musicas
-  
-  - Ouça sem pausar e sem legenda.
-  - O objetivo não é entender tudo, é acostumar o ouvido ao fluxo real da língua.
-
-### 5. Speaking com IA
-- ⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
-  
-  - **Conversa simples:** peça pro GPT perguntar sobre seu dia, com temas simples como comida, rotina e família. Deixe fluir sem parar pra corrigir.
-  - **Cenário prático:** simulações bem básicas do dia a dia, como pedir comida ou se apresentar.
-  - **Reutilização:** diga: *"Use the five expressions I learned today. Ask me questions so I have to use them."*
-  - **Correção: ** diga: *"Correct my three most important mistakes. Give me the natural version and ask me to say each sentence again."* Depois crie mais uma frase sua usando a correção.
+> **Importante:** B2 em 12 meses é uma meta, não uma garantia. O nível final deve ser determinado pelo desempenho real.
 
 ---
 
-## 🟢 Meses 3-4
-*Fase 1 — Fundação · A1 → A2*
+# 2. Princípio central do método
 
-### 1️⃣ Revisão relâmpago
-⏱ **10 min** · 🧰 Anki
-Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
+O método segue o ciclo:
 
-### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 *The Complete English Megacourse: From Zero to Conversational* — meta é terminar o curso até o fim deste bimestre
-Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis. Escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+**Input → compreensão → recuperação → produção → feedback → correção → repetição → transferência → espaçamento**
 
-### 3️⃣ Anki — frases novas do dia
-⏱ **15 min** · 🧰 Anki
-Continue com vocabulário geral, mas comece a incluir 1-2 termos de TI/segurança por semana (ex. "password", "update"). Nunca mais que 5 frases novas por dia.
+### Na prática
 
-> ☕ *Pausa de ~10 min*
+1. Você recebe inglês compreensível.
+2. Presta atenção em vocabulário, estruturas e pronúncia.
+3. Tenta recuperar o conhecimento sem consultar.
+4. Usa o inglês falando ou escrevendo.
+5. Identifica erros e lacunas.
+6. Corrige os erros relevantes.
+7. Repete a forma correta.
+8. Usa a mesma estrutura em outro contexto.
+9. Reencontra o conteúdo posteriormente.
 
-### 4️⃣ Listening + Shadowing intensivo (anime)
-⏱ **50 min** · 🧰 Language Reactor — anime episódico, diálogo previsível, ex. Doraemon, Pokémon (temporadas antigas)
-Mesmas 3 passagens de sempre: sem parar, depois pausando em 3-5 frases importantes, depois sem legenda. Repita as frases escolhidas com "S" até sair natural.
+O objetivo não é simplesmente "estudar inglês".
 
-### 5️⃣ Listening solto
-⏱ **15 min** · 🧰 mesmos canais gerais — tente aumentar a velocidade de reprodução se possível
-Ouça sem pausar e sem legenda.
-
-> ☕ *Pausa de ~10 min*
-
-### 6️⃣ Leitura
-⏱ **15 min** · 🧰 graded readers A2
-Leia sem traduzir tudo mentalmente. Se travar numa palavra, siga em frente.
-
-### 7️⃣ Writing
-⏱ **20 min** · 🧰 ChatGPT
-5-10 frases sobre o seu dia, correção dos 3 erros principais, e reescrita completa incorporando a correção.
-
-### 8️⃣ Grammar reativa
-⏱ **10 min** · 🧰 —
-Estude só a regra que travou no dia, depois produza 5 frases suas.
-
-> ☕ *Pausa de ~10 min*
-
-### 9️⃣ Speaking com IA
-⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
-1. **Conversa simples** — já dá pra manter 2-3 trocas seguidas sobre um tema sem travar.
-2. **Cenário prático** — situações do cotidiano um pouco mais elaboradas, como planejar um passeio ou descrever um problema simples.
-3. **Reutilização** — *"Use the five expressions I learned today. Ask me questions so I have to use them."*
-4. **Correção** — peça os 3 erros mais importantes e repita cada frase corrigida.
+O objetivo é **conseguir fazer coisas em inglês**.
 
 ---
 
-## 🟡 Meses 5-6
-*Fase 2 — Decolagem · A2 → B1*
+# 3. Carga de estudo
 
-### 1️⃣ Revisão relâmpago
-⏱ **10 min** · 🧰 Anki
-Revise as frases de ontem falando em voz alta.
+## Plano principal
 
-### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 *The Complete English Megacourse: From INTERMEDIATE to Fluent* (Toon Riot Academy) — início do segundo curso
-Escolha 5 frases realmente úteis do que você viu. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+**≈ 3h05 por dia**
 
-### 3️⃣ Anki — frases novas do dia
-⏱ **15 min** · 🧰 Anki
-Cerca de 30% das frases já pode ser vocabulário técnico de segurança da informação. Nunca mais que 5 frases novas por dia.
+**6 dias por semana**
 
-> ☕ *Pausa de ~10 min*
+**1 dia de recuperação/descanso**
 
-### 4️⃣ Listening + Shadowing intensivo (anime)
-⏱ **50 min** · 🧰 Language Reactor — shonen popular, contexto visual ajuda muito o entendimento, ex. My Hero Academia, Demon Slayer
-Confira disponibilidade em inglês na Netflix; se não tiver, procure clipes legendados no YouTube. Mesmas 3 passagens, repetindo 3-5 frases escolhidas com "S" até sair natural.
+A carga pode ser reduzida temporariamente quando houver fadiga.
 
-### 5️⃣ Listening solto
-⏱ **15 min** · 🧰 canais gerais + 1x por semana algo leve de segurança (ex. um vídeo curto do NetworkChuck)
-Ouça sem pausar e sem legenda.
+### Dia normal
 
-> ☕ *Pausa de ~10 min*
-
-### 6️⃣ Leitura
-⏱ **15 min** · 🧰 notícia curta e simples de segurança (ex. Hacker News em formato resumido)
-Leia sem traduzir tudo mentalmente.
-
-### 7️⃣ Writing
-⏱ **20 min** · 🧰 ChatGPT
-5-10 frases, correção dos 3 erros principais, reescrita completa.
-
-### 8️⃣ Grammar reativa
-⏱ **10 min** · 🧰 —
-Só a regra que travou no dia, seguida de 5 frases suas.
-
-> ☕ *Pausa de ~10 min*
-
-### 9️⃣ Speaking com IA
-⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
-1. **Conversa simples** — sobre o dia, sem interrupções pra corrigir.
-2. **Cenário prático** — comece a incluir explicar conceitos simples de segurança em inglês, como *"Imagine that you're asking me what phishing is."*
-3. **Reutilização** — use as 5 frases do dia numa conversa guiada pela IA.
-4. **Correção** — os 3 erros mais importantes, repita cada frase corrigida.
+| Atividade | Tempo |
+|---|---:|
+| Anki + revisão oral | 15 min |
+| Curso estruturado / gramática | 30 min |
+| Listening + shadowing | 40 min |
+| Speaking com ChatGPT | 60 min |
+| Reading | 15 min |
+| Writing | 10 min |
+| Revisão final | 15 min |
+| **Total** | **3h05** |
 
 ---
 
-## 🟡 Meses 7-8
-*Fase 2 — Decolagem · B1*
+# 4. Regra de prioridade
 
-### 1️⃣ Revisão relâmpago
-⏱ **10 min** · 🧰 Anki
-Revise as frases de ontem falando em voz alta.
+Se houver pouco tempo, não tente compensar.
 
-### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 continuar *From INTERMEDIATE to Fluent*, intercalando com documentação e tutoriais técnicos em inglês (área de segurança/TI)
-Escolha 5 frases realmente úteis do curso ou do material técnico. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+### 1 atividade disponível
 
-### 3️⃣ Anki — frases novas do dia
-⏱ **15 min** · 🧰 Anki
-A maioria das frases já é vocabulário técnico, mais expressões de reunião de trabalho. Nunca mais que 5 novas por dia.
+**Speaking**
 
-> ☕ *Pausa de ~10 min*
+### 2 atividades
 
-### 4️⃣ Listening + Shadowing intensivo (anime)
-⏱ **50 min** · 🧰 Language Reactor — ritmo mais rápido, mais gíria, ex. Jujutsu Kaisen, Attack on Titan
-Mesmas 3 passagens, repetindo as frases escolhidas até sair natural.
+**Speaking + Listening**
 
-### 5️⃣ Listening solto
-⏱ **15 min** · 🧰 metade conteúdo geral, metade segurança (ex. trechos de Darknet Diaries)
-Ouça sem pausar e sem legenda.
+### 3 atividades
 
-> ☕ *Pausa de ~10 min*
+**Speaking + Listening + Curso/Gramática**
 
-### 6️⃣ Leitura
-⏱ **15 min** · 🧰 The Hacker News, artigos completos, sem simplificação
-Leia sem traduzir tudo mentalmente; se travar numa palavra, siga em frente.
+### Dia ruim — mínimo viável
 
-### 7️⃣ Writing
-⏱ **20 min** · 🧰 ChatGPT
-5-10 frases, correção dos 3 erros principais, reescrita completa.
+- 15 min Anki;
+- 30 min listening;
+- 30 min speaking.
 
-### 8️⃣ Grammar reativa
-⏱ **10 min** · 🧰 —
-Só a regra que travou no dia, seguida de 5 frases suas.
+**Total: 75 min.**
 
-> ☕ *Pausa de ~10 min*
+Não é necessário recuperar as horas perdidas no dia seguinte.
 
-### 9️⃣ Speaking com IA
-⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
-1. **Conversa simples** — sobre o dia, sem interrupções.
-2. **Cenário prático** — vira simulação de reunião técnica, ex. *"Imagine that I am presenting a security incident report to my team."*
-3. **Reutilização** — use as 5 frases do dia numa conversa guiada pela IA.
-4. **Correção** — os 3 erros mais importantes, repita cada frase corrigida.
+Consistência é mais importante que compensação.
 
 ---
 
-## 🔵 Meses 9-10
-*Fase 3 — Consolidação · B1 → B2*
+# 5. Atividade 1 — Anki + revisão oral
 
-### 1️⃣ Revisão relâmpago
-⏱ **10 min** · 🧰 Anki
-Revise as frases de ontem falando em voz alta.
+**Tempo: 15 min/dia**
 
-### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 material de certificação em inglês (Security+, CySA+ etc.), se for seu plano
-Escolha 5 frases realmente úteis do material. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+## Objetivo
 
-### 3️⃣ Anki — frases novas do dia
-⏱ **15 min** · 🧰 Anki
-Foco total em vocabulário técnico e termos de entrevista de emprego. Nunca mais que 5 frases novas por dia.
+Construir vocabulário que possa ser recuperado e utilizado durante a conversação.
 
-> ☕ *Pausa de ~10 min*
+## Como fazer
 
-### 4️⃣ Listening + Shadowing intensivo (anime)
-⏱ **50 min** · 🧰 Language Reactor — registro mais formal/dramático, vocabulário variado, ex. Death Note, Fullmetal Alchemist: Brotherhood
-Mesmas 3 passagens, repetindo as frases escolhidas até sair natural.
+### Parte 1 — Revisão
 
-### 5️⃣ Listening solto
-⏱ **15 min** · 🧰 majoritariamente podcasts de segurança (Darknet Diaries, Risky Business)
-Ouça sem pausar e sem legenda.
+Revise os cartões normalmente.
 
-> ☕ *Pausa de ~10 min*
+### Parte 2 — Produção oral
 
-### 6️⃣ Leitura
-⏱ **15 min** · 🧰 Krebs on Security, Schneier on Security
-Leia sem apoio de tradução; se travar numa palavra, siga em frente.
+Para cada frase importante:
 
-### 7️⃣ Writing
-⏱ **20 min** · 🧰 ChatGPT
-5-10 frases, correção dos 3 erros principais, reescrita completa.
+1. leia;
+2. esconda a resposta;
+3. tente produzir;
+4. fale em voz alta;
+5. crie uma segunda frase usando a mesma estrutura.
 
-### 8️⃣ Grammar reativa
-⏱ **10 min** · 🧰 —
-Só a regra que travou no dia, seguida de 5 frases suas.
+### Quantidade
 
-> ☕ *Pausa de ~10 min*
+**3–5 frases novas por dia é suficiente.**
 
-### 9️⃣ Speaking com IA
-⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
-1. **Conversa simples** — sobre o dia, sem interrupções.
-2. **Cenário prático** — vira simulação de entrevista de emprego (técnica + comportamental), ex. *"Imagine that I am interviewing you for a cybersecurity analyst position."*
-3. **Reutilização** — use as 5 frases do dia numa conversa guiada pela IA.
-4. **Correção** — os 3 erros mais importantes, repita cada frase corrigida.
+Não existe obrigação de atingir uma quantidade mínima.
 
----
+### Regra principal
 
-## 🔵 Meses 11-12
-*Fase 3 — Consolidação · B2*
+Não adicionar uma palavra apenas porque ela é interessante.
 
-### 1️⃣ Revisão relâmpago
-⏱ **10 min** · 🧰 Anki
-Revise as frases de ontem falando em voz alta.
+Priorizar:
 
-### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 material de certificação ou documentação real do seu trabalho
-Escolha 5 frases realmente úteis do que você está estudando ou usando no trabalho. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+- frases;
+- collocations;
+- verbos frequentes;
+- estruturas reutilizáveis;
+- expressões necessárias para comunicação.
 
-### 3️⃣ Anki — frases novas do dia
-⏱ **15 min** · 🧰 Anki
-Fase de manutenção — só entra vocabulário genuinamente novo que aparecer no seu dia a dia.
+### Exemplo
 
-> ☕ *Pausa de ~10 min*
+Em vez de:
 
-### 4️⃣ Listening + Shadowing intensivo (anime)
-⏱ **50 min** · 🧰 Language Reactor — livre escolha, o nível de dificuldade importa menos que sua vontade de continuar assistindo
-Mesmas 3 passagens, repetindo as frases escolhidas até sair natural.
+> investigate = investigar
 
-### 5️⃣ Listening solto
-⏱ **15 min** · 🧰 podcasts de segurança em ritmo normal, sem apoio de legenda
-Ouça sem pausar e sem legenda.
+Preferir:
 
-> ☕ *Pausa de ~10 min*
+> I need to investigate what happened.
 
-### 6️⃣ Leitura
-⏱ **15 min** · 🧰 artigos técnicos completos, sem apoio
-Leia normalmente, no seu ritmo de trabalho real.
+Depois criar:
 
-### 7️⃣ Writing
-⏱ **20 min** · 🧰 ChatGPT
-5-10 frases, correção dos 3 erros principais, reescrita completa.
+> I need to investigate the problem.
 
-### 8️⃣ Grammar reativa
-⏱ **10 min** · 🧰 —
-Só a regra que travou no dia, seguida de 5 frases suas.
+> We are investigating the incident.
 
-> ☕ *Pausa de ~10 min*
-
-### 9️⃣ Speaking com IA
-⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
-1. **Conversa simples** — sobre o dia, sem interrupções.
-2. **Cenário prático** — entrevista completa simulada, do início ao fim, com feedback detalhado ao final.
-3. **Reutilização** — use as 5 frases do dia numa conversa guiada pela IA.
-4. **Correção** — os 3 erros mais importantes, repita cada frase corrigida.
+> The security team investigated the alert.
 
 ---
 
-## 🧰 Caixa de ferramentas (todas gratuitas)
+# 6. Atividade 2 — Curso estruturado / gramática
 
-| | |
+**Tempo: 30 min/dia**
+
+Curso principal:
+
+**Toon Riot Academy — The Complete English Megacourse: From Zero to Conversational**
+
+## Objetivo
+
+Fornecer uma sequência estruturada de:
+
+- gramática;
+- vocabulário;
+- construção de frases;
+- pronúncia;
+- estruturas fundamentais.
+
+## Como estudar
+
+Não assistir passivamente.
+
+Para cada aula:
+
+1. assistir;
+2. identificar estruturas importantes;
+3. selecionar poucas frases úteis;
+4. falar as frases;
+5. criar exemplos próprios;
+6. adicionar ao Anki apenas o que realmente merece revisão;
+7. tentar utilizar a estrutura durante o speaking.
+
+### Regra
+
+O curso é uma ferramenta de estruturação.
+
+**Não é o centro do método.**
+
+O conhecimento precisa ser transferido para produção.
+
+---
+
+# 7. Atividade 3 — Listening + Shadowing
+
+**Tempo: 40 min/dia**
+
+## Objetivo
+
+Desenvolver:
+
+- compreensão auditiva;
+- reconhecimento de palavras em velocidade natural;
+- ritmo;
+- entonação;
+- pronúncia;
+- processamento automático.
+
+## Método de 3 etapas
+
+### Etapa 1 — Compreensão
+
+Ouça sem olhar o texto.
+
+Pergunte:
+
+- O que eu entendi?
+- Qual é o assunto?
+- Quais palavras reconheci?
+
+### Etapa 2 — Transcript
+
+Ouça novamente utilizando o transcript.
+
+Identifique:
+
+- palavras desconhecidas;
+- reductions;
+- connected speech;
+- estruturas gramaticais;
+- pronúncia.
+
+### Etapa 3 — Shadowing
+
+Escolha trechos curtos.
+
+1. Ouça.
+2. Pause.
+3. Repita.
+4. Ouça novamente.
+5. Repita acompanhando o áudio.
+6. Grave sua voz quando possível.
+7. Compare.
+8. Repita.
+
+Não é necessário fazer shadowing durante os 40 minutos inteiros.
+
+Parte do tempo deve ser dedicada à compreensão.
+
+## Progressão
+
+### Meses 1–2
+
+ELLLO A1 / conteúdo muito simples.
+
+### Meses 3–4
+
+ELLLO A2 + conteúdo gradualmente mais natural.
+
+### Meses 5–6
+
+Conteúdo real mais simples.
+
+### Meses 7–8
+
+Conteúdo real + tecnologia.
+
+### Meses 9–10
+
+Conteúdo profissional e técnico.
+
+### Meses 11–12
+
+Conteúdo predominantemente real e profissional.
+
+---
+
+# 8. Anime
+
+Anime é **material complementar**, não material principal.
+
+Pode ser utilizado para:
+
+- exposição ao inglês;
+- compreensão auditiva;
+- ritmo;
+- expressões;
+- entretenimento.
+
+Mas não deve substituir:
+
+- inglês cotidiano real;
+- conteúdo profissional;
+- conteúdo técnico;
+- conversação.
+
+### Regra
+
+Quanto maior o nível, maior deve ser a proporção de conteúdo real.
+
+---
+
+# 9. Atividade 4 — Speaking com ChatGPT
+
+**Tempo: 60 min/dia**
+
+Esta é a atividade central do método.
+
+O ChatGPT deve funcionar como:
+
+- interlocutor;
+- simulador de situações;
+- corretor;
+- treinador;
+- gerador de perguntas;
+- ferramenta de recuperação ativa.
+
+## Estrutura dos 60 minutos
+
+### Bloco 1 — Conversação livre
+
+**15 min**
+
+Converse normalmente.
+
+Não interromper constantemente para corrigir.
+
+Objetivo:
+
+**fluência.**
+
+---
+
+### Bloco 2 — Situação prática
+
+**15 min**
+
+Simule situações reais.
+
+Exemplos:
+
+- entrevista de emprego;
+- reunião;
+- apresentação;
+- conversa com colega;
+- suporte técnico;
+- explicar um problema;
+- explicar um incidente;
+- pedir informação;
+- discordar educadamente;
+- defender uma opinião.
+
+---
+
+### Bloco 3 — Correção
+
+**15 min**
+
+O ChatGPT identifica apenas os erros:
+
+- importantes;
+- recorrentes;
+- que prejudicam compreensão;
+- que representam estruturas relevantes.
+
+Não corrigir absolutamente tudo.
+
+Para cada erro:
+
+**Erro → correção → explicação curta → repetição**
+
+Exemplo:
+
+> ❌ Yesterday I go to work.
+
+> ✅ Yesterday I went to work.
+
+Depois:
+
+> "Repita a frase correta."
+
+Depois:
+
+> "Agora crie outra frase usando o mesmo padrão."
+
+---
+
+### Bloco 4 — Reutilização
+
+**15 min**
+
+Utilizar novamente as estruturas corrigidas em novos contextos.
+
+Objetivo:
+
+**transferência.**
+
+Se o erro foi:
+
+> I go yesterday.
+
+Criar:
+
+> I went to the office yesterday.
+
+Depois:
+
+> I went to the gym yesterday.
+
+Depois:
+
+> I went to a meeting yesterday.
+
+A estrutura precisa aparecer novamente até se tornar automática.
+
+---
+
+# 10. Protocolo permanente do ChatGPT
+
+Durante o speaking, utilizar quatro modos.
+
+## Conversation Mode
+
+O ChatGPT conversa normalmente.
+
+Não interromper a cada erro.
+
+Prioridade:
+
+**fluência e comunicação.**
+
+---
+
+## Correction Mode
+
+O ChatGPT corrige apenas erros relevantes.
+
+Prioridade:
+
+**accuracy.**
+
+---
+
+## Active Recall
+
+Depois da correção, o aluno precisa produzir a frase correta sem simplesmente copiar.
+
+---
+
+## Transfer
+
+O aluno deve usar a mesma estrutura em uma situação diferente.
+
+---
+
+## Recycling
+
+Erros recorrentes devem voltar posteriormente.
+
+Exemplo:
+
+Se o aluno erra constantemente:
+
+> "He go"
+
+o erro deve ser revisitado em conversações futuras.
+
+---
+
+# 11. Regra de correção
+
+Não tentar corrigir tudo.
+
+Priorizar nesta ordem:
+
+1. erros que impedem compreensão;
+2. erros recorrentes;
+3. estruturas fundamentais;
+4. erros muito frequentes;
+5. erros que aparecem no objetivo profissional.
+
+Fluência e precisão devem ser treinadas separadamente.
+
+Durante a conversa:
+
+**fluência primeiro.**
+
+Durante a correção:
+
+**precisão.**
+
+---
+
+# 12. Atividade 5 — Reading
+
+**Tempo: 15 min/dia**
+
+## Meses 1–2
+
+Graded readers simples.
+
+## Meses 3–4
+
+Textos A2.
+
+## Meses 5–6
+
+Textos B1.
+
+## Meses 7–8
+
+Notícias, blogs e documentação simples.
+
+## Meses 9–10
+
+Documentação técnica e conteúdo profissional.
+
+## Meses 11–12
+
+Conteúdo técnico próximo do que será utilizado profissionalmente.
+
+### Regra
+
+Não procurar traduzir cada palavra.
+
+Tentar compreender:
+
+- ideia principal;
+- contexto;
+- relação entre as frases;
+- vocabulário importante.
+
+---
+
+# 13. Atividade 6 — Writing
+
+**Tempo: 10 min/dia**
+
+O writing é secundário em relação ao speaking, mas não deve ser eliminado.
+
+## Exercício
+
+Escrever:
+
+**5–8 frases por dia.**
+
+Temas:
+
+- rotina;
+- trabalho;
+- opiniões;
+- acontecimentos;
+- tecnologia;
+- segurança;
+- problemas técnicos.
+
+Depois:
+
+1. corrigir;
+2. identificar os 3 erros mais importantes;
+3. reescrever;
+4. ler em voz alta;
+5. tentar utilizar as estruturas no speaking.
+
+---
+
+# 14. Atividade 7 — Revisão final
+
+**Tempo: 15 min**
+
+No final do estudo:
+
+Pergunte:
+
+- O que aprendi hoje?
+- Quais 3 frases quero conseguir utilizar?
+- Qual erro apareceu?
+- Qual estrutura preciso reutilizar?
+- O que devo revisar amanhã?
+
+Selecionar poucas informações.
+
+A revisão final não deve virar outra sessão longa de estudo.
+
+---
+
+# 15. Meses 1–2 — A1
+
+## Objetivo
+
+Construir a base necessária para comunicação simples.
+
+### Prioridades
+
+- verb to be;
+- present simple;
+- past simple básico;
+- perguntas;
+- negativas;
+- pronomes;
+- artigos;
+- preposições básicas;
+- números;
+- horários;
+- rotina;
+- família;
+- trabalho;
+- necessidades básicas.
+
+### Speaking
+
+Responder perguntas simples.
+
+Exemplos:
+
+- What do you do?
+- Where do you live?
+- What do you do every day?
+- What did you do yesterday?
+- What do you like?
+- What are you learning?
+
+### Listening
+
+Conteúdo A1.
+
+### Reading
+
+Graded readers.
+
+### Technical English
+
+Introdução mínima.
+
+Exemplo:
+
+> computer  
+> network  
+> server  
+> password  
+> account  
+> security
+
+Não tentar estudar cibersegurança profundamente ainda.
+
+---
+
+# 16. Meses 3–4 — A1 → A2
+
+## Objetivo
+
+Aumentar comprimento e espontaneidade das respostas.
+
+### Speaking
+
+Passar de:
+
+> "I work in IT."
+
+para:
+
+> "I work in IT. I usually work with computers and systems. I am currently learning more about cybersecurity."
+
+### Listening
+
+Conteúdo A2.
+
+### Reading
+
+Textos curtos A2.
+
+### Writing
+
+Pequenos parágrafos.
+
+### Anime
+
+Pode ser utilizado como exposição complementar.
+
+### Technical English
+
+Introduzir pequenas quantidades.
+
+Exemplo:
+
+> network security  
+> security incident  
+> suspicious email  
+> user account  
+> access control
+
+---
+
+# 17. Meses 5–6 — A2 → B1
+
+## Objetivo
+
+Começar a conversar de maneira mais espontânea.
+
+### Curso
+
+Começar progressivamente o conteúdo:
+
+**Intermediate → Fluent**
+
+### Speaking
+
+Praticar:
+
+- explicar experiências;
+- explicar problemas;
+- contar histórias;
+- descrever processos;
+- dar opiniões;
+- fazer perguntas;
+- explicar tecnologia.
+
+### Cybersecurity
+
+Passar aproximadamente para:
+
+**70% inglês geral / 30% inglês técnico**
+
+no vocabulário específico.
+
+### Exemplos
+
+Explicar:
+
+- phishing;
+- malware;
+- MFA;
+- password attacks;
+- vulnerabilities;
+- network security.
+
+Não é necessário utilizar inglês avançado.
+
+O objetivo é **conseguir explicar conceitos com o inglês disponível.**
+
+---
+
+# 18. Meses 7–8 — B1
+
+## Objetivo
+
+Transformar o inglês em ferramenta de comunicação.
+
+### Speaking
+
+Treinar:
+
+- reuniões;
+- apresentações;
+- discussão;
+- explicações técnicas;
+- resolução de problemas;
+- discordância;
+- negociação;
+- perguntas inesperadas.
+
+### Listening
+
+Maioria do conteúdo deve ser real.
+
+### Cybersecurity
+
+Aumentar progressivamente.
+
+Exemplos:
+
+- incident response;
+- SOC;
+- SIEM;
+- authentication;
+- vulnerability management;
+- network traffic;
+- security alerts.
+
+---
+
+# 19. Meses 9–10 — B1 → B2
+
+## Objetivo
+
+Desenvolver comunicação profissional.
+
+### Speaking
+
+Treinar:
+
+- entrevistas;
+- apresentações técnicas;
+- reuniões;
+- incident response;
+- explicar decisões;
+- defender argumentos;
+- explicar riscos;
+- discutir alternativas.
+
+### Reading
+
+Priorizar:
+
+- documentação;
+- artigos técnicos;
+- relatórios;
+- documentação de ferramentas;
+- conteúdo de certificações.
+
+### Writing
+
+Produzir:
+
+- e-mails profissionais;
+- incident summaries;
+- technical explanations;
+- pequenos relatórios;
+- documentação.
+
+---
+
+# 20. Meses 11–12 — Consolidação B2
+
+## Objetivo
+
+Utilizar o inglês de forma funcional em contexto profissional.
+
+### Speaking
+
+Simulações completas:
+
+- entrevista de emprego;
+- reunião técnica;
+- apresentação;
+- incident response;
+- troubleshooting;
+- discussão técnica;
+- conversa informal;
+- conversa profissional.
+
+### Listening
+
+Conteúdo real sem depender constantemente de legendas.
+
+### Reading
+
+Conteúdo técnico real.
+
+### Writing
+
+Textos profissionais completos.
+
+---
+
+# 21. Inglês de cibersegurança
+
+Não esperar chegar ao B1 para começar.
+
+A introdução deve acontecer desde o início, mas a complexidade deve acompanhar o nível.
+
+## A1
+
+Vocabulário básico.
+
+## A2
+
+Frases simples.
+
+## B1
+
+Explicações simples de conceitos.
+
+## B2
+
+Discussões e explicações técnicas complexas.
+
+### Regra
+
+Não estudar apenas termos técnicos.
+
+Estudar a capacidade de **falar sobre o assunto**.
+
+Conhecer:
+
+> vulnerability
+
+é diferente de conseguir dizer:
+
+> "This vulnerability could allow an attacker to gain unauthorized access to the system."
+
+O segundo é o objetivo.
+
+---
+
+# 22. Pronúncia e sotaque
+
+Escolher um modelo principal:
+
+- American English; ou
+- British English.
+
+Treinar consistência na pronúncia.
+
+Isso não significa ignorar outros sotaques.
+
+O aluno deve ouvir:
+
+- americanos;
+- britânicos;
+- indianos;
+- australianos;
+- outros sotaques relevantes.
+
+Objetivo:
+
+**inteligibilidade + compreensão de diferentes sotaques.**
+
+Não é necessário tentar reproduzir todos.
+
+---
+
+# 23. Ferramentas
+
+### Curso
+
+Toon Riot Academy.
+
+### Listening
+
+ELLLO.
+
+### Pronúncia
+
+YouGlish.
+
+### Listening com contexto
+
+Language Reactor.
+
+### Vocabulário
+
+Anki.
+
+### Speaking
+
+ChatGPT Voice.
+
+### Reading
+
+Graded readers → conteúdo real → conteúdo técnico.
+
+### Writing
+
+ChatGPT para correção e feedback.
+
+---
+
+# 24. Avaliação a cada 4 semanas
+
+Não avaliar apenas:
+
+> "Quantas horas estudei?"
+
+Avaliar:
+
+> "O que consigo fazer agora que não conseguia fazer antes?"
+
+## Teste 1 — Speaking
+
+Gravar **5 minutos espontâneos** sobre um assunto.
+
+Sem roteiro.
+
+---
+
+## Teste 2 — Conversação
+
+Fazer uma conversa de **15 minutos sem preparação**.
+
+Avaliar:
+
+- fluência;
+- compreensão;
+- vocabulário;
+- gramática;
+- capacidade de responder;
+- capacidade de manter a conversa.
+
+---
+
+## Teste 3 — Listening
+
+Ouvir um conteúdo adequado ao nível.
+
+Registrar:
+
+- compreensão geral;
+- detalhes compreendidos;
+- palavras desconhecidas.
+
+---
+
+## Teste 4 — Writing
+
+Escrever um pequeno texto sem tradutor.
+
+---
+
+## Teste 5 — Teste externo
+
+Periodicamente utilizar um teste de nivelamento reconhecido, como o EF SET ou outro instrumento alinhado ao CEFR.
+
+O teste externo é complementar.
+
+Não substituir avaliação prática.
+
+---
+
+# 25. Critério de progressão
+
+Não avançar apenas porque terminou determinado número de aulas.
+
+Avançar quando o desempenho demonstrar que as competências principais estão suficientemente consolidadas.
+
+## A1 → A2
+
+Você consegue:
+
+- falar sobre rotina;
+- responder perguntas comuns;
+- descrever pessoas e situações;
+- falar sobre passado e futuro simples;
+- manter conversas curtas.
+
+## A2 → B1
+
+Você consegue:
+
+- conversar durante vários minutos;
+- explicar experiências;
+- contar acontecimentos;
+- expressar opiniões simples;
+- explicar problemas;
+- compreender conteúdo relativamente simples.
+
+## B1 → B2
+
+Você consegue:
+
+- conversar espontaneamente;
+- explicar ideias complexas;
+- argumentar;
+- discordar;
+- participar de reuniões;
+- apresentar assuntos;
+- compreender grande parte do conteúdo profissional;
+- adaptar a linguagem ao contexto.
+
+---
+
+# 26. Métricas principais
+
+Acompanhar mensalmente:
+
+| Métrica | Objetivo |
 |---|---|
-| 📘 Curso estruturado (já comprado) | [From Zero to Conversational](https://www.udemy.com/course-dashboard-redirect/?course_id=1526882) → [From Intermediate to Fluent](https://www.udemy.com/course-dashboard-redirect/?course_id=2749796) (Toon Riot Academy) |
-| 🎬 Imersão | [Language Reactor](https://www.languagereactor.com/) (extensão Chrome) |
-| 🗣️ Pronúncia | [YouGlish](https://youglish.com/) |
-| 🎤 Pronúncia (alternativa) | Microfone do Google Translate |
-| 🧠 Vocabulário/memória | Anki |
-| ✍️ Escrita/fala | ChatGPT (plano grátis) |
-| 📰 Notícias de segurança | The Hacker News, Krebs on Security, Schneier on Security |
-| 🎧 Podcasts de segurança | Darknet Diaries, Risky Business |
-| 📺 Canais gerais de inglês | Espresso English, EngVid, Rachel's English |
+| Minutos falando | Aumentar |
+| Tempo de conversa sem português | Aumentar |
+| Compreensão auditiva | Aumentar |
+| Erros recorrentes | Reduzir |
+| Vocabulário reutilizado | Aumentar |
+| Comprimento das respostas | Aumentar |
+| Capacidade de improvisação | Aumentar |
+| Compreensão sem legenda | Aumentar |
+| Capacidade de explicar assuntos técnicos | Aumentar |
+
+As horas estudadas continuam sendo registradas, mas são uma **métrica de processo**, não de competência.
 
 ---
 
-## 🗣️ Regra de sotaque
+# 27. Regra de qualidade
 
-Escolha **um só** agora (americano ou britânico) e mantenha para todo estudo intensivo. Para lazer, qualquer sotaque serve.
+Uma sessão de estudo só é considerada produtiva quando houve algum tipo de produção ou recuperação.
+
+### Estudo passivo
+
+> assistir 30 minutos de vídeo.
+
+Valor limitado.
+
+### Estudo ativo
+
+> assistir → identificar estrutura → lembrar → falar → corrigir → reutilizar.
+
+Valor muito maior.
 
 ---
 
-## ✅ Checkpoints — a cada 4-6 semanas
+# 28. Regra de transferência
 
-1. Faça o teste gratuito **EF SET** ou **Cambridge**.
-2. Grave um áudio de 3-5 min falando livremente sobre seu dia ou trabalho.
-3. Compare com a gravação do checkpoint anterior.
-4. Ajuste o ritmo: se estiver adiantado, avance o conteúdo técnico mais cedo; se atrasado, estique a fase — **nunca pule etapa**.
+Sempre que aprender uma estrutura nova, tentar utilizá-la em pelo menos 3 contextos.
+
+Exemplo:
+
+> I used to...
+
+1. I used to play soccer.
+2. I used to work at night.
+3. I used to live in another city.
+
+Isso reduz a dependência de memorização isolada e aumenta a capacidade de utilização.
 
 ---
 
-## 🏆 Regras de ouro
+# 29. Regra de espaçamento
 
-- **Consistência vale mais que intensidade.** Se um dia 4h for impossível, faça 1h e mantenha a sequência.
-- **Erro é dado, não vergonha.** Fale mesmo errado, sempre.
-- **Cansaço trava aprendizado.** Se a mente saturar, pare e volte no dia seguinte.
-- Todo mês, compare *"o que eu entendo hoje"* com 30 dias atrás — não *"quanto estudei"*.
+Não estudar algo uma única vez e considerar aprendido.
+
+Uma estrutura importante deve reaparecer:
+
+**hoje → amanhã → alguns dias depois → semanas depois.**
+
+O Anki ajuda nessa parte, mas a reutilização durante conversações é igualmente importante.
+
+---
+
+# 30. O que NÃO fazer
+
+- Não estudar gramática durante horas sem produzir.
+- Não adicionar dezenas de palavras diariamente ao Anki.
+- Não traduzir cada frase.
+- Não interromper toda conversa para corrigir erros.
+- Não usar anime como principal fonte de listening profissional.
+- Não depender exclusivamente de um curso.
+- Não estudar somente inglês técnico.
+- Não memorizar palavras isoladas quando uma frase seria mais útil.
+- Não compensar um dia perdido estudando o dobro no dia seguinte.
+- Não medir progresso somente por horas.
+- Não perseguir sotaque nativo.
+- Não tentar atingir B2 apenas completando aulas.
+
+---
+
+# 31. O princípio mais importante
+
+O conhecimento só é considerado realmente útil quando consegue passar por esta sequência:
+
+**Reconhecer → lembrar → produzir → utilizar espontaneamente.**
+
+Exemplo:
+
+### Nível 1
+
+Você reconhece:
+
+> "I need to investigate the issue."
+
+### Nível 2
+
+Você consegue lembrar a frase.
+
+### Nível 3
+
+Você consegue produzi-la quando solicitado.
+
+### Nível 4
+
+Você utiliza espontaneamente durante uma conversa.
+
+### Nível 5
+
+Você consegue modificar a estrutura:
+
+> I need to investigate the incident.
+
+> We need to investigate the alert.
+
+> The team is investigating what happened.
+
+O objetivo do método é chegar ao **nível 4–5**.
+
+---
+
+# 32. Fórmula final do método
+
+```text
+INPUT
+  ↓
+COMPREENSÃO
+  ↓
+ATENÇÃO À FORMA
+  ↓
+RECUPERAÇÃO ATIVA
+  ↓
+PRODUÇÃO
+  ↓
+FEEDBACK
+  ↓
+CORREÇÃO
+  ↓
+REPETIÇÃO
+  ↓
+TRANSFERÊNCIA
+  ↓
+ESPAÇAMENTO
+  ↓
+AUTOMATIZAÇÃO
+  ↓
+MAIOR COMPLEXIDADE
