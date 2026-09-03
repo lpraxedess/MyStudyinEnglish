@@ -28,7 +28,7 @@
 Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
 
 ### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 USA Learns, nível iniciante
+⏱ **45 min** · 🧰 *The Complete English Megacourse: From Zero to Conversational* (Toon Riot Academy) — continuando de onde já está
 Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis do que você viu. Para cada uma: escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua usando a mesma estrutura. Essas 5 frases vão pro Anki no próximo passo.
 
 ### 3️⃣ Anki — frases novas do dia
@@ -78,7 +78,7 @@ Estude só a regra que te travou durante o dia. Depois de entender, produza 5 fr
 Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
 
 ### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 USA Learns, seguir para o nível intermediário
+⏱ **45 min** · 🧰 *The Complete English Megacourse: From Zero to Conversational* — meta é terminar o curso até o fim deste bimestre
 Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis. Escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
 
 ### 3️⃣ Anki — frases novas do dia
@@ -128,8 +128,8 @@ Estude só a regra que travou no dia, depois produza 5 frases suas.
 Revise as frases de ontem falando em voz alta.
 
 ### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 artigos e vídeos curtos em inglês geral (trocando o USA Learns)
-Escolha 5 frases realmente úteis do que você viu ou leu. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+⏱ **45 min** · 🧰 *The Complete English Megacourse: From INTERMEDIATE to Fluent* (Toon Riot Academy) — início do segundo curso
+Escolha 5 frases realmente úteis do que você viu. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
 
 ### 3️⃣ Anki — frases novas do dia
 ⏱ **15 min** · 🧰 Anki
@@ -178,8 +178,8 @@ Só a regra que travou no dia, seguida de 5 frases suas.
 Revise as frases de ontem falando em voz alta.
 
 ### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 documentação e tutoriais técnicos em inglês (área de segurança/TI)
-Escolha 5 frases realmente úteis do material técnico. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
+⏱ **45 min** · 🧰 continuar *From INTERMEDIATE to Fluent*, intercalando com documentação e tutoriais técnicos em inglês (área de segurança/TI)
+Escolha 5 frases realmente úteis do curso ou do material técnico. Escreva, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua com a mesma estrutura.
 
 ### 3️⃣ Anki — frases novas do dia
 ⏱ **15 min** · 🧰 Anki
@@ -324,7 +324,7 @@ Só a regra que travou no dia, seguida de 5 frases suas.
 
 | | |
 |---|---|
-| 📘 Curso estruturado | [USA Learns](https://www.usalearns.org/) |
+| 📘 Curso estruturado (já comprado) | [From Zero to Conversational](https://www.udemy.com/course-dashboard-redirect/?course_id=1526882) → [From Intermediate to Fluent](https://www.udemy.com/course-dashboard-redirect/?course_id=2749796) (Toon Riot Academy) |
 | 🎬 Imersão | [Language Reactor](https://www.languagereactor.com/) (extensão Chrome) |
 | 🗣️ Pronúncia | [YouGlish](https://youglish.com/) |
 | 🎤 Pronúncia (alternativa) | Microfone do Google Translate |
