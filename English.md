@@ -5,7 +5,7 @@
 
 ---
 
-## 📑 Sumário
+### 📑 Sumário
 
 - [Meses 1-2](#-meses-1-2)
 - [Meses 3-4](#-meses-3-4)
@@ -19,46 +19,39 @@
 - [Regras de ouro](#-regras-de-ouro)
 
 ---
+### 1. Revisão relâmpago
+- ⏱ **10 min** · 🧰 Anki
+  
+  - Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
 
-# 🟢 Meses 1-2
-*Fase 1 — Fundação · Nível A1*
+### 2. Curso estruturado (gramática + vocabulário guiado)
+- ⏱ **45 min** · 🧰 *The Complete English Megacourse: From Zero to Conversational* (Toon Riot Academy)
+  
+  - continuando de onde já está
+  - Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis do que você viu. Para cada uma: escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua usando a mesma estrutura.
+  - Pegue as 5 a 10 frases selecionadas no curso e coloque manualmente, focando em vocabulário geral de sobrevivência. Frente: a frase em português. Verso: a frase completa em inglês (nunca palavra solta)
 
-### 1️⃣ Revisão relâmpago
-⏱ **10 min** · 🧰 Anki
-Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
+### 3. Listening + Shadowing intensivo
+- ⏱ **50 min** · 🧰 https://elllo.org/levels/A1-English-Lessons/index.html
+  
+  - Faça em 3 passagens: primeira sem parar, pra sentir quanto você entende.
+  - segunda pausando em palavras/expressões importantes, escolhendo 5 frases que pode usar no seu dia e inclua a regra que te travou durante o dia ou durante o curso.
+  - terceira sem legenda, respondendo do seu jeito.
+  - Depois peça exatamente isto pra IA: *"Corrija meu texto. Mostre apenas os 3 erros mais importantes e explique de forma simples."* Reescreva o texto inteiro incorporando a correção.
 
-### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 *The Complete English Megacourse: From Zero to Conversational* (Toon Riot Academy)
-- continuando de onde já está
-Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis do que você viu. Para cada uma: escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua usando a mesma estrutura.
-- Pegue as 5 a 10 frases selecionadas no curso e coloque manualmente, focando em vocabulário geral de sobrevivência. Frente: a frase em português. Verso: a frase completa em inglês (nunca palavra solta)
+### 4. Listening solto
+- ⏱ **15 min** · 🧰 Musicas
+  
+  - Ouça sem pausar e sem legenda.
+  - O objetivo não é entender tudo, é acostumar o ouvido ao fluxo real da língua.
 
-### 4️⃣ Listening + Shadowing intensivo
-⏱ **50 min** · 🧰 https://elllo.org/levels/A1-English-Lessons/index.html 
-- Faça em 3 passagens:
- - primeira sem parar, pra sentir quanto você entende.
- - segunda pausando em palavras/expressões importantes, escolhendo 3-5 frases pra guardar;
- - terceira sem legenda, respondendo do seu jeito.
-
-### 5️⃣ Listening solto
-⏱ **15 min** · 🧰 Musicas
-Ouça sem pausar e sem legenda.
-- O objetivo não é entender tudo, é acostumar o ouvido ao fluxo real da língua.
-
-### 7️⃣ Writing
-⏱ **20 min** · 🧰 ChatGPT
-Escreva 5-10 frases sobre o seu dia. Depois peça exatamente isto pra IA: *"Corrija meu texto. Mostre apenas os 3 erros mais importantes e explique de forma simples."* Reescreva o texto inteiro incorporando a correção.
-
-### 8️⃣ Grammar reativa
-⏱ **10 min** · 🧰 —
-Estude só a regra que te travou durante o dia. Depois de entender, produza 5 frases suas na hora.
-
-### 9️⃣ Speaking com IA
-⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
-1. **Conversa simples** — peça pro GPT perguntar sobre seu dia, com temas simples como comida, rotina e família. Deixe fluir sem parar pra corrigir.
-2. **Cenário prático** — simulações bem básicas do dia a dia, como pedir comida ou se apresentar.
-3. **Reutilização** — diga: *"Use the five expressions I learned today. Ask me questions so I have to use them."*
-4. **Correção** — diga: *"Correct my three most important mistakes. Give me the natural version and ask me to say each sentence again."* Depois crie mais uma frase sua usando a correção.
+### 5. Speaking com IA
+- ⏱ **40 min** (4 blocos de 10 min) · 🧰 ChatGPT
+  
+  - **Conversa simples:** peça pro GPT perguntar sobre seu dia, com temas simples como comida, rotina e família. Deixe fluir sem parar pra corrigir.
+  - **Cenário prático:** simulações bem básicas do dia a dia, como pedir comida ou se apresentar.
+  - **Reutilização:** diga: *"Use the five expressions I learned today. Ask me questions so I have to use them."*
+  - **Correção: ** diga: *"Correct my three most important mistakes. Give me the natural version and ask me to say each sentence again."* Depois crie mais uma frase sua usando a correção.
 
 ---
 
