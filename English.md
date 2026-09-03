@@ -1,59 +1,5 @@
 # Guia de Estudo de Inglês — A1 → B1/B2 em 12 Meses
 
-## 1. Objetivo
-
-Desenvolver competência comunicativa em inglês com prioridade para:
-
-- conversação espontânea;
-- compreensão auditiva;
-- pronúncia e inteligibilidade;
-- vocabulário funcional;
-- escrita funcional;
-- inglês profissional;
-- inglês técnico voltado para TI e cibersegurança.
-
-A meta é progredir aproximadamente de **A1 → A2 → B1 → B1+/B2**, utilizando o CEFR como referência e validando a evolução por desempenho, não apenas por quantidade de horas estudadas.
-
-> **Importante:** B2 em 12 meses é uma meta, não uma garantia. O nível final deve ser determinado pelo desempenho real.
-
----
-
-# 2. Princípio central do método
-
-O método segue o ciclo:
-
-**Input → compreensão → recuperação → produção → feedback → correção → repetição → transferência → espaçamento**
-
-### Na prática
-
-1. Você recebe inglês compreensível.
-2. Presta atenção em vocabulário, estruturas e pronúncia.
-3. Tenta recuperar o conhecimento sem consultar.
-4. Usa o inglês falando ou escrevendo.
-5. Identifica erros e lacunas.
-6. Corrige os erros relevantes.
-7. Repete a forma correta.
-8. Usa a mesma estrutura em outro contexto.
-9. Reencontra o conteúdo posteriormente.
-
-O objetivo não é simplesmente "estudar inglês".
-
-O objetivo é **conseguir fazer coisas em inglês**.
-
----
-
-# 3. Carga de estudo
-
-## Plano principal
-
-**≈ 3h05 por dia**
-
-**6 dias por semana**
-
-**1 dia de recuperação/descanso**
-
-A carga pode ser reduzida temporariamente quando houver fadiga.
-
 ### Dia normal
 
 | Atividade | Tempo |
@@ -66,36 +12,6 @@ A carga pode ser reduzida temporariamente quando houver fadiga.
 | Writing | 10 min |
 | Revisão final | 15 min |
 | **Total** | **3h05** |
-
----
-
-# 4. Regra de prioridade
-
-Se houver pouco tempo, não tente compensar.
-
-### 1 atividade disponível
-
-**Speaking**
-
-### 2 atividades
-
-**Speaking + Listening**
-
-### 3 atividades
-
-**Speaking + Listening + Curso/Gramática**
-
-### Dia ruim — mínimo viável
-
-- 15 min Anki;
-- 30 min listening;
-- 30 min speaking.
-
-**Total: 75 min.**
-
-Não é necessário recuperar as horas perdidas no dia seguinte.
-
-Consistência é mais importante que compensação.
 
 ---
 
