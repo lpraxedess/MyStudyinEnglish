@@ -20,7 +20,7 @@
 
 ---
 
-## 🟢 Meses 1-2
+# 🟢 Meses 1-2
 *Fase 1 — Fundação · Nível A1*
 
 ### 1️⃣ Revisão relâmpago
@@ -28,18 +28,17 @@
 Pegue as frases que você adicionou ontem no Anki e revise falando em voz alta, não só lendo.
 
 ### 2️⃣ Curso estruturado (gramática + vocabulário guiado)
-⏱ **45 min** · 🧰 *The Complete English Megacourse: From Zero to Conversational* (Toon Riot Academy) — continuando de onde já está
-Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis do que você viu. Para cada uma: escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua usando a mesma estrutura. Essas 5 frases vão pro Anki no próximo passo.
+⏱ **45 min** · 🧰 *The Complete English Megacourse: From Zero to Conversational* (Toon Riot Academy)
+- continuando de onde já está
+Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente úteis do que você viu. Para cada uma: escreva no papel, leia em voz alta 5 vezes, tente falar sem olhar 3 vezes, crie 1 frase sua usando a mesma estrutura.
+- Pegue as 5 a 10 frases selecionadas no curso e coloque manualmente, focando em vocabulário geral de sobrevivência. Frente: a frase em português. Verso: a frase completa em inglês (nunca palavra solta)
 
-### 3️⃣ Anki — frases novas do dia
-⏱ **15 min** · 🧰 Anki
-Pegue as 5 frases selecionadas no curso e coloque manualmente, focando em vocabulário geral de sobrevivência. Nunca mais que 5 por dia. Frente: a frase em português. Verso: a frase completa em inglês (nunca palavra solta).
-
-> ☕ *Pausa de ~10 min*
-
-### 4️⃣ Listening + Shadowing intensivo (anime)
-⏱ **50 min** · 🧰 Language Reactor (Chrome, Netflix/YouTube) — anime de ritmo calmo e fala pausada, ex. filmes do Studio Ghibli, se disponíveis dublados na Netflix
-Faça em 3 passagens: primeira sem parar, pra sentir quanto você entende; segunda pausando em palavras/expressões importantes, escolhendo 3-5 frases pra guardar; terceira sem legenda, pra notar quanto já reconhece. Repita as 3-5 frases escolhidas com a tecla "S" (repetir cena) até sair natural.
+### 4️⃣ Listening + Shadowing intensivo
+⏱ **50 min** · 🧰 Language Reactor (Chrome, Netflix/YouTube) — anime de ritmo calmo e fala pausada.
+- Faça em 3 passagens:
+ - primeira sem parar, pra sentir quanto você entende.
+ - segunda pausando em palavras/expressões importantes, escolhendo 3-5 frases pra guardar;
+ - terceira sem legenda, pra notar quanto já reconhece. Repita as 3-5 frases escolhidas com a tecla "S" (repetir cena) até sair natural.
 
 ### 5️⃣ Listening solto
 ⏱ **15 min** · 🧰 canais gerais — Espresso English, EngVid, Rachel's English
