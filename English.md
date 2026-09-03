@@ -1,279 +1,260 @@
-# Rotina de Inglês — A1 → B1/B2
+# English Study Plan — A1 → B1/B2 in 12 Months
 
-## Objetivo
+## Core Principle
 
-Aprender inglês pelo curso e transformar o conteúdo aprendido em capacidade de:
+Input → Notice → Understand → Retrieve → Produce → Feedback → Reuse → Encounter Again
 
-- entender;
-- lembrar;
-- falar;
-- escrever;
-- conversar espontaneamente;
-- utilizar inglês profissional e técnico.
+The goal is not to memorize English.
 
-Tempo ideal: **aprox. 3 horas por dia, 6 dias por semana.**
+The goal is to repeatedly encounter useful language, understand it, use it, modify it, and encounter it again in different contexts.
 
 ---
 
-# Rotina diária
+## 1. Immersion — Live in English
 
-## 1. Curso — 30 min
+Throughout the day, use English whenever possible:
 
-**Fonte principal de conteúdo novo.**
+- Phone and apps
+- YouTube
+- Movies and series
+- Music
+- Searches
+- Games
+- Technology
+- Cybersecurity
+- Documentation
+- Professional content
 
-Assistir à aula normalmente.
+The objective is to increase meaningful exposure and frequency of contact with English.
 
-Durante a aula:
+---
 
-- entender a explicação;
-- prestar atenção nas estruturas;
-- repetir exemplos importantes;
-- identificar frases que você realmente usaria.
+## 2. Course — Main Source of New Language
 
-Não tentar memorizar tudo.
+**Toon Riot Academy — The Complete English Megacourse**
 
-### Exemplo
+**30 min/day**
 
-Aula:
+Use the course to introduce new language.
+
+Process:
+
+1. Learn the lesson.
+2. Understand the examples.
+3. Repeat them aloud.
+4. Notice useful patterns/constructions.
+5. Select 3–5 useful examples.
+6. Create a few variations of your own.
+
+Example:
 
 > Are these students on the floor?
 
-Você entende:
-
-> Are + these + plural noun + location?
-
----
-
-## 2. Anki — 15 min
-
-Adicionar **3–5 frases/estruturas úteis da aula**.
-
-Preferir frases completas.
-
-### Exemplo
-
-> Are these students on the floor?
-
-ou, se a estrutura for mais útil:
-
-> Are these students in the classroom?
-
-Não adicionar todas as frases da aula.
-
-O objetivo do Anki é **revisar**, não armazenar o curso inteiro.
-
----
-
-## 3. Produção do conteúdo da aula — 15 min
-
-Pegar as principais estruturas aprendidas naquele dia.
-
-Para cada uma:
-
-1. repetir a frase original;
-2. entender a estrutura;
-3. criar 2–3 frases próprias;
-4. falar todas em voz alta.
-
-### Exemplo
-
-Estrutura:
+Notice the construction:
 
 > Are these + plural noun + location?
 
-Criar:
-
-> Are these students in the classroom?
+Create variations:
 
 > Are these computers on the desk?
+> Are these people in the office?
+> Are these files on the server?
 
-> Are these people at work?
+Do not memorize every variation.
 
-O objetivo é sair de:
-
-**"consigo reconhecer a frase"**
-
-para:
-
-**"consigo criar uma frase nova."**
+Use the examples to recognize the underlying pattern.
 
 ---
 
-## 4. Listening + Shadowing — 40 min
+## 3. Anki — Strengthen Important Exemplars
 
-Usar conteúdo adequado ao seu nível.
+**15 min/day**
 
-### Sequência
+Add mainly language encountered in the course or real input.
 
-**1. Ouvir sem texto**
+Prioritize:
 
-Tentar entender a ideia geral.
+- Complete sentences
+- Useful constructions
+- Expressions
+- Collocations
+- High-value vocabulary
 
-**2. Ouvir com transcript**
+Avoid turning Anki into a vocabulary collection.
 
-Verificar o que não entendeu.
+The purpose is:
 
-**3. Ouvir novamente**
+> Encounter → Forget → Retrieve → Strengthen
 
-Prestar atenção em pronúncia e ritmo.
-
-**4. Shadowing**
-
-Repetir acompanhando o áudio.
-
-**5. Repetir sozinho**
-
-Tentar reproduzir sem o áudio.
-
-Não é necessário fazer shadowing durante os 40 minutos inteiros.
+Anki supports learning; it does not replace exposure and usage.
 
 ---
 
-## 5. Speaking com ChatGPT — 60 min
+## 4. Podcast — Listening + Exposure
 
-Usar principalmente **o conteúdo aprendido no curso e as estruturas estudadas naquele dia**.
+**20–30 min/day**
 
-### 15 min — Conversação
+Process:
 
-Conversa livre.
+1. Listen without transcript.
+2. Understand the general meaning.
+3. Listen with transcript if necessary.
+4. Notice unfamiliar language.
+5. Listen again.
+6. Reuse interesting expressions.
 
-Não interromper constantemente para corrigir.
+Do not stop for every unknown word.
 
-Objetivo:
-
-**fluência.**
-
-### 15 min — Situação prática
-
-Simular uma situação:
-
-- trabalho;
-- viagem;
-- entrevista;
-- reunião;
-- conversa cotidiana;
-- suporte técnico;
-- tecnologia.
-
-### 15 min — Correção
-
-Identificar apenas os erros mais importantes ou recorrentes.
-
-Fluxo:
-
-> erro → correção → repetir → criar nova frase
-
-### 15 min — Reutilização
-
-Usar novamente as estruturas corrigidas em novos contextos.
-
-Objetivo:
-
-**automatização.**
+Prioritize meaning and repeated exposure.
 
 ---
 
-# 6. Reading — 15 min
+## 5. Diary + 5 Useful Sentences — Writing + Production
 
-Ler conteúdo adequado ao nível.
+**15 min/day**
 
-No início:
+Write a short diary about:
 
-- graded readers;
-- textos simples;
-- pequenos diálogos.
+- Your day
+- What you learned
+- Plans
+- Opinions
+- Problems
+- Work
+- Technology
+- Cybersecurity
 
-Depois:
+Then create **5 useful sentences** from your recent input.
 
-- notícias;
-- artigos;
-- documentação;
-- conteúdo de tecnologia;
-- conteúdo de cibersegurança.
+Sources:
 
-Não traduzir cada palavra.
+- Course
+- Podcast
+- Work
+- Daily life
+- Technology
+- Cybersecurity
 
-Priorizar compreensão geral.
+Process:
 
----
+> Write → Correct → Rewrite → Read aloud → Say it
 
-# 7. Writing — 10 min
-
-Escrever **5–8 frases**.
-
-Usar estruturas aprendidas no curso.
-
-Exemplo:
-
-> Are these students in the classroom?
-
-Pode virar:
-
-> These students are in the classroom.  
-> They are studying English.  
-> Their teacher is in the classroom too.
-
-Depois:
-
-1. corrigir;
-2. identificar os principais erros;
-3. reescrever;
-4. ler em voz alta.
+Good recurring sentences can go into Anki.
 
 ---
 
-# 8. Revisão rápida — 15 min
+## 6. Shadowing — Listening + Speaking
 
-No final:
+**20–30 min/day**
 
-- O que aprendi hoje?
-- Quais 3 frases quero lembrar?
-- Qual estrutura preciso reutilizar?
-- Qual erro preciso observar amanhã?
+Process:
 
-Não adicionar uma nova sessão de estudo.
+1. Listen.
+2. Follow the transcript.
+3. Understand.
+4. Repeat with the audio.
+5. Repeat without the audio.
+6. Reproduce rhythm and intonation.
+
+Focus on:
+
+- Pronunciation
+- Rhythm
+- Intonation
+- Connected speech
+- Listening speed
+- Automatic production
+
+Shadowing is not just pronunciation practice.
+
+It connects perception and production.
 
 ---
 
-# Resumo
+## 7. Speaking with ChatGPT
 
-| Atividade | Tempo | Função |
-|---|---:|---|
-| Curso | 30 min | Aprender conteúdo novo |
-| Anki | 15 min | Fixar e recuperar |
-| Produção | 15 min | Criar frases próprias |
-| Listening + Shadowing | 40 min | Compreender e melhorar pronúncia |
-| Speaking | 60 min | Transformar conhecimento em habilidade |
-| Reading | 15 min | Aumentar compreensão |
-| Writing | 10 min | Consolidar estruturas |
-| Revisão | 15 min | Recuperar o aprendizado |
-| **Total** | **3h20** | |
+**45–60 min/day**
+
+### 15 min — Free conversation
+
+Talk naturally.
+
+Do not stop constantly for corrections.
+
+### 15 min — Situation
+
+Examples:
+
+- Work
+- Meetings
+- Interviews
+- Travel
+- Presentations
+- Cybersecurity
+- Explaining technical problems
+
+### 15 min — Feedback
+
+Focus on important or recurring errors.
+
+Process:
+
+> Error → Correction → Repeat → New sentence
+
+### 15 min — Reuse
+
+Use the corrected structure in a different context.
+
+Example:
+
+> I have worked with Linux for two years.
+
+Reuse:
+
+> I have worked with Python for three years.
+> I have worked with AWS since 2024.
+> I have worked in cybersecurity for six months.
+
+The objective is to move from one exemplar to productive use of the construction.
 
 ---
 
-# Regra principal
+## 8. Reading
 
-O curso é a **fonte de conteúdo novo**.
+**15 min/day**
 
-As outras atividades trabalham esse conteúdo.
+### A1–A2
+- Graded readers
+- Simple texts
+
+### B1
+- Blogs
+- News
+- Articles
+
+### B1–B2
+- Technical documentation
+- Cybersecurity articles
+- Professional content
+
+Do not translate everything.
+
+Read for meaning and notice recurring language.
+
+---
+
+# Daily Routine
+
+During the day:
+**Immersion in English**
+
+Then:
 
 ```text
-CURSO
-↓
-APRENDER
-↓
-ANKI
-↓
-LEMBRAR
-↓
-CRIAR FRASES
-↓
-FALAR
-↓
-RECEBER CORREÇÃO
-↓
-REPETIR
-↓
-USAR NOVAMENTE
-↓
-AUTOMATIZAR
+30 min  — Course
+15 min  — Anki
+20–30m  — Podcast
+15 min  — Diary + 5 sentences
+20–30m  — Shadowing
+45–60m  — Speaking
+15 min  — Reading
