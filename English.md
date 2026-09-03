@@ -38,7 +38,7 @@ Assista às aulas normalmente, sem anotar tudo. Escolha 5 frases realmente útei
 - Faça em 3 passagens:
  - primeira sem parar, pra sentir quanto você entende.
  - segunda pausando em palavras/expressões importantes, escolhendo 3-5 frases pra guardar;
- - terceira sem legenda, e tentando imitar ou responder.
+ - terceira sem legenda, respondendo do seu jeito.
 
 ### 5️⃣ Listening solto
 ⏱ **15 min** · 🧰 Musicas
