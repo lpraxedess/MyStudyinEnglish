@@ -1,260 +1,151 @@
-# English Study Plan — A1 → B1/B2 in 12 Months
+# English Study Plan — A1 → B2 (Home Office Edition)
 
-## Core Principle
-
-Input → Notice → Understand → Retrieve → Produce → Feedback → Reuse → Encounter Again
-
-The goal is not to memorize English.
-
-The goal is to repeatedly encounter useful language, understand it, use it, modify it, and encounter it again in different contexts.
+> **Meta:** B1 sólido em 12 meses, B2 como teto do possível
+> **Tempo:** ~2h45 a 3h15 de treino focado por dia + uso real do inglês o dia todo
+> **Princípio:** Input → Notice → Understand → Retrieve → Produce → Feedback → Reuse → Encounter Again
 
 ---
 
-## 1. Immersion — Live in English
+## 🧭 As 3 camadas de contato com o inglês
 
-Throughout the day, use English whenever possible:
-
-- Phone and apps
-- YouTube
-- Movies and series
-- Music
-- Searches
-- Games
-- Technology
-- Cybersecurity
-- Documentation
-- Professional content
-
-The objective is to increase meaningful exposure and frequency of contact with English.
+| Camada | Quando | Papel |
+|--------|--------|-------|
+| **1. Treino focado** | ~2h45 a 3h15/dia, distribuídas | É aqui que o nível sobe. Input, Anki, listening ativo, shadowing, escrita, fala com feedback, fonética |
+| **2. Uso real** | O dia todo | Tudo em inglês: digitar, escrever, ler, pesquisar, pensar. Output autêntico, acelera a aquisição |
+| **3. Exposição de fundo** | Tarefas automáticas | Podcast em tarefas mecânicas. Consolida sons, ritmo e vocabulário já conhecido. Não ensina língua nova |
 
 ---
 
-## 2. Course — Main Source of New Language
+## 🎯 Rotina diária (segunda a sábado)
 
-**Toon Riot Academy — The Complete English Megacourse**
+### Manhã, antes do trabalho (~50 min)
 
-**30 min/day**
+| Bloco | Tempo | O que fazer |
+|-------|-------|-------------|
+| **Input principal** | 25 min | Lição nova com noticing: aprender, repetir em voz alta, notar o padrão, criar 3 a 5 variações próprias |
+| **Revisão espaçada** | 15 min | Anki com frases completas e áudio, nunca palavras soltas. A1-A2: 10 a 15 cards novos/dia. B1-B2: 20 a 30, priorizando collocations |
+| **Fonética** | 10 min | A1-A2: minimal pairs (th /θ/ /ð/, /æ/, /ɪ/ vs /iː/). B1-B2: entonação, connected speech, word stress |
 
-Use the course to introduce new language.
+### Durante o trabalho (uso real + escuta semi-ativa)
 
-Process:
+| Bloco | Tempo | O que fazer |
+|-------|-------|-------------|
+| **Uso real** | O dia todo | Digitar, escrever e-mails, anotações, commits e comentários em inglês. Pesquisar em inglês. Pensar em inglês |
+| **Escuta semi-ativa** | Tarefas automáticas | Podcast ou áudio graduado em tarefas mecânicas (e-mails, planilhas, repetitivas). NUNCA em tarefas que exigem atenção (código, reunião, debug) |
+| **Speaking bloco 1** | 10 a 15 min | Em uma pausa: drills de padrões ou situação roteirizada, com feedback |
 
-1. Learn the lesson.
-2. Understand the examples.
-3. Repeat them aloud.
-4. Notice useful patterns/constructions.
-5. Select 3–5 useful examples.
-6. Create a few variations of your own.
+### Almoço (~35 a 50 min)
 
-Example:
+| Bloco | Tempo | O que fazer |
+|-------|-------|-------------|
+| **Listening ativo** | 20 a 30 min | Escuta em 3 passadas: sem texto → com texto → sem texto. A1-A2: áudio graduado (ESL Pod, Culips). B1-B2: podcast nativo ou YouTube sem legenda |
+| **Leitura** | 15 a 20 min | Ler em i+1, sem traduzir tudo, notando padrões. A1-A2: graded readers. B1-B2: artigos, notícias, documentação técnica |
 
-> Are these students on the floor?
+### Tarde, em pausas (~10 a 15 min)
 
-Notice the construction:
+| Bloco | Tempo | O que fazer |
+|-------|-------|-------------|
+| **Speaking bloco 2** | 10 a 15 min | Situação ou conversa livre com correção: erro → correção → repetição → reuso em contexto novo |
 
-> Are these + plural noun + location?
+### Noite, depois do trabalho (~40 a 55 min)
 
-Create variations:
+| Bloco | Tempo | O que fazer |
+|-------|-------|-------------|
+| **Shadowing** | 15 min | Repetir junto com o áudio imitando ritmo e entonação. Use trechos do MESMO material do listening ativo do dia, já compreendido |
+| **Escrita** | 15 a 20 min | Diário curto + 5 frases úteis do input do dia. Fluxo: escrever → corrigir → reescrever → ler em voz alta → falar |
+| **Speaking bloco 3** | 10 a 15 min | Reuso: usar as estruturas corrigidas do dia em contextos novos |
 
-> Are these computers on the desk?
-> Are these people in the office?
-> Are these files on the server?
-
-Do not memorize every variation.
-
-Use the examples to recognize the underlying pattern.
-
----
-
-## 3. Anki — Strengthen Important Exemplars
-
-**15 min/day**
-
-Add mainly language encountered in the course or real input.
-
-Prioritize:
-
-- Complete sentences
-- Useful constructions
-- Expressions
-- Collocations
-- High-value vocabulary
-
-Avoid turning Anki into a vocabulary collection.
-
-The purpose is:
-
-> Encounter → Forget → Retrieve → Strengthen
-
-Anki supports learning; it does not replace exposure and usage.
+**Total: ~2h45 a 3h15 de treino focado + uso real o dia todo.**
 
 ---
 
-## 4. Podcast — Listening + Exposure
+## 🔗 Fluxo em cadeia (um material por dia)
 
-**20–30 min/day**
+O mesmo insumo alimenta escuta, fala e escrita:
 
-Process:
+1. **Manhã:** input principal do curso define os padrões do dia.
+2. **Almoço:** listening ativo com o áudio escolhido (3 passadas, com transcript).
+3. **Noite:** shadowing sobre trechos curtos desse mesmo áudio (2 a 3 frases por vez), já compreendido.
+4. **Noite:** escrita usando frases e padrões encontrados nesse material.
 
-1. Listen without transcript.
-2. Understand the general meaning.
-3. Listen with transcript if necessary.
-4. Notice unfamiliar language.
-5. Listen again.
-6. Reuse interesting expressions.
-
-Do not stop for every unknown word.
-
-Prioritize meaning and repeated exposure.
+Shadowing só funciona sobre material que você já entendeu. Repetir o que não entende é treinar pronúncia de ruído.
 
 ---
 
-## 5. Diary + 5 Useful Sentences — Writing + Production
+## 📖 Regras para aproveitar o tempo livre
 
-**15 min/day**
+### Escuta durante o trabalho
+- ✅ Funciona em tarefas automáticas: e-mails, planilhas, tarefas repetitivas, organização.
+- ❌ Não funciona em tarefas que exigem atenção: código, debugging, reuniões, escrita, leitura técnica.
+- Teste de efetividade: se você consegue repetir o que ouviu nos últimos 30 segundos, a escuta está funcionando. Se não, é ruído.
+- Escuta semi-ativa consolida o que você já sabe. Não ensina língua nova.
 
-Write a short diary about:
+### Speaking em blocos
+- Não fale "o dia todo": sem feedback, você consolida erros.
+- Use 2 a 3 blocos de 10 a 15 min em pausas naturais, cada um com foco: drills → situação → reuso.
+- Todo bloco termina com feedback: erro → correção → repetição → nova frase em contexto diferente.
 
-- Your day
-- What you learned
-- Plans
-- Opinions
-- Problems
-- Work
-- Technology
-- Cybersecurity
+### Uso real no trabalho
+- Escrever em inglês no trabalho não é "praticar escrita", é produzir língua de verdade, com consequência real.
+- Errar escrevendo é testar hipóteses sobre a língua, e é assim que se aprende.
+- Mude o idioma do teclado e da autocorreção para inglês.
 
-Then create **5 useful sentences** from your recent input.
-
-Sources:
-
-- Course
-- Podcast
-- Work
-- Daily life
-- Technology
-- Cybersecurity
-
-Process:
-
-> Write → Correct → Rewrite → Read aloud → Say it
-
-Good recurring sentences can go into Anki.
+### Escalonamento gradual
+- Semanas 1 a 2: rode a base de ~2h15 (input, Anki, fonética, listening ativo, leitura, shadowing, escrita, 1 bloco de speaking).
+- Semana 3 em diante: adicione os blocos 2 e 3 de speaking e aumente listening e leitura.
+- Escale só o que você consegue manter por meses. Rotina mantida > rotina perfeita abandonada.
 
 ---
 
-## 6. Shadowing — Listening + Speaking
+## 📅 Estrutura semanal
 
-**20–30 min/day**
-
-Process:
-
-1. Listen.
-2. Follow the transcript.
-3. Understand.
-4. Repeat with the audio.
-5. Repeat without the audio.
-6. Reproduce rhythm and intonation.
-
-Focus on:
-
-- Pronunciation
-- Rhythm
-- Intonation
-- Connected speech
-- Listening speed
-- Automatic production
-
-Shadowing is not just pronunciation practice.
-
-It connects perception and production.
+| Dia | Atividade |
+|-----|-----------|
+| Segunda a sábado | Rotina distribuída (~2h45 a 3h15) |
+| Domingo | Consolidação leve (45 a 60 min): revisar backlog do Anki, reouvir 1 áudio sem transcript, regravar 1 min de fala comparando com a anterior. Sem conteúdo novo |
 
 ---
 
-## 7. Speaking with ChatGPT
+## 📈 Milestones por trimestre
 
-**45–60 min/day**
+| Período | Nível | Foco | Meta verificável |
+|---------|-------|------|------------------|
+| Meses 1 a 3 | A1 → A2 | Fonética básica, presente e passado simples, 1000 a 1500 palavras | Entender áudio graduado sem texto |
+| Meses 4 a 7 | A2 → B1 | Passado, futuro, connected speech, 2500 a 3000 palavras | Conversa simples sustentada, podcast nativo com legenda |
+| Meses 8 a 12 | B1 → B2 | Tópicos abstratos, collocations, fluência, 4000 a 5000 palavras | Conversa livre, conteúdo técnico sem legenda |
 
-### 15 min — Free conversation
+## 🔍 Medição de progresso
 
-Talk naturally.
-
-Do not stop constantly for corrections.
-
-### 15 min — Situation
-
-Examples:
-
-- Work
-- Meetings
-- Interviews
-- Travel
-- Presentations
-- Cybersecurity
-- Explaining technical problems
-
-### 15 min — Feedback
-
-Focus on important or recurring errors.
-
-Process:
-
-> Error → Correction → Repeat → New sentence
-
-### 15 min — Reuse
-
-Use the corrected structure in a different context.
-
-Example:
-
-> I have worked with Linux for two years.
-
-Reuse:
-
-> I have worked with Python for three years.
-> I have worked with AWS since 2024.
-> I have worked in cybersecurity for six months.
-
-The objective is to move from one exemplar to productive use of the construction.
+- **A cada 6 a 8 semanas:** teste de nivelamento gratuito (EF SET, Cambridge placement) ou autoavaliação pelos descritores CEFR.
+- **Gravação mensal:** 1 minuto falando sobre um tema fixo, comparando com a gravação anterior.
+- **Anki:** manter retenção acima de 90%. Se cair, reduza cards novos.
+- **Ajuste de material:** se entende 100% sem esforço, suba o nível. Se entende menos de 60%, desça.
 
 ---
 
-## 8. Reading
+## ✅ Checklist diário
 
-**15 min/day**
-
-### A1–A2
-- Graded readers
-- Simple texts
-
-### B1
-- Blogs
-- News
-- Articles
-
-### B1–B2
-- Technical documentation
-- Cybersecurity articles
-- Professional content
-
-Do not translate everything.
-
-Read for meaning and notice recurring language.
+- [ ] Input principal (25 min, manhã)
+- [ ] Anki (15 min, manhã)
+- [ ] Fonética (10 min, manhã)
+- [ ] Uso real no trabalho (digitar, escrever, pesquisar em inglês)
+- [ ] Escuta semi-ativa (tarefas automáticas)
+- [ ] Speaking bloco 1 (10 a 15 min, pausa da manhã)
+- [ ] Listening ativo (20 a 30 min, almoço)
+- [ ] Leitura (15 a 20 min, almoço)
+- [ ] Speaking bloco 2 (10 a 15 min, pausa da tarde)
+- [ ] Shadowing (15 min, noite, mesmo material do listening)
+- [ ] Escrita (15 a 20 min, noite)
+- [ ] Speaking bloco 3 (10 a 15 min, noite)
 
 ---
 
-# Daily Routine
+## 🛡️ Regras de ouro
 
-During the day:
-**Immersion in English**
-
-Then:
-
-```text
-30 min  — Course
-15 min  — Anki
-20–30m  — Podcast
-15 min  — Diary + 5 sentences
-20–30m  — Shadowing
-45–60m  — Speaking
-15 min  — Reading
+1. **Input compreensível domina o A1-A2.** O output cresce a partir do B1, quando você tem material para sustentar a fala.
+2. **Shadowing só com material entendido.** Repetir o que não entende não treina nada.
+3. **Sustentabilidade > intensidade.** Escale gradualmente: base de 2h15 primeiro, blocos extras depois.
+4. **Speaking sempre com feedback.** Sem correção, você consolida erros em vez de corrigi-los.
+5. **Escuta no trabalho só em tarefas automáticas.** Em tarefas que exigem atenção, é ruído, não aprendizado.
+6. **2h15 é o núcleo, não o teto.** O resto do dia é uso real: escrever, digitar, ler e pensar em inglês.
+7. **B1 sólido é a meta que não pode cair.** B2 em 12 meses exige ~600 horas efetivas e consistência sem falhas longas.
