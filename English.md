@@ -6,32 +6,6 @@
 
 ---
 
-## 📚 Seus cursos e o ritmo real
-
-| Curso | Duração | Ritmo | Duração na rotina | Papel |
-|-------|---------|-------|-------------------|-------|
-| **Megacourse: From Zero** (Udemy) | 77h | 2 aulas/dia (~90 min) | ~2 meses | Input principal da fase A1 → B1 |
-| **Método Accent** (Igor Ams) | 11h37, 45 aulas | 1 aula/dia (~25 min) | ~1 mês | Base de fonética e pronúncia. Depois vira revisão mensal |
-| **Megacourse: INTERMEDIATE to Fluent** (Udemy) | 57h | 2 aulas/dia (~90 min) | ~1,5 mês | Input principal da fase B1 → B2 |
-
-**O que isso significa:** os cursos são a fase de base intensa dos primeiros ~3 a 4 meses. Quando acabarem, o input principal passa a ser conteúdo real no seu nível (podcast nativo, YouTube técnico, documentação, graded readers). Curso é meio, não fim.
-
-**Regra de transição:** o Intermediate só entra quando você sustenta conversa simples e entende podcast nativo com legenda (marcador B1). Se o From Zero acabar antes desse marcador, repita as aulas que você mais errou e aumente conteúdo real no seu nível. Não queime o Intermediate cedo.
-
-**Plano de contingência:** comece com 2 aulas da Udemy por dia. Se o dia pesar (pular dia, arrastar aula), reduza para 1 aula (~60 min) ANTES de cortar Anki, listening ativo ou speaking com feedback. Esses três são o motor da evolução, o curso é o combustível.
-
----
-
-## 🧭 As 3 camadas de contato com o inglês
-
-| Camada | Quando | Papel |
-|--------|--------|-------|
-| **1. Treino focado** | ~3h30 a 3h50/dia, distribuídas | É aqui que o nível sobe. Cursos, Anki, listening ativo, shadowing, escrita, fala com feedback |
-| **2. Uso real** | O dia todo | Tudo em inglês: digitar, escrever, ler, pesquisar, pensar. Output autêntico, acelera a aquisição |
-| **3. Exposição de fundo** | Tarefas automáticas | Podcast em tarefas mecânicas. Consolida sons, ritmo e vocabulário já conhecido. Não ensina língua nova. Trate como bônus, não como estudo |
-
----
-
 ## 🎯 Rotina diária (segunda a sábado)
 
 ### Manhã, antes do trabalho (~2h15)
