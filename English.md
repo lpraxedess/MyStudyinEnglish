@@ -5,17 +5,6 @@
 > **Princípio:** Input → Notice → Understand → Retrieve → Produce → Feedback → Reuse → Encounter Again
 
 ---
-
-## 🧭 As 3 camadas de contato com o inglês
-
-| Camada | Quando | Papel |
-|--------|--------|-------|
-| **1. Treino focado** | ~2h45 a 3h15/dia, distribuídas | É aqui que o nível sobe. Input, Anki, listening ativo, shadowing, escrita, fala com feedback, fonética |
-| **2. Uso real** | O dia todo | Tudo em inglês: digitar, escrever, ler, pesquisar, pensar. Output autêntico, acelera a aquisição |
-| **3. Exposição de fundo** | Tarefas automáticas | Podcast em tarefas mecânicas. Consolida sons, ritmo e vocabulário já conhecido. Não ensina língua nova |
-
----
-
 ## 🎯 Rotina diária (segunda a sábado)
 
 ### Manhã, antes do trabalho (~50 min)
