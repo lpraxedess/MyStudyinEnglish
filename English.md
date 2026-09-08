@@ -19,13 +19,13 @@
 
 ## 🚀 Bloco 1: Ativação (60 a 90 min)
 
-### ☐ 1. Aula do curso (30 a 60 min)
-- Qualquer curso, no nível em que estiver, todo curso agrega algum dos 4 pilares.
-- **Anote tudo que for válido.** Suas anotações viram matéria-prima do Anki e das 10 frases.
-
-### ☐ 2. Anki (15 a 20 min)
+### ☐ 1. Anki (15 a 20 min)
 - Revisar o conteúdo do dia com repetição espaçada.
 - **Responda os cards em voz alta**, não só mentalmente: isso transforma memória em treino de fala.
+
+### ☐ 2. Aula do curso (30 a 60 min)
+- Qualquer curso, no nível em que estiver, todo curso agrega algum dos 4 pilares.
+- **Anote tudo que for válido.** Suas anotações viram matéria-prima do Anki e das 10 frases.
 
 ---
 
