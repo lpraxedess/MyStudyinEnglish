@@ -17,6 +17,17 @@
 
 ---
 
+
+## ⚠️ Regras de ouro
+
+- **Prioridade quando o dia apertar:** Anki → News in Levels → diário → 10 frases. A conversa com IA é a primeira a entrar, nunca a primeira a sair.
+- **Imersão compreensível:** série ou podcast que você se perde por 2 minutos não ensina, só cansa. Abaixe o nível ou use legenda em inglês.
+- **Fale sempre em voz alta:** leitura da notícia, cards do Anki, diário, conversa com a IA. Escrita mental não treina boca.
+- **Estagnou, sobe:** material fácil demais por mais de 6 semanas é desperdício de tempo.
+
+---
+
+
 ## 🚀 Bloco 1: Ativação (60 a 90 min)
 
 ### ☐ 1. Anki (15 a 20 min)
@@ -48,20 +59,20 @@
 
 ## 🗣️ Bloco 3: Output (45 a 60 min)
 
-### ☐ 6. Conversa com IA (15 a 30 min)
-- **BeConfident** (WhatsApp + app): conversa diária com tutores de IA, tradução automática português-inglês e correção na hora.
-- Trate como aula real: fale alto, não digite quando puder falar, peça correção das frases e repita a versão corrigida.
-- **Este é o item que mais acelera sua evolução: não pode ser pulado.**
-
-### ☐ 7. Diário (15 a 20 min)
+### ☐ 6. Diário (15 a 20 min)
 - Escreva os acontecimentos do dia, prática de gramática na prática.
 - **Escreva e vá revisando**, anotando o que precisar corrigir.
 - Leia o diário em voz alta ao final (escrita + fala no mesmo exercício).
 
-### ☐ 8. 10 frases do dia (15 a 20 min)
+### ☐ 7. 10 frases do dia (15 a 20 min)
 - Crie **10 frases próprias** com o conteúdo visto no dia ou conhecimento adquirido.
 - Use as anotações da aula, da notícia, da série e da conversa com IA.
 - Revise as frases no dia seguinte junto com o diário.
+- 
+### ☐ 8. Conversa com IA (15 a 30 min)
+- **BeConfident** (WhatsApp + app): conversa diária com tutores de IA, tradução automática português-inglês e correção na hora.
+- Trate como aula real: fale alto, não digite quando puder falar, peça correção das frases e repita a versão corrigida.
+- **Este é o item que mais acelera sua evolução: não pode ser pulado.**
 
 ---
 
@@ -93,15 +104,6 @@
 - Podcast: 6 Minute English (BBC) ou nativos +2x velocidade de fala.
 - IA: cenários abstratos, opiniões, discussões; peça também correção de pronúncia.
 - Gramática: voz passiva, condicionais, reported speech, phrasal verbs.
-
----
-
-## ⚠️ Regras de ouro
-
-- **Prioridade quando o dia apertar:** Anki → News in Levels → diário → 10 frases. A conversa com IA é a primeira a entrar, nunca a primeira a sair.
-- **Imersão compreensível:** série ou podcast que você se perde por 2 minutos não ensina, só cansa. Abaixe o nível ou use legenda em inglês.
-- **Fale sempre em voz alta:** leitura da notícia, cards do Anki, diário, conversa com a IA. Escrita mental não treina boca.
-- **Estagnou, sobe:** material fácil demais por mais de 6 semanas é desperdício de tempo.
 
 ---
 
