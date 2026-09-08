@@ -1,583 +1,648 @@
-# Rotina diária de inglês, A1 → B2
+# Rotina de Inglês A1 → B2
+
+## Objetivo
+
+Desenvolver inglês funcional para:
+
+- trabalho em TI;
+- entrevistas internacionais;
+- reuniões;
+- conversas longas;
+- consumo de conteúdo;
+- certificação futura.
+
+**Meta de 24 meses:** alcançar o maior nível sustentável possível, usando B2 funcional como referência principal.
 
 ---
 
-## Princípios da rotina
+## Regras da rotina
 
-1. **Um curso principal por vez.**
-2. **Cinco a oito cards novos por dia no total.**
-3. **Um listening ativo principal por dia.**
-4. **Todo conteúdo deve gerar recuperação e uso próprio.**
-5. **Speaking precisa ter estrutura, não apenas exposição.**
-6. **Shadowing só deve ser feito com material previamente compreendido.**
-7. **Exposição passiva é bônus, não substitui estudo focado.**
-8. **Sono e consistência têm prioridade sobre volume excessivo.**
+1. Estude um curso principal por vez.
+2. Faça de 5 a 8 cards novos no Anki por dia, somando todas as fontes.
+3. Estude apenas um listening principal por dia.
+4. Sempre tente lembrar antes de consultar.
+5. Fale todas as frases importantes em voz alta.
+6. Use o conteúdo estudado em frases próprias.
+7. Faça shadowing apenas com materiais compreendidos.
+8. Exposição passiva é bônus, não estudo principal.
 
 ---
 
-# Rotina diária essencial
-
-Tempo aproximado: **2h a 2h30 de estudo focado**.
+# Rotina diária
 
 ## 1. Anki, 15 a 20 minutos
 
-Faça as revisões antes de adicionar cards novos.
+### O que fazer
 
-Para cada frase:
+- Revisar os cards pendentes.
+- Responder sem olhar a resposta.
+- Falar a frase em voz alta.
+- Conferir a resposta.
+- Repetir a frase inteira quando errar.
 
-1. Leia ou ouça o lado da pergunta.
-2. Tente produzir a resposta sem olhar.
-3. Fale a frase em voz alta.
-4. Confira a resposta.
-5. Repita a frase completa se errar.
-6. Crie uma variação apenas quando for relevante.
+### Regra de criação
 
-### Limite de cards
+Ao final do estudo, criar **5 frases úteis do dia**, escolhidas entre:
 
-Comece com:
-
-- 5 cards novos por dia;
-- no máximo 8 cards novos por dia;
-- frases completas;
-- áudio sempre que possível;
-- cards relacionados à sua rotina, trabalho e objetivos.
-
-As frases podem vir de:
-
-- curso da Udemy;
+- curso;
 - Método Accent;
-- ELLLO;
-- News in Levels;
+- listening;
 - diário;
-- erros recorrentes no speaking.
+- speaking;
+- erros corrigidos.
 
-Não adicione cinco frases de cada fonte. O limite é para o dia inteiro.
+Uma frase só entra no Anki se for:
 
-### Adicione uma frase somente se ela:
+- útil para sua vida;
+- difícil de produzir;
+- uma estrutura recorrente;
+- uma correção importante;
+- aplicável ao trabalho ou à conversação.
 
-- for útil para sua vida;
-- contiver uma estrutura importante;
-- tiver aparecido várias vezes;
-- for uma correção de um erro recorrente;
-- for difícil de produzir sem ajuda.
+### Formato recomendado
+```text
+Frente: Como eu diria "Eu trabalho de casa todos os dias"?
 
-Se as revisões passarem de 25 minutos, suspenda os cards novos por alguns dias.
+Verso: I work from home every day.
+Áudio: sim
+Exemplo pessoal: I study English before work.
+```
+
+Se as revisões passarem de 25 minutos, suspenda cards novos por alguns dias.
 
 ---
 
 ## 2. Curso principal da Udemy, 40 a 50 minutos
 
-Use o curso **From Zero to Conversational** como trilha principal nesta fase.
+Use o curso **From Zero to Conversational** nesta fase.
 
-Você não precisa terminar uma aula completa todos os dias. Estude uma parte que consiga processar bem.
+### Método
 
-### Método de estudo
+1. Assistir ao trecho.
+2. Pausar antes das respostas.
+3. Responder em voz alta.
+4. Conferir.
+5. Repetir as frases importantes.
+6. Criar frases próprias.
+7. Fechar o vídeo e recuperar o conteúdo.
 
-1. Assista ao trecho para entender o contexto.
-2. Pause antes das respostas.
-3. Tente responder em voz alta.
-4. Confira a resposta.
-5. Repita as frases importantes.
-6. Crie duas ou três frases relacionadas à sua vida.
-7. Feche o vídeo e tente recuperar o conteúdo.
+### Regra
 
-### Exemplo
+Não copie tudo para o Anki. Selecione apenas as melhores frases do dia e respeite o limite total de 5 cards.
 
-Frase do curso:
+### Resultado esperado
 
-> I work from home.
+Ao terminar, você deve conseguir:
 
-Variações próprias:
-
-> I work from home every day.  
-> I start work at nine.  
-> I study English before work.
-
-### Extração diária
-
-Ao terminar, selecione somente:
-
-- 3 a 5 frases importantes;
-- depois escolha, entre todas as atividades do dia, quais 5 a 8 frases irão para o Anki.
-
-O objetivo não é copiar todo o conteúdo. O objetivo é transformar parte dele em frases que você consiga usar.
+- lembrar algumas frases sem olhar;
+- usar pelo menos 2 estruturas em frases próprias;
+- explicar brevemente o que estudou.
 
 ---
 
 ## 3. Método Accent, 15 a 20 minutos
 
-Faça o Método Accent **três ou quatro vezes por semana**, e não obrigatoriamente todos os dias.
+Faça **3 ou 4 vezes por semana**.
 
-### Procedimento
+### Método
 
-1. Assista a um trecho curto.
-2. Repita as frases em voz alta.
-3. Observe ritmo, pausas e entonação.
-4. Grave uma ou duas frases.
-5. Compare com o áudio.
-6. Crie duas frases próprias usando o padrão.
-7. Adicione no máximo uma ou duas frases ao conjunto de cards do dia.
+1. Assistir a um trecho curto.
+2. Repetir em voz alta.
+3. Observar ritmo, pausas e entonação.
+4. Gravar uma ou duas frases.
+5. Comparar com o áudio.
+6. Criar duas frases próprias.
+7. Selecionar, no máximo, uma frase para o Anki.
 
-### Objetivo
+### Foco
 
-Priorize:
-
-- inteligibilidade;
+- clareza;
 - ritmo;
-- acentuação;
+- entonação;
 - finais das palavras;
-- percepção dos sons;
-- clareza ao falar.
+- sons que dificultam a compreensão.
 
-Você não precisa eliminar o sotaque brasileiro. O objetivo é conversar por bastante tempo e ser entendido sem esforço excessivo.
-
----
-
-# 4. Listening ativo, 20 a 25 minutos
-
-Faça apenas **um listening principal por dia**.
-
-Não estude intensivamente ELLLO, News in Levels, podcast e vídeos no mesmo dia.
-
-### Segunda, quarta e sexta: ELLLO
-
-Use uma lição A1 do ELLLO.
-
-O site é adequado para seu momento porque oferece:
-
-- vídeos curtos;
-- fala mais lenta;
-- roteiro;
-- quiz;
-- vocabulário;
-- explicação gramatical.
-
-### Método ELLLO
-
-1. Ouça sem olhar o texto.
-2. Diga qual é o assunto.
-3. Ouça acompanhando o roteiro.
-4. Confira o vocabulário necessário.
-5. Ouça novamente sem o texto.
-6. Responda ao quiz.
-7. Diga três frases sobre sua própria vida usando o padrão da lição.
+O objetivo é ser entendido, não eliminar o sotaque brasileiro.
 
 ---
 
-### Terça, quinta e sábado: News in Levels
+## 4. Listening ativo, 20 a 25 minutos
+
+Faça apenas uma opção por dia.
+
+### ELLLO, segunda, quarta e sexta
+
+Use uma lição A1.
+
+1. Ouvir sem transcript.
+2. Identificar o assunto.
+3. Ouvir com transcript.
+4. Conferir apenas o vocabulário necessário.
+5. Ouvir novamente sem transcript.
+6. Responder ao quiz.
+7. Criar 3 frases sobre sua vida usando o padrão da lição.
+
+### News in Levels, terça, quinta e sábado
 
 Comece pelo nível 1.
 
-### Método News in Levels
-
-1. Leia o texto uma vez.
-2. Marque no máximo cinco palavras ou expressões.
-3. Ouça acompanhando o texto.
-4. Ouça novamente sem olhar.
-5. Responda à pergunta da notícia.
-6. Faça um resumo oral de três ou quatro frases.
-7. Se o texto estiver muito fácil, compare com o nível 2.
+1. Ler o texto.
+2. Selecionar até 5 palavras ou expressões.
+3. Ouvir acompanhando o texto.
+4. Ouvir novamente sem olhar.
+5. Responder à pergunta da notícia.
+6. Fazer um resumo oral de 3 ou 4 frases.
+7. Comparar com o nível 2 quando o nível 1 estiver fácil.
 
 ### Critério de dificuldade
 
-- Menos de 50% de compreensão após repetição: material difícil demais.
-- Entre 60% e 80%: nível adequado.
-- Mais de 90% sem esforço: material fácil para revisão e fluência.
-
-Podcast e vídeos nativos devem ser exposição opcional por enquanto. Não precisam entrar como tarefa obrigatória.
+- Menos de 50% de compreensão: reduza o nível.
+- Entre 60% e 80%: dificuldade ideal.
+- Mais de 90%: use para revisão ou avance gradualmente.
 
 ---
 
 ## 5. Speaking estruturado, 15 a 20 minutos
 
-Falar sozinho durante o dia é útil, mas todos os dias você também deve fazer um bloco com objetivo definido.
+Faça uma tarefa específica por dia.
 
-### Segunda, rotina
+| Dia | Tarefa |
+|---|---|
+| Segunda | Narrar sua rotina |
+| Terça | Descrever um objeto, lugar ou imagem |
+| Quarta | Explicar um problema e uma solução |
+| Quinta | Simular uma entrevista |
+| Sexta | Recontar um texto ou áudio |
+| Sábado | Conversa simulada com a IA |
 
-Fale sobre:
+### Ciclo de correção
 
-- que horas acordou;
-- o que fez;
-- o que está fazendo;
-- o que fará depois;
-- como foi seu trabalho.
+1. Falar sem interromper a todo momento.
+2. Receber até 3 correções principais.
+3. Repetir as frases corrigidas.
+4. Criar novas frases com as mesmas estruturas.
+5. Reutilizar as estruturas durante a semana.
 
-### Terça, descrição
-
-Descreva:
-
-- seu quarto;
-- seu computador;
-- seu ambiente de trabalho;
-- um anime;
-- uma ferramenta;
-- uma imagem.
-
-### Quarta, problema e solução
-
-Explique:
-
-- qual era o problema;
-- o que você tentou;
-- o que funcionou;
-- o que faria diferente.
-
-### Quinta, entrevista
-
-Pratique respostas para:
-
-- Tell me about yourself.
-- What do you do?
-- What are you learning?
-- Why do you want to work internationally?
-- What are your strengths?
-
-### Sexta, recontagem
-
-Leia ou escute um conteúdo curto. Feche o material e conte o que entendeu.
-
-### Sábado, conversa simulada
-
-Faça uma conversa de 20 a 30 minutos com a IA sobre um tema conhecido.
-
-Use esta instrução:
+### Prompt para a IA
 ```text
 Converse comigo em inglês no nível A1/A2.
 
 Faça uma pergunta por vez e espere minha resposta.
-Durante os primeiros 8 minutos, não interrompa por erros pequenos.
+Não interrompa por erros pequenos durante os primeiros minutos.
 Ajude apenas se eu não conseguir continuar.
 
 Depois, mostre no máximo 3 erros recorrentes:
 1. minha frase original;
-2. uma versão corrigida;
+2. a versão corrigida;
 3. uma explicação curta;
-4. uma nova pergunta para eu usar a estrutura corrigida.
+4. uma nova pergunta para eu usar a estrutura.
 
-Priorize erros que se repetem, prejudicam a compreensão ou são importantes para minha rotina profissional.
-Use inglês americano natural e mantenha as perguntas adequadas ao meu nível.
+Priorize erros recorrentes, importantes ou que prejudicam a compreensão.
+Use inglês americano natural e adapte a dificuldade ao meu nível.
 ```
-
-O ciclo correto é:
-
-> falar → receber feedback → repetir → criar uma nova frase → reutilizar depois.
 
 ---
 
 ## 6. Diário em inglês, 15 a 20 minutos
 
-Faça o diário **quatro vezes por semana**.
-
-Não tente detalhar o máximo possível. No início, escreva de 60 a 100 palavras com frases simples.
+Faça **4 vezes por semana**.
 
 ### Estrutura
 
-1. O que fiz hoje.
-2. O que foi fácil ou difícil.
-3. O que farei amanhã.
-4. Uma opinião simples sobre algo que vi ou estudei.
+Escreva de 60 a 100 palavras sobre:
+
+- o que você fez;
+- o que foi fácil ou difícil;
+- o que fará amanhã;
+- uma opinião simples sobre algo que viu ou estudou.
 
 ### Processo
 
-1. Escreva sem tradutor.
-2. Peça correção.
-3. Escolha os três erros mais importantes.
-4. Reescreva o texto.
-5. Leia a versão corrigida em voz alta.
-6. Reescreva duas frases sem olhar.
-7. Use uma das frases em uma nova situação.
-
-Não coloque todas as correções no Anki. Adicione apenas erros recorrentes ou estruturas realmente úteis.
+1. Escrever sem tradutor.
+2. Corrigir o texto.
+3. Escolher os 3 erros mais importantes.
+4. Reescrever o texto.
+5. Ler a versão corrigida em voz alta.
+6. Reescrever 2 frases sem olhar.
+7. Adicionar ao Anki somente erros recorrentes.
 
 ---
 
 ## 7. Shadowing, 10 a 15 minutos
 
-Faça shadowing **quatro vezes por semana**.
+Faça **4 vezes por semana**.
 
-Use trechos de:
+Use trechos já compreendidos de:
 
-- uma aula do curso já compreendida;
+- curso;
 - ELLLO;
 - News in Levels;
-- vídeos curtos com transcript.
+- vídeos com transcript.
 
-### Procedimento
+### Método
 
-1. Escolha um trecho de 20 a 40 segundos.
-2. Ouça duas vezes sem repetir.
-3. Leia o transcript.
-4. Marque pausas e palavras enfatizadas.
-5. Repita junto com o áudio.
-6. Grave sua voz.
-7. Repita sem o áudio.
-8. Explique o conteúdo com suas próprias palavras.
+1. Escolher um trecho de 20 a 40 segundos.
+2. Ouvir duas vezes.
+3. Ler o transcript.
+4. Marcar pausas e palavras fortes.
+5. Repetir junto com o áudio.
+6. Gravar sua voz.
+7. Repetir sem o áudio.
+8. Explicar o conteúdo com suas próprias palavras.
 
-A última etapa é obrigatória. Ela verifica se você aprendeu a falar ou apenas a imitar.
+A última etapa confirma se você aprendeu a produzir, e não apenas imitar.
 
 ---
 
-# Organização da semana
+# Guia dos cursos
+
+## Método Accent, módulo a módulo
+
+### Módulo 1, base da comunicação
+
+Conteúdo: primeiras frases, verbos auxiliares, técnica Three Steps, adjetivos, erros comuns.
+
+Estude na ordem apresentada. Para cada aula:
+
+1. Assistir a uma parte.
+2. Pausar antes dos exemplos.
+3. Tentar responder em voz alta.
+4. Repetir as frases corrigidas.
+5. Identificar o padrão da aula.
+6. Criar 5 frases sobre sua vida.
+7. Escolher apenas 1 ou 2 para o Anki.
+8. Usar o padrão em uma fala de 2 minutos.
+
+Exemplo com o padrão "Do you...?":
+
+> Do you work from home?  
+> Do you study English every day?  
+> Do you watch videos in English?
+
+Dê atenção extra a **Auxiliary Verbs** e **Three Steps**. Eles serão reutilizados no curso inteiro.
+
+### Módulo 2, alfabeto e números
+
+Conteúdo: alfabeto, números, idade, exercício, prática.
+
+Não transforme em longa sessão de Anki. Use para praticar:
+
+- soletrar seu nome;
+- falar telefone, horários, preços e datas;
+- dizer sua idade;
+- entender números em inglês.
+
+Exemplos:
+
+> My name is...  
+> My phone number is...  
+> I start work at nine.  
+> The meeting is on Monday.
+
+### Módulo 3, there is, there are e have
+
+Conteúdo: existência, posse, preposições, soletração, horas, diálogos.
+
+Domine a diferença:
+
+> There is a computer on the desk.  
+> I have a computer.
+
+Use `there is` e `there are` para dizer que algo existe em um lugar. Use `have` para posse.
+
+Descreva seu ambiente de home office:
+
+> There is a desk in my room.  
+> There are two monitors on the desk.  
+> I have a meeting at nine.
+
+### Módulo 4, pronúncia e linking words
+
+Conteúdo: som do I, som do TH, som do R, linking words.
+
+Não assista passivamente. Faça prática física e auditiva:
+
+1. Ouvir o som.
+2. Repetir devagar.
+3. Repetir em velocidade normal.
+4. Comparar palavras parecidas.
+5. Usar o som em frases.
+6. Gravar sua voz.
+7. Verificar se a palavra continua compreensível na frase.
+
+Dê atenção especial a `TH`, `R`, finais de palavras e ligação entre palavras. Linking words é essencial para listening e fala natural.
+
+### Módulo 5, passado e futuro
+
+Conteúdo: passado, Three Steps no passado, futuro, can/will/does, apresentação pessoal.
+
+Este módulo deve virar parte central do seu speaking.
+
+Fale sobre três momentos:
+
+> I work from home. (presente)  
+> I studied English yesterday. (passado)  
+> I am going to study English tonight. (futuro)
+
+A aula de apresentação pessoal deve virar um projeto. Prepare uma apresentação com nome, moradia, trabalho, rotina, interesses, motivo do estudo e objetivos. Regrave a cada 4 semanas para acompanhar a evolução.
+
+### Módulo 6, retenção e método 15/45
+
+Conteúdo: como não esquecer palavras, vocabulário por exposição, exercício 15/45.
+
+Este módulo muda a forma de praticar listening. Aplique o método 15/45 conforme o PDF do curso, mas mantenha a regra: selecione apenas as expressões mais úteis para o Anki.
+
+Sessão prática:
+
+1. Ouvir um áudio de até 15 minutos.
+2. Identificar o assunto.
+3. Observar palavras recorrentes.
+4. Conferir o material de apoio.
+5. Ouvir novamente.
+6. Recuperar expressões sem olhar.
+7. Usar algumas em fala própria.
+8. Escolher no máximo 5 frases para revisão.
+
+### Módulo 7, expansão gramatical
+
+Conteúdo: pronomes reflexivos, present perfect, perguntas com have, Three Steps avançado.
+
+Não tenha pressa. O present perfect exige exposição e contraste com o passado simples.
+
+Compare:
+
+> I studied English yesterday.  
+> I have studied English for two months.
+
+Pratique primeiro com exemplos da sua vida. Não memorize definições abstratas sem usar as frases.
+
+### Critério para avançar no Accent
+
+Avance quando conseguir:
+
+- explicar a ideia principal da aula;
+- responder exemplos sem olhar;
+- criar pelo menos 5 frases próprias;
+- usar o padrão em uma fala curta;
+- reconhecer a estrutura em outro conteúdo.
+
+Se entende a aula mas não produz as frases, revise antes de avançar.
+
+---
+
+## Curso da Udemy, como estudar
+
+As aulas são longas, de aproximadamente 1h30. Divida cada episódio em dois ou três dias.
+
+### Primeira sessão
+
+1. Assistir a 20 ou 30 minutos.
+2. Entender a situação geral.
+3. Responder antes das respostas.
+4. Repetir frases principais.
+5. Anotar padrões recorrentes.
+
+### Segunda sessão
+
+1. Continuar o episódio.
+2. Pausar antes das respostas.
+3. Responder sem olhar.
+4. Repetir frases completas.
+5. Criar exemplos da sua vida.
+
+### Revisão
+
+1. Fechar o vídeo.
+2. Explicar o que aconteceu.
+3. Reproduzir as estruturas principais.
+4. Fazer uma fala curta com o vocabulário.
+5. Escolher no máximo 3 frases para o Anki.
+
+### O que não fazer
+
+- Assistir 90 minutos sem pausar.
+- Copiar todo o vocabulário.
+- Colocar dezenas de frases no Anki.
+- Confundir reconhecer com produzir.
+- Avançar sem recuperar nenhuma estrutura.
+
+### Critério para avançar na Udemy
+
+Avance quando conseguir:
+
+- entender a situação geral;
+- responder parte das perguntas antes da resposta;
+- repetir as frases principais;
+- lembrar pelo menos 2 estruturas após fechar o vídeo;
+- criar exemplos próprios;
+- reconhecer o vocabulário em outro contexto.
+
+---
+
+# Organização semanal
 
 ## Segunda
 
-- Anki.
-- Curso da Udemy.
-- Método Accent.
-- ELLLO.
-- Speaking sobre rotina.
-- Shadowing.
+- Anki
+- Udemy
+- Accent
+- ELLLO
+- Speaking sobre rotina
+- Shadowing
 
 ## Terça
 
-- Anki.
-- Curso da Udemy.
-- News in Levels.
-- Speaking descritivo.
-- Diário.
+- Anki
+- Udemy
+- News in Levels
+- Speaking descritivo
+- Diário
 
 ## Quarta
 
-- Anki.
-- Curso da Udemy.
-- Método Accent.
-- ELLLO.
-- Speaking sobre problema e solução.
-- Shadowing.
+- Anki
+- Accent
+- ELLLO
+- Speaking sobre problema e solução
+- Revisão do trecho da Udemy
+- Shadowing
 
 ## Quinta
 
-- Anki.
-- Curso da Udemy.
-- News in Levels.
-- Speaking para entrevista.
-- Diário.
+- Anki
+- Udemy
+- News in Levels
+- Speaking de entrevista
+- Diário
 
 ## Sexta
 
-- Anki.
-- Curso da Udemy.
-- Método Accent.
-- ELLLO.
-- Recontagem de conteúdo.
-- Shadowing.
+- Anki
+- Accent
+- ELLLO
+- Recontagem
+- Revisão das frases da semana
+- Shadowing
 
 ## Sábado
 
-- Anki.
-- Revisão ou curso.
-- News in Levels.
-- Conversa simulada de 20 a 30 minutos.
-- Diário.
-- Revisão das frases da semana.
+- Anki
+- Udemy, 30 a 40 minutos ou revisão
+- News in Levels
+- Conversa simulada com IA
+- Diário ou apresentação pessoal
 
 ## Domingo
 
 - Sem conteúdo novo obrigatório.
 - Revisar cards pendentes.
 - Reouvir um áudio conhecido.
-- Repetir frases importantes da semana.
-- Falar por cinco minutos sobre o que aprendeu.
-- Verificar se a rotina está pesada demais.
+- Repetir frases importantes.
+- Falar por 5 minutos sobre a semana.
 
 ---
 
-# Fala espontânea durante o dia
+# Como os cursos se combinam
 
-Continue:
+- **Accent** constrói e analisa frases.
+- **Udemy** oferece volume, repetição e diálogos.
+- **ELLLO** desenvolve listening curto e controlado.
+- **News in Levels** integra leitura, escuta e resumo.
+- **Anki** consolida somente o que merece ser lembrado.
 
-- narrando suas atividades;
-- pensando em inglês;
-- simulando conversas;
-- cantando;
-- repetindo frases do curso;
-- ensaiando entrevistas;
-- descrevendo problemas e soluções.
-
-Mas trate isso como prática espontânea, não como substituto do speaking estruturado.
-
-### Bons momentos
-
-- durante tarefas domésticas;
-- caminhando;
-- organizando arquivos;
-- fazendo pausas;
-- antes de reuniões;
-- depois de estudar uma nova estrutura.
-
-### Evite falar de forma forçada quando:
-
-- estiver muito cansado;
-- estiver tentando resolver um problema difícil;
-- estiver programando ou fazendo debugging;
-- estiver escrevendo algo que exige concentração.
-
-O objetivo é produzir inglês com significado, não falar continuamente por obrigação.
+Não estude uma aula completa da Udemy e uma aula completa do Accent no mesmo dia. Isso sobrecarrega o Anki e duplica prática.
 
 ---
 
-# Sistema de progressão
+# Prática espontânea durante o dia
 
-## Meses 1 a 4
+Use inglês em momentos leves:
 
-### Objetivo
+- narrar suas atividades;
+- pensar em inglês;
+- simular conversas;
+- ensaiar entrevistas;
+- descrever problemas e soluções;
+- cantar;
+- repetir frases do curso.
 
-A1 inicial → A2 funcional.
+Não force a prática quando estiver:
 
-### Prioridades
+- programando;
+- fazendo debugging;
+- escrevendo algo importante;
+- resolvendo um problema complexo;
+- muito cansado.
+
+A prática espontânea complementa, mas não substitui o speaking estruturado.
+
+---
+
+# Progressão
+
+## Meses 1 a 4, A1 → A2
+
+Foco:
 
 - curso From Zero;
-- frases de alta frequência;
-- rotina pessoal;
+- rotina;
 - presente simples;
-- passado simples básico;
-- futuro com `going to`;
-- perguntas e respostas;
-- compreensão de áudio lento;
+- passado básico;
+- futuro com going to;
+- perguntas;
+- frases frequentes;
+- listening lento;
 - fala de 2 a 3 minutos.
 
-### Avance quando conseguir:
+Avance quando conseguir falar sobre sua rotina, responder perguntas simples, entender a ideia principal de áudios A1 e escrever de 80 a 100 palavras.
 
-- falar sobre sua rotina;
-- responder perguntas simples;
-- entender a ideia principal de um áudio A1;
-- escrever 80 a 100 palavras;
-- usar estruturas básicas sem traduzir todas as frases.
+## Meses 5 a 9, A2 → B1 inicial
 
----
-
-## Meses 5 a 9
-
-### Objetivo
-
-A2 → B1 inicial.
-
-### Prioridades
+Foco:
 
 - terminar o curso From Zero;
-- começar o Intermediate gradualmente;
-- aumentar o speaking com IA;
-- falar sobre trabalho e tecnologia;
+- iniciar o curso Intermediate;
+- falar sobre trabalho;
 - praticar entrevistas;
-- escrever 120 a 180 palavras;
-- usar conteúdos A2.
+- escrever de 120 a 180 palavras;
+- consumir conteúdo A2.
 
-### Comece o curso Intermediate quando conseguir:
+Comece o curso Intermediate quando conseguir falar por 5 minutos sobre assuntos familiares e entender cerca de 70% de áudios didáticos conhecidos sem transcript.
 
-- falar por 5 minutos sobre assuntos familiares;
-- entender aproximadamente 70% de áudio didático conhecido sem transcript;
-- responder perguntas simples com menos tradução mental;
-- explicar acontecimentos passados e planos futuros;
-- acompanhar as aulas intermediárias sem considerar cada frase incompreensível.
+## Meses 10 a 15, B1 profissional
 
----
-
-## Meses 10 a 15
-
-### Objetivo
-
-Construir B1 profissional.
-
-### Prioridades
+Foco:
 
 - curso Intermediate;
-- notícias e vídeos sobre temas conhecidos;
-- entrevistas simuladas;
-- explicações de tarefas;
+- entrevistas;
+- explicação de problemas;
 - leitura de documentação curta;
 - escrita profissional;
 - conversas mais longas.
 
-Pratique situações como:
+Pratique explicar tarefas, confirmar requisitos, pedir esclarecimentos, informar atrasos e relatar progresso.
 
-- explicar um problema;
-- pedir esclarecimento;
-- confirmar requisitos;
-- informar atraso;
-- relatar progresso;
-- explicar uma solução;
-- responder perguntas sobre sua experiência.
+## Meses 16 a 24, B2 funcional
 
----
+Foco:
 
-## Meses 16 a 24
-
-### Objetivo
-
-Buscar B2 funcional.
-
-### Prioridades
-
-- menos curso e mais conteúdo real;
+- conteúdo real;
 - conversas de 20 a 40 minutos;
-- vídeos e podcasts progressivamente mais difíceis;
+- diferentes vozes e velocidades;
 - entrevistas internacionais;
 - opiniões e argumentos;
 - escrita profissional;
-- preparação específica para certificação.
+- preparação para certificação.
 
-O curso Intermediate será uma ponte, não o programa completo para B2. O avanço dependerá da sua capacidade de lidar com situações novas, diferentes vozes, maior velocidade e produção mais espontânea.
+O curso não será suficiente sozinho. O avanço dependerá da capacidade de usar inglês em situações novas e menos previsíveis.
 
 ---
 
-# Avaliação a cada quatro semanas
+# Avaliação mensal
 
-Repita tarefas semelhantes todos os meses.
+A cada 4 semanas, repita:
 
 ## Speaking
 
-- apresentação pessoal de 2 minutos;
-- descrição da sua rotina;
-- explicação de um problema de trabalho;
-- resposta para “Tell me about yourself”.
+- apresentação de 2 minutos;
+- rotina;
+- problema de trabalho;
+- "Tell me about yourself".
 
 ## Listening
 
-- um áudio novo do ELLLO ou News in Levels;
+- áudio novo;
 - ideia principal;
-- três detalhes;
+- 3 detalhes;
 - resumo oral sem transcript.
 
 ## Reading
 
-- um texto no seu nível;
-- cinco frases sobre o conteúdo;
-- reutilização de cinco estruturas importantes.
+- texto no seu nível;
+- 5 frases sobre o conteúdo;
+- 5 estruturas reutilizadas.
 
 ## Writing
 
 - texto de 80 a 150 palavras;
 - correção;
 - reescrita;
-- comparação dos erros com o mês anterior.
+- comparação com o mês anterior.
 
-## Anote
+### Pergunta principal
 
-- compreensão;
-- fluência;
-- velocidade de recuperação;
-- gramática;
-- vocabulário;
-- pronúncia;
-- clareza;
-- capacidade de continuar após um erro.
-
-A pergunta principal é:
-
-> **Consigo realizar hoje uma tarefa que não conseguia realizar há quatro semanas?**
+> Consigo realizar hoje uma tarefa que não conseguia realizar há quatro semanas?
 
 ---
 
-# Regra para dias difíceis
+# Rotina mínima para dias difíceis
 
-Quando estiver cansado, faça apenas:
+- Anki: 10 minutos.
+- Curso: 20 minutos.
+- Listening: 10 minutos.
+- Speaking: 10 minutos.
 
-1. Anki por 10 minutos.
-2. Curso por 20 minutos.
-3. Listening por 10 minutos.
-4. Speaking por 5 minutos.
-
-Não abandone a rotina inteira por causa de um dia ruim.
+**Total: 50 minutos.**
 
 Quando precisar reduzir a carga, corte nesta ordem:
 
@@ -591,7 +656,7 @@ Preserve, sempre que possível:
 
 - sono;
 - revisões essenciais;
-- listening ativo curto;
+- listening curto;
 - speaking curto;
 - contato consistente com o inglês.
 
@@ -599,40 +664,15 @@ Preserve, sempre que possível:
 
 # Checklist diário
 
-- [ ] Revisar Anki.
-- [ ] Fazer uma sessão do curso principal.
-- [ ] Falar as frases do curso em voz alta.
-- [ ] Selecionar somente 5 a 8 cards novos no total.
-- [ ] Fazer Accent, quando for o dia planejado.
-- [ ] Realizar um listening ativo.
+- [ ] Revisar o Anki.
+- [ ] Responder os cards sem olhar.
+- [ ] Fazer uma sessão do curso.
+- [ ] Falar as frases em voz alta.
+- [ ] Criar 5 frases úteis do dia.
+- [ ] Fazer Accent, quando planejado.
+- [ ] Fazer um listening ativo.
 - [ ] Fazer speaking estruturado.
-- [ ] Escrever no diário, quando for o dia planejado.
-- [ ] Fazer shadowing, quando for o dia planejado.
-- [ ] Usar inglês espontaneamente durante algumas atividades.
-- [ ] Registrar um erro ou estrutura importante do dia.
-
----
-
-# Versão mínima da rotina
-
-Quando tiver pouco tempo:
-
-- Anki: 10 minutos.
-- Curso: 20 minutos.
-- Listening: 10 minutos.
-- Speaking: 10 minutos.
-
-Total: **50 minutos**.
-
-# Versão normal
-
-- Anki: 15 a 20 minutos.
-- Curso: 40 a 50 minutos.
-- Listening: 20 a 25 minutos.
-- Speaking: 15 a 20 minutos.
-- Diário ou shadowing: 15 a 20 minutos.
-- Accent, três ou quatro vezes por semana: 15 a 20 minutos.
-
-Total: **2h a 2h30**.
-
-A versão normal deve ser sua rotina principal. A versão mínima existe para proteger a continuidade quando o dia estiver difícil.
+- [ ] Escrever no diário, quando planejado.
+- [ ] Fazer shadowing, quando planejado.
+- [ ] Usar inglês espontaneamente.
+- [ ] Registrar um erro ou estrutura importante.
