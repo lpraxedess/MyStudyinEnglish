@@ -4,58 +4,164 @@
 
 ### 1. Curso — 45 min
 - Fazer a lição normalmente.
-- Entender a gramática e exemplos.
-- Criar algumas frases próprias usando o conteúdo.
+- Entender a gramática e os exemplos.
+- Criar 3–5 frases próprias usando o que aprendeu.
+- Falar as frases em voz alta.
 
 ### 2. Anki — 15 min
-- Revisar.
-- 5–10 palavras/frases novas.
-- Priorizar frases completas e expressões úteis.
+- Fazer as revisões do dia.
+- Adicionar 5–10 frases/expressões novas no máximo.
+- Priorizar frases e expressões que encontrou ou precisou usar durante o dia.
+- Responder em voz alta quando possível.
 
 ### 3. Listening — 45 min
-- Escolher um conteúdo curto e compreensível.
-- Ouvir sem legenda.
-- Ouvir com legenda/transcrição.
-- Repetir trechos.
-- Tentar falar junto.
-- Reproduzir algumas frases sem olhar.
+Escolher um conteúdo curto e relativamente compreensível.
 
-### 4. Conversação com IA — 60–90 min
-- 20–30 min: conversa fácil.
-- 20–30 min: conversa com correções.
-- 20–30 min: repetir o mesmo assunto/tarefa tentando melhorar.
-- Se estiver disposto: continuar conversando livremente.
+1. Ouvir sem legenda/transcrição e tentar entender a ideia.
+2. Ouvir novamente com legenda/transcrição em inglês.
+3. Conferir o que não entendeu.
+4. Repetir alguns trechos em voz alta.
+5. Fazer shadowing de pequenos trechos.
+6. Tentar reproduzir algumas frases sem olhar.
 
-### 5. Speaking sozinho — 20 min
-Falar em inglês sobre:
-- seu dia
-- o que está fazendo
-- algo que assistiu
-- seus planos
-- opiniões simples
+Não tentar estudar cada palavra do conteúdo.
 
-Não escrever o texto antes.
+### 4. Conversação com IA — 60–90+ min
+Preferencialmente dividir em sessões durante o dia.
+
+#### Sessão 1 — Conversação guiada — 20–30 min
+- Escolher um tema simples.
+- IA faz perguntas curtas adequadas ao A1.
+- Responder espontaneamente, sem preparar texto.
+- Tentar se expressar mesmo sem conhecer todas as palavras.
+- Pedir ajuda somente quando realmente travar.
+- Receber correção apenas dos erros mais importantes.
+
+**Exemplos de temas:**
+- Meu dia
+- Minha rotina
+- Trabalho
+- Jogos
+- Filmes e séries
+- Comida
+- Família
+- Planos
+- Gostos e preferências
+
+#### Sessão 2 — Aprender + usar — 20–30 min
+Escolher uma habilidade comunicativa.
+
+**Exemplos:**
+- Fazer perguntas
+- Falar sobre o que está fazendo
+- Falar sobre o passado
+- Falar sobre planos
+- Dizer o que gosta ou não gosta
+- Dar opiniões simples
+- Explicar alguma coisa
+- Pedir alguma coisa
+
+Aprender 3–5 estruturas úteis e usá-las imediatamente durante uma conversa.
+
+#### Sessão 3 — Repetir + melhorar — 20–30 min
+- Retomar um tema ou tarefa anterior.
+- Tentar falar novamente sem consultar as respostas.
+- Corrigir os principais erros.
+- Repetir as frases corrigidas em voz alta.
+- Usar as estruturas corrigidas em novas frases.
+- Continuar a conversa naturalmente.
+
+#### Conversação livre — opcional
+Depois da prática estruturada, conversar com a IA pelo tempo que quiser.
+
+Não precisa transformar toda conversa em aula.
+
+### 5. Speaking sozinho — 15–20 min
+Falar espontaneamente sobre:
+- O que fez hoje
+- O que está fazendo
+- O que pretende fazer
+- Algo que assistiu
+- Algo que aprendeu
+- Uma opinião simples
+
+Não escrever antes.
+
+Se não souber uma palavra, tentar explicar usando o inglês que já conhece.
 
 ### 6. Writing — 10 min
-Escrever 5–10 frases sobre o dia.
+Escrever 5–10 frases sobre o dia ou sobre algum assunto.
 
-Corrigir → escolher 2–3 erros importantes → reescrever → ler em voz alta.
+**Escrever → corrigir → escolher 2–3 erros importantes → reescrever → ler em voz alta.**
+
+Não transformar todos os erros em cards do Anki.
 
 ### 7. Reading — 30 min
-Ler algo que realmente tenha interesse.
+Ler algo que realmente tenha interesse e que não seja excessivamente difícil.
 
-Não parar para traduzir cada palavra.
+**Exemplos:**
+- Histórias
+- Notícias simples
+- Reddit
+- Artigos
+- Conteúdo sobre tecnologia
+- Conteúdo relacionado aos seus hobbies
+
+Priorizar entender a mensagem.
+
+Não parar para traduzir cada palavra desconhecida.
 
 ### 8. Imersão livre — 2h+
-YouTube, séries, anime, jogos, podcasts, Reddit, filmes etc.
+Consumir normalmente:
+- YouTube
+- Séries
+- Anime
+- Jogos
+- Podcasts
+- Reddit
+- Filmes
+- Música
+- Conteúdo técnico
 
-Sem transformar tudo em estudo.
+Não transformar a imersão em mais um bloco de estudo.
+
+Se entender pouco, continuar tendo contato com o idioma, mas manter o Listening e Reading estruturados em materiais mais compreensíveis.
+
+---
+
+## Como conversar no A1
+
+Não tentar produzir inglês perfeito.
+
+**Tentar falar → perceber o que falta → receber ajuda → corrigir → repetir → continuar.**
+
+Não parar a conversa para analisar cada pequeno erro.
+
+---
+
+## Regra da IA
+
+Durante conversas estruturadas, pedir para a IA:
+- Usar inglês adequado ao seu nível.
+- Fazer perguntas curtas.
+- Dar tempo para você formular respostas.
+- Não traduzir automaticamente.
+- Não corrigir todos os erros.
+- Priorizar 2–3 erros importantes.
+- Mostrar a forma correta.
+- Pedir para você repetir quando a correção for importante.
+- Incentivar você a fazer perguntas também.
+- Aumentar gradualmente a dificuldade conforme você melhorar.
 
 ---
 
 ## Regra principal
 
-Aprender → usar → errar → receber correção → corrigir → repetir → usar novamente.
+**Aprender → usar → errar → receber feedback → corrigir → repetir → reutilizar.**
+
+Estudar algo e tentar usar aquilo no mesmo dia.
+
+---
 
 ## Prioridade
 
@@ -63,13 +169,40 @@ Aprender → usar → errar → receber correção → corrigir → repetir → 
 2. Listening
 3. Reading
 4. Writing
-5. Grammar/Anki
+5. Gramática/Anki
 
-## Tempo
+---
 
-~3–4h de estudo ativo  
-+ 2h ou mais de exposição natural
+## Tempo diário
 
-Não precisa cumprir tudo perfeitamente todos os dias. Se tiver pouco tempo, faça:
+**Estudo/prática estruturada:** ~3–4h
 
-**Curso + Anki + 60 min de conversação + listening.**
+**Imersão natural:** 2h ou mais
+
+**Conversação adicional com IA:** quanto quiser.
+
+Não é necessário fazer as atividades em sequência.
+
+Distribuir ao longo do dia é perfeitamente válido.
+
+---
+
+## Dia com pouco tempo
+
+Priorizar:
+
+**Curso + Anki + Listening + Conversação**
+
+---
+
+## Objetivo no A1
+
+- Construir frases simples sem preparar antes.
+- Fazer e responder perguntas básicas.
+- Falar sobre rotina, presente, passado e planos.
+- Aumentar vocabulário de alta frequência.
+- Entender inglês simples falado.
+- Diminuir gradualmente a necessidade de traduzir mentalmente.
+- Conseguir continuar falando mesmo quando faltar uma palavra.
+
+A dificuldade deve aumentar conforme o seu inglês aumentar.
