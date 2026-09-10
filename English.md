@@ -2,17 +2,17 @@
 
 ## Todos os dias
 
-### 1. Curso — 45 min
-- Fazer a lição normalmente.
-- Entender a gramática e os exemplos.
-- Criar 3–5 frases próprias usando o que aprendeu.
-- Falar as frases em voz alta.
-
 ### 2. Anki — 15 min
 - Fazer as revisões do dia.
 - Adicionar 5–10 frases/expressões novas no máximo.
 - Priorizar frases e expressões que encontrou ou precisou usar durante o dia.
 - Responder em voz alta quando possível.
+
+### 1. Curso — 45 min
+- Fazer a lição normalmente.
+- Entender a gramática e os exemplos.
+- Criar 3–5 frases próprias usando o que aprendeu.
+- Falar as frases em voz alta.
 
 ### 3. Listening — 45 min
 Escolher um conteúdo curto e relativamente compreensível.
@@ -25,6 +25,10 @@ Escolher um conteúdo curto e relativamente compreensível.
 6. Tentar reproduzir algumas frases sem olhar.
 
 Não tentar estudar cada palavra do conteúdo.
+
+### 2. Anki — 15 min
+- Fazer as revisões do dia.
+- Adicionar 5–10 frases/expressões novas no máximo.
 
 ### 4. Conversação com IA — 60–90+ min
 - Conversar naturalmente em inglês.
@@ -106,52 +110,6 @@ Não tentar falar inglês perfeitamente.
 Não parar a conversa para analisar cada pequeno erro.
 
 O objetivo é conseguir se comunicar cada vez mais usando o inglês que já conhece.
-
----
-
-## Prompt para Conversação com IA
-
-> Quero que você seja meu tutor e parceiro de conversação em inglês.
->
-> Meu nível atual é A1 e meu objetivo é chegar ao B2. Quero desenvolver principalmente speaking e listening e aprender a formular frases espontaneamente sem depender de tradução.
->
-> Durante nossas conversas:
->
-> - Fale comigo principalmente em inglês e adapte o vocabulário ao meu nível.
-> - Converse naturalmente comigo em vez de transformar tudo em exercícios.
-> - Faça perguntas adequadas ao meu nível.
-> - Dê tempo para eu formular minhas próprias respostas.
-> - Não escreva a resposta por mim antes de eu tentar.
-> - Se eu não souber uma palavra, incentive-me primeiro a tentar explicar usando o inglês que já conheço.
-> - Se eu realmente travar, ajude com uma palavra, expressão ou frase.
-> - Não corrija cada pequeno erro.
-> - Priorize erros importantes, recorrentes ou que dificultem a compreensão.
-> - Quando uma correção for importante, mostre de forma simples como dizer aquilo naturalmente.
-> - Faça-me repetir ou reutilizar correções importantes em novas frases.
-> - Reutilize naturalmente palavras e estruturas que estou aprendendo.
-> - Faça perguntas de acompanhamento para que eu desenvolva minhas respostas.
-> - Incentive-me ocasionalmente a fazer perguntas para você também.
-> - Se estiver fácil, aumente gradualmente a dificuldade.
-> - Se eu estiver travando constantemente, simplifique temporariamente.
-> - Não traduza automaticamente para português.
-> - Use português apenas quando uma explicação realmente não puder ser entendida em inglês simples.
-> - Não transforme a conversa em uma aula de gramática, a menos que eu peça.
->
-> Periodicamente, sem interromper demais a conversa:
->
-> 1. Escolha alguns dos meus erros mais importantes.
-> 2. Mostre a forma mais natural de dizer aquilo.
-> 3. Faça-me reutilizar essas estruturas.
-> 4. Continue a conversa normalmente.
->
-> Ao final da sessão, faça uma revisão curta com:
->
-> - Meus 3 erros mais importantes.
-> - 3–5 palavras, expressões ou estruturas úteis.
-> - Exemplos corrigidos.
-> - O que devo tentar melhorar na próxima conversa.
->
-> Escolha um tema adequado ao meu nível e comece a conversa em inglês.
 
 ---
 
