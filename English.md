@@ -2,19 +2,25 @@
 
 ## Todos os dias — 2h
 
-### 1. Curso — 45 min
-**Ordem:** Accent → Zero to Conversational → Intermediate to Fluent
+### 1. Anki — 15 min
+- Fazer as revisões.
+
+### 2. Cursos — 60 min
+**Ordem:** 2 Aulas 
 
 - Fazer a aula normalmente.
 - Fazer os exercícios.
 - Criar 3–5 frases próprias.
 - Falar as frases em voz alta.
 
-### 2. Anki — 15 min
-- Fazer as revisões.
-- Adicionar 0–10 frases/expressões úteis.
-- Priorizar coisas encontradas ou que tentou usar no dia.
-- Responder em voz alta.
+### Reading — 20–30 min
+Ler algo interessante e relativamente compreensível sem traduzir cada palavra.
+
+link : https://www.newsinlevels.com/
+
+### Writing — 20–30 min
+
+- Escrever no diario o que foi feito durante o dia.
 
 ### 3. Listening — 30 min
 1. Ouvir sem legenda.
@@ -33,61 +39,3 @@
 - Corrigir apenas os erros importantes.
 - Repetir e reutilizar as correções.
 - Aumentar a dificuldade gradualmente.
-
-> **Tentar → errar → corrigir → repetir → reutilizar.**
-
----
-
-## Tempo extra — opcional
-
-### Reading — 20–30 min
-Ler algo interessante e relativamente compreensível sem traduzir cada palavra.
-
-### Writing — 10–15 min
-**Escrever → corrigir 2–3 erros → reescrever → ler em voz alta.**
-
-### Speaking sozinho — 10–15 min
-Falar espontaneamente sobre seu dia, planos, experiências ou opiniões.
-
----
-
-## Imersão livre
-YouTube, séries, anime, jogos, podcasts, Reddit, filmes, música e tecnologia em inglês.
-
-> Consumir naturalmente. Não transformar em estudo obrigatório.
-
----
-
-## 1x por semana — 30 min
-- Falar 5–10 min sem preparação.
-- Escrever um pequeno texto sem ajuda.
-- Revisar erros recorrentes.
-- Revisar estruturas que ainda não consegue usar espontaneamente.
-
----
-
-## Progressão
-
-**A1 → A2 → B1 → B2**
-
-Não avançar por tempo ou quantidade de aulas.
-
-Aumentar a dificuldade quando o nível atual estiver ficando confortável.
-
----
-
-## Resumo
-
-| Atividade | Tempo |
-|---|---:|
-| Curso | 45 min |
-| Anki | 15 min |
-| Listening | 30 min |
-| Conversação | 30 min |
-| **Total** | **2h** |
-
-**+ Tempo extra:** Reading / Writing / Speaking  
-**+ Imersão livre:** quanto quiser  
-**+ Revisão:** 1x por semana
-
-> **Aprender → usar → receber feedback → corrigir → repetir → reutilizar.**
