@@ -97,17 +97,15 @@ Priorizar interação real regularmente.
 
 ## Durante o Dia
 
-Usar inglês naturalmente em:
-
-- pensamentos e pequenas narrações;
-- pesquisas;
-- celular e computador;
-- IA;
-- YouTube e podcasts;
-- jogos e redes sociais;
-- séries e filmes.
-
-> Exposição complementar. Não transformar tudo em estudo.
+- Chi’s Sweet Home — A1. Falas bem curtas e situações simples.
+- Doraemon — A1/A2. Escola, família, amigos e cotidiano.
+- Komi Can’t Communicate — A2. Muito vocabulário de escola e relações sociais.
+- Horimiya — A2/B1. Excelente para conversas naturais do cotidiano.
+- K-On! — A2/B1. Escola, amigos, comida, música e atividades diárias.
+- Spy × Family — A2/B1. Família e escola, com partes de ação.
+- My Hero Academia — A2/B1. Diálogos geralmente diretos, mas com vocabulário de poderes.
+- Sword Art Online — A2/B1. Relativamente simples se você conhece jogos/RPG.
+- That Time I Got Reincarnated as a Slime — A2/B1. Um dos isekais mais acessíveis, embora tenha vocabulário de fantasia.
 
 ---
 
