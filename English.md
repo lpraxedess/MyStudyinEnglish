@@ -1,4 +1,4 @@
-```markdown
+
 # Inglês — A1 → B2
 
 > **Objetivo:** desenvolver compreensão e comunicação em inglês com o mínimo de estudo redundante.
@@ -428,4 +428,4 @@ Reduzir gradualmente a dependência de:
 Não procurar o método perfeito.
 
 Executar, medir e corrigir o maior gargalo.
-```
+
