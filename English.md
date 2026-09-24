@@ -1,105 +1,152 @@
-# Rotina de Inglês — A1 → B2
+# Inglês — A1 → B2
 
-## 1. Anki
+> **Objetivo:** compreender, recuperar, produzir e reutilizar inglês diariamente.
 
-- Fazer as revisões diariamente.
-- Adicionar apenas vocabulário, expressões, estruturas e correções realmente úteis.
-- Priorizar frases contextualizadas.
-- Tentar recuperar a resposta antes de revelá-la.
+## Rotina Diária
+
+### 1. Anki — 20–30 min
+
+- Fazer as revisões.
+- Recuperar antes de revelar.
 - Falar as frases em voz alta.
+- Adicionar apenas vocabulário, expressões, estruturas e erros úteis.
+- Priorizar frases contextualizadas.
 
-> Não adicionar tudo que for desconhecido. Priorizar o que quero entender ou usar novamente.
-
----
-
-## 2. Curso → Produção
-
-1. Fazer a aula e os exercícios.
-2. Fechar o material e tentar lembrar o que aprendeu.
-3. Criar 3–5 frases próprias com o conteúdo.
-4. Falar as frases sem ler.
-5. Adicionar ao Anki apenas estruturas/frases importantes.
-6. Tentar reutilizá-las durante o dia.
-
-**Objetivo:** aprender → recuperar → produzir → reutilizar.
+> Não adicionar tudo que for desconhecido.
 
 ---
 
-## 3. Conteúdo em Inglês
+### 2. Curso — 60–90 min
 
-Usar séries, filmes, anime, YouTube, podcasts e notícias para trabalhar várias habilidades simultaneamente.
+1. Revisar mentalmente a aula anterior.
+2. Fazer a aula e os exercícios.
+3. Fechar o material e recuperar o conteúdo.
+4. Criar 3–5 frases próprias.
+5. Falar as frases sem ler.
+6. Salvar no Anki apenas o que for importante.
 
-### Vídeo/áudio
-
-1. Assistir normalmente em inglês.
-2. Usar legenda em inglês quando necessário.
-3. Ao encontrar um trecho importante ou difícil:
-   - pausar;
-   - conferir a legenda;
-   - entender a expressão;
-   - repetir o áudio;
-   - imitar pronúncia, ritmo e entonação;
-   - fazer shadowing;
-   - salvar no Anki se realmente for útil.
-4. Continuar assistindo.
-
-Não pausar para tudo.
-
-Depois de assistir, explicar em inglês o que aconteceu ou o que entendeu.
-
-**Treina:** Listening + Vocabulary + Pronunciation + Shadowing + Speaking.
-
-### Reading
-
-1. Ler normalmente buscando compreender a mensagem.
-2. Pesquisar apenas o que for importante.
-3. Salvar expressões úteis no Anki.
-4. Ler alguns trechos em voz alta.
-5. Depois, explicar em inglês o que leu.
-
-**Treina:** Reading + Vocabulary + Pronunciation + Speaking.
+> **Aprender → Recuperar → Produzir → Reutilizar**
 
 ---
 
-## 4. Diário → Speaking
+### 3. Listening — 45–60 min
 
-Todos os dias:
+- Ouvir conteúdo adequado ao nível.
+- Priorizar compreensão da mensagem.
+- Usar legenda em inglês quando necessário.
+- Não pausar para tudo.
 
-1. Escrever sobre algo que fez, está fazendo ou pretende fazer.
-2. Tentar escrever diretamente em inglês.
-3. Ser detalhado, mas sem escrever desnecessariamente.
-4. Corrigir os erros importantes.
-5. Entender as principais correções.
-6. Reescrever as frases problemáticas sem copiar.
-7. Salvar no Anki apenas erros/estruturas relevantes.
-8. Fechar o texto e contar oralmente o que escreveu.
+Para trechos importantes:
 
-**Treina:** Writing + Grammar + Vocabulary + Speaking + Recall.
+1. Ouvir sem legenda.
+2. Conferir o que foi dito.
+3. Ouvir novamente.
+4. Repetir e imitar pronúncia, ritmo e entonação.
+5. Fazer shadowing.
+6. Salvar no Anki apenas se for útil.
+
+Ao terminar, resumir oralmente sem consultar o conteúdo.
 
 ---
 
-## 5. Inglês Durante o Dia
+### 4. Reading — 45–60 min
 
-Narrar mentalmente ou em voz alta:
+- Ler material adequado ao nível.
+- Priorizar compreensão e fluidez.
+- Não pesquisar cada palavra.
+- Pesquisar palavras importantes, recorrentes ou que bloqueiem a compreensão.
+- Observar expressões e estruturas úteis.
+- Ler alguns trechos em voz alta.
 
-- o que está fazendo;
-- o que acabou de fazer;
-- o que vai fazer;
-- decisões e problemas;
-- opiniões simples.
+Ao terminar, explicar em inglês o que leu.
+
+> **A1–A2:** priorizar graded readers e conteúdo adaptado.
+
+---
+
+### 5. Writing — 30–45 min
+
+1. Escrever diretamente em inglês.
+2. Corrigir os erros importantes.
+3. Entender as correções.
+4. Reescrever sem copiar.
+5. Salvar erros recorrentes no Anki.
+6. Fechar o texto e explicar oralmente o que escreveu.
+
+> Priorizar erros recorrentes, não perfeição.
+
+---
+
+### 6. Speaking — 30–60 min
+
+Praticar diariamente com:
+
+- conversação;
+- tutor ou IA por voz;
+- monólogos;
+- resumos;
+- opiniões e explicações.
 
 Quando faltar uma palavra:
 
-1. tentar explicar em inglês;
-2. reformular;
-3. pesquisar somente se necessário.
+> **Tentar lembrar → Explicar → Reformular → Pesquisar**
 
-Usar inglês também em:
+Priorizar interação real regularmente.
 
-- celular e computador;
+---
+
+## Durante o Dia
+
+Usar inglês naturalmente em:
+
+- pensamentos e pequenas narrações;
 - pesquisas;
+- celular e computador;
 - IA;
-- redes sociais;
-- jogos;
-- entretenimento;
-- notas e listas.
+- YouTube e podcasts;
+- jogos e redes sociais;
+- séries e filmes.
+
+> Exposição complementar. Não transformar tudo em estudo.
+
+---
+
+## Organização
+
+**Manhã**
+- [ ] Anki
+- [ ] Curso
+- [ ] Listening
+
+**Tarde**
+- [ ] Reading
+- [ ] Writing
+
+**Noite**
+- [ ] Speaking
+- [ ] Entretenimento em inglês
+
+**Estudo deliberado:** ~3,5–5h/dia.
+
+---
+
+## Avaliação — A cada 4–8 semanas
+
+- **Listening:** ouvir algo novo e resumir.
+- **Reading:** ler algo novo e explicar.
+- **Speaking:** gravar 3–5 min sem roteiro.
+- **Writing:** escrever 150–250 palavras sem ajuda.
+
+Comparar com avaliações anteriores para identificar evolução e dificuldades.
+
+---
+
+## Princípios
+
+> **CURSO** → aprender  
+> **INPUT** → compreender  
+> **ANKI** → reter  
+> **OUTPUT** → produzir  
+> **FEEDBACK** → corrigir  
+> **INTERAÇÃO** → comunicar  
+> **AVALIAÇÃO** → medir
