@@ -1,14 +1,15 @@
-
 # Inglês — A1 → B2
 
-> **Objetivo:** desenvolver compreensão e comunicação em inglês com o mínimo de estudo redundante.
+> **Objetivo:** desenvolver compreensão e comunicação em inglês de forma progressiva, integrada e eficiente.
 
-## Rotina Diária
+---
 
-### 1. Anki — 20–30 min
+# Rotina Diária
 
-- Fazer todas as revisões.
-- Tentar recuperar antes de revelar.
+## 1. Anki — 15–20 min
+
+- Fazer as revisões antes de adicionar cartões novos.
+- Recuperar a resposta antes de revelar.
 - Falar as frases em voz alta.
 - Adicionar apenas:
   - vocabulário recorrente;
@@ -16,101 +17,86 @@
   - estruturas importantes;
   - erros recorrentes.
 - Preferir frases contextualizadas.
-- Evitar acumular cartões.
+- Manter poucos cartões novos por dia.
 
-> **Regra:** se não for útil ou recorrente, não adicionar.
+> **Regra:** Anki é ferramenta de retenção, não a principal fonte de vocabulário.
 
 ---
 
-### 2. Curso — 45–60 min
+## 2. Curso — 35–50 min
 
 Usar **um único curso estruturado** como guia principal.
 
-1. Revisar mentalmente a aula anterior.
+1. Recuperar brevemente a aula anterior.
 2. Estudar o conteúdo novo.
 3. Fazer os exercícios.
-4. Fechar o material.
-5. Recuperar os principais pontos sem consultar.
-6. Criar 3–5 frases próprias.
-7. Falar essas frases sem ler.
-8. Adicionar ao Anki somente o que merece revisão futura.
+4. Fechar o material e recuperar os pontos principais.
+5. Criar e falar 3–5 frases próprias.
+6. Levar ao Anki somente o que merece revisão futura.
 
 > **Aprender → Recuperar → Produzir → Reutilizar**
 
-Não acumular cursos, métodos ou professores simultaneamente.
-
-
-
 ---
 
-### 3. Reading — 30–45 min
+## 3. Input Integrado — 45–60 min
 
-Ler conteúdo adequado ao nível.
+Usar conteúdo adequado ao nível com áudio + texto.
 
-- Priorizar compreensão e fluidez.
-- Não traduzir mentalmente cada frase.
-- Não pesquisar todas as palavras.
-- Pesquisar quando:
-  - impedir a compreensão;
-  - aparecer repetidamente;
-  - parecer particularmente útil.
-- Observar frases e estruturas recorrentes.
-- Ler pequenos trechos em voz alta quando útil.
+### Protocolo
 
-Ao terminar:
+1. **Listening:** ouvir sem texto — 1×.
+2. **Reading:** ler buscando compreender a mensagem.
+3. **Listening + texto:** ouvir acompanhando e observar pronúncia e estruturas.
+4. **Shadowing:** praticar 2–5 frases relevantes.
+5. **Retelling:** fechar o material e recontar com suas próprias palavras.
+6. **Feedback:** corrigir 1–3 erros importantes.
+7. **Dia seguinte:** recuperar brevemente o conteúdo anterior antes do novo.
 
-> Explicar oralmente, em inglês, o que foi lido.
+> Pesquisar ou traduzir somente quando necessário para compreender.
 
-#### A1–A2
+### A1–A2
 
 Priorizar:
 
-- graded readers;
+- News in Levels;
+- graded readers com áudio;
 - diálogos;
 - histórias adaptadas;
-- textos CEFR;
-- conteúdo simples e previsível.
+- conteúdo CEFR.
 
-#### B1+
+### B1+
 
-Aumentar progressivamente o contato com conteúdo nativo.
+Substituir progressivamente por conteúdo autêntico acessível.
 
 ---
-### 4. Listening — 45–60 min
 
-Priorizar conteúdo adequado ao nível.
+## 4. Input Extensivo — 30–45 min
 
-#### Listening extensivo — ~80%
+Alternar entre **Reading** e **Listening**.
 
-- Ouvir para compreender a mensagem.
+### Reading
+
+Ler por compreensão e fluidez.
+
+### Listening
+
+Ouvir buscando acompanhar a mensagem sem analisar cada detalhe.
+
+### Regras
+
+- Escolher conteúdo relativamente fácil.
+- Não pesquisar ou traduzir tudo.
 - Não pausar constantemente.
-- Não pesquisar cada palavra.
 - Usar legenda em inglês quando necessário.
-- Evitar legenda em português durante o estudo deliberado.
-- Aceitar palavras desconhecidas quando não impedirem a compreensão.
+- Continuar mesmo com algumas lacunas de compreensão.
 
-#### Listening intensivo — ~20%
-
-Selecionar apenas pequenos trechos importantes.
-
-1. Ouvir sem legenda.
-2. Tentar identificar o que foi dito.
-3. Conferir com legenda/transcrição.
-4. Ouvir novamente.
-5. Repetir em voz alta.
-6. Imitar pronúncia, ritmo e entonação.
-7. Fazer shadowing algumas vezes.
-8. Reouvir sem apoio.
-
-Ao terminar:
-
-> Resumir oralmente o conteúdo em inglês sem consultar o material.
+> **Objetivo:** aumentar volume de contato com inglês sem transformar todo input em estudo intensivo.
 
 ---
 
-### 5. Speaking — 45–60 min
+## 5. Speaking — 30–45 min
 
-Praticar todos os dias.
+Praticar diariamente.
 
 Alternar entre:
 
@@ -118,97 +104,115 @@ Alternar entre:
 - tutor;
 - IA por voz;
 - monólogo;
-- resumo;
+- retelling;
 - descrição;
 - storytelling;
-- explicação;
 - opinião;
 - perguntas e respostas.
 
+### Durante a fala
+
 Quando faltar uma palavra:
 
-> **Tentar lembrar → Explicar → Reformular → Pesquisar**
+> **Lembrar → Explicar → Reformular → Continuar**
 
-Durante a prática:
+Priorizar comunicação durante a atividade.
 
-- priorizar comunicação;
-- evitar interromper constantemente para corrigir;
-- identificar erros recorrentes;
-- corrigir os erros mais importantes depois;
-- repetir corretamente estruturas problemáticas.
+Depois:
 
-Ter interação real regularmente.
+1. Identificar 1–3 erros importantes.
+2. Corrigir.
+3. Criar algumas variações.
+4. Usar novamente em produção espontânea.
 
-> **Prioridade:** comunicar primeiro, corrigir depois.
+> **Comunicar → Corrigir → Reutilizar**
 
 ---
 
-## Writing — 20–30 min | 3–4× por semana
+## 6. Writing — 20–30 min | 3× por semana
 
 1. Escrever diretamente em inglês.
-2. Não consultar tradutor durante a primeira versão.
-3. Receber correções.
-4. Identificar os erros importantes.
-5. Entender por que estavam errados.
-6. Reescrever sem copiar.
-7. Adicionar ao Anki apenas erros recorrentes ou estruturas úteis.
-8. Explicar oralmente o conteúdo escrito.
+2. Receber correções.
+3. Identificar os principais erros.
+4. Reescrever sem copiar.
+5. Reutilizar as principais correções.
 
 Priorizar:
 
-- mensagens;
 - diário;
+- mensagens;
 - resumos;
 - descrições;
 - opiniões;
 - histórias;
-- textos relacionados ao cotidiano.
+- situações do cotidiano.
 
-> **Objetivo:** clareza e reutilização, não perfeição.
+Nos dias de Writing, reduzir parte do Speaking ou Input Extensivo.
+
+> **Writing substitui parte da rotina; não é simplesmente adicionado ao tempo total.**
 
 ---
 
-## Entretenimento — Opcional
+# Interação Real — 2–4× por semana
 
-Consumir inglês naturalmente durante o dia:
+Conversar com outra pessoa em inglês regularmente.
+
+Priorizar situações que exijam:
+
+- respostas espontâneas;
+- perguntas;
+- esclarecimentos;
+- reformulação;
+- reação em tempo real.
+
+IA pode complementar, mas não substituir completamente interação humana.
+
+---
+
+# Entretenimento — Opcional
+
+Consumir inglês naturalmente:
 
 - YouTube;
 - séries;
-- anime;
 - filmes;
+- anime;
 - jogos;
 - podcasts;
-- redes sociais;
-- música.
+- música;
+- redes sociais.
+
+> **Estudo deliberado:** material adequado ao nível.  
+> **Entretenimento:** exposição adicional.
 
 Não transformar entretenimento em estudo intensivo.
 
-> **Estudo deliberado:** material adequado ao nível.  
-> **Entretenimento:** exposição adicional, mesmo que seja difícil.
-
-Usar legenda em inglês quando ajudar.
-
 ---
 
-## Distribuição
+# Distribuição
 
-### Manhã
+## Manhã
 
-- [ ] Anki — 20–30 min
-- [ ] Curso — 45–60 min
-- [ ] Listening — 45–60 min
+- [ ] Anki — 15–20 min
+- [ ] Curso — 35–50 min
 
-### Tarde
+## Tarde
 
-- [ ] Reading — 30–45 min
-- [ ] Writing — 20–30 min *(3–4×/semana)*
+- [ ] Input Integrado — 45–60 min
+- [ ] Reading ou Listening Extensivo — 30–45 min
 
-### Noite
+## Noite
 
-- [ ] Speaking — 45–60 min
-- [ ] Entretenimento em inglês *(opcional)*
+- [ ] Speaking — 30–45 min
+- [ ] Entretenimento — opcional
 
-**Estudo deliberado:** ~3–4h/dia.
+### 3× por semana
+
+- [ ] Writing — 20–30 min substituindo parte do Speaking ou Input Extensivo
+
+**Estudo deliberado:** aproximadamente 2h35–3h20/dia.
+
+Tempo adicional deve priorizar exposição natural ao inglês.
 
 ---
 
@@ -216,127 +220,125 @@ Usar legenda em inglês quando ajudar.
 
 Se houver pouco tempo:
 
-1. **Listening**
-2. **Speaking**
-3. **Curso**
-4. **Anki**
-5. **Reading**
-6. **Writing**
+1. Input Integrado
+2. Speaking
+3. Curso
+4. Anki
+5. Input Extensivo
+6. Writing
 
-Não eliminar completamente nenhuma habilidade por longos períodos.
+Não abandonar nenhuma habilidade por períodos prolongados.
 
 ---
 
 # Regra de Dificuldade
 
-O material principal deve ser suficientemente fácil para compreender a mensagem sem depender constantemente de tradução.
-
 ### Fácil demais
 
-- compreensão praticamente total;
-- nenhuma dificuldade;
-- poucas estruturas novas.
+Compreensão praticamente total e pouco aprendizado novo.
 
 → aumentar gradualmente a dificuldade.
 
 ### Adequado
 
-- entende a mensagem;
-- encontra algumas palavras e estruturas novas;
-- consegue acompanhar sem interromper constantemente.
+Compreende a mensagem e encontra algumas palavras ou estruturas novas sem perder constantemente o fluxo.
 
-→ permanecer nesse nível.
+→ permanecer.
 
 ### Difícil demais
 
-- perde frequentemente o sentido;
-- precisa traduzir constantemente;
-- pausa a todo momento;
-- depende completamente de legenda/transcrição.
+Perde frequentemente o sentido e depende constantemente de tradução, legenda ou transcrição.
 
-→ usar material mais simples.
+→ reduzir a dificuldade.
+
+---
+
+# Tradução
+
+Buscar progressivamente:
+
+> **English → Meaning**
+
+em vez de:
+
+> **English → Portuguese → Meaning**
+
+Usar português como ferramenta de verificação quando necessário, não como etapa obrigatória.
 
 ---
 
 # Feedback
 
-Buscar feedback principalmente para:
+Priorizar:
 
 - erros recorrentes;
-- erros que prejudicam compreensão;
-- pronúncia problemática;
-- estruturas usadas frequentemente;
-- escrita;
-- speaking.
+- erros que prejudicam comunicação;
+- pronúncia que prejudica compreensão;
+- estruturas usadas frequentemente.
 
-Não tentar corrigir absolutamente tudo.
+> **Erro → Correção → Recuperação → Reutilização**
 
-> **Erro recorrente → Correção → Recuperação → Uso novamente**
+Não tentar corrigir tudo.
 
 ---
 
-# Avaliação — A cada 4–8 semanas
+# Avaliação — A Cada 6 Semanas
 
-Usar conteúdo nunca estudado anteriormente.
+Usar sempre conteúdo novo e condições semelhantes.
 
 ### Listening
 
-- ouvir algo novo;
-- sem legenda inicialmente;
-- resumir oralmente.
+Ouvir conteúdo novo sem legenda inicialmente e resumir oralmente.
 
 ### Reading
 
-- ler algo novo;
-- explicar o conteúdo sem consultar.
+Ler conteúdo novo, fechar o material e explicar o que entendeu.
 
 ### Speaking
 
-Gravar 3–5 minutos sem roteiro sobre tema semelhante entre avaliações.
+Gravar 3–5 minutos sem roteiro.
 
 Observar:
 
-- pausas;
 - fluidez;
-- vocabulário;
+- pausas;
 - clareza;
-- capacidade de reformular;
+- vocabulário;
+- reformulação;
 - erros recorrentes.
 
 ### Writing
 
-Escrever 150–250 palavras sem ajuda.
+Escrever sem ajuda:
 
-Observar:
+- **A1:** 50–100 palavras
+- **A2:** 100–150 palavras
+- **B1–B2:** 150–250 palavras
 
-- clareza;
-- vocabulário;
-- gramática;
-- variedade de estruturas;
-- erros recorrentes.
-
-> Comparar consigo mesmo, não com conteúdo já memorizado.
+Guardar gravações e textos para comparação futura.
 
 ---
 
 # Ajuste da Rotina
 
-A cada avaliação:
+Após cada avaliação:
 
 1. Identificar o maior gargalo.
 2. Aumentar temporariamente a prática dessa habilidade.
 3. Manter as demais.
-4. Reavaliar depois de 4–8 semanas.
+4. Reavaliar no próximo ciclo.
 
 Exemplos:
 
-> Listening fraco → +20–30 min de listening.
+> **Listening fraco:** aumentar listening compreensível.
 
-> Speaking fraco → +20–30 min de conversação.
+> **Speaking fraco:** aumentar conversação e produção espontânea.
 
-> Vocabulário insuficiente → aumentar reading/input, não simplesmente criar centenas de cartões.
+> **Vocabulário fraco:** aumentar Reading e Listening antes de aumentar Anki.
 
-> Muitos erros recorrentes → aumentar feedback e reutilização das correções.
+> **Erros recorrentes:** aumentar feedback e reutilização das correções.
+
+> **Pronúncia fraca:** aumentar prática direcionada de listening, repetição e shadowing.
 
 ---
 
@@ -346,24 +348,28 @@ Exemplos:
 
 Priorizar:
 
-- inglês compreensível;
+- conteúdo compreensível;
 - vocabulário frequente;
-- frases comuns;
-- listening simples;
-- graded readers;
+- expressões comuns;
 - estruturas fundamentais;
-- speaking básico.
+- graded content;
+- listening simples;
+- comunicação básica.
+
+---
 
 ## B1
 
-Aumentar:
+Aumentar progressivamente:
 
 - conteúdo autêntico;
 - conversação;
-- leitura;
-- velocidade de listening;
+- leitura extensa;
+- velocidade do listening;
 - variedade de assuntos;
 - produção espontânea.
+
+---
 
 ## B2
 
@@ -371,62 +377,72 @@ Priorizar:
 
 - conteúdo nativo;
 - conversas longas;
-- precisão;
-- argumentação;
-- vocabulário contextual;
 - diferentes sotaques;
 - leitura extensa;
+- argumentação;
+- precisão;
 - produção espontânea.
 
-Reduzir gradualmente a dependência de:
+Reduzir progressivamente a dependência de:
 
 - conteúdo adaptado;
-- exercícios artificiais;
 - tradução;
 - legendas;
+- exercícios artificiais;
 - estudo explícito de vocabulário.
 
 ---
 
 # Regras
 
-1. **Um curso principal.**
-2. **Input todos os dias.**
-3. **Output todos os dias.**
-4. **Conteúdo adequado ao nível.**
-5. **Recuperar antes de consultar.**
-6. **Não pesquisar tudo.**
-7. **Não colocar tudo no Anki.**
-8. **Corrigir padrões, não cada erro.**
-9. **Reutilizar o que foi aprendido.**
-10. **Não trocar de método constantemente.**
-11. **Não confundir dificuldade com eficiência.**
-12. **Não estudar inglês apenas para estudar inglês: usar o idioma.**
+1. Um curso principal.
+2. Input todos os dias.
+3. Output todos os dias.
+4. Usar conteúdo adequado ao nível.
+5. Recuperar antes de consultar.
+6. Não pesquisar tudo.
+7. Não traduzir tudo.
+8. Não colocar tudo no Anki.
+9. Corrigir padrões, não cada erro.
+10. Reutilizar o que foi aprendido.
+11. Espaçar parte das revisões.
+12. Não repetir excessivamente o mesmo conteúdo na mesma sessão.
+13. Produzir com suas próprias palavras.
+14. Ter interação humana regularmente.
+15. Não trocar constantemente de método.
+16. Não confundir dificuldade com eficiência.
+17. Aumentar conteúdo autêntico progressivamente.
+18. Medir progresso com conteúdo novo.
+19. Ajustar a rotina pelo maior gargalo.
+20. Usar inglês para comunicar, não apenas para estudar.
 
 ---
 
 # Sistema
 
 > **CURSO** → estrutura  
-> **INPUT** → aquisição e compreensão  
+> **INPUT** → aquisição  
 > **ANKI** → retenção  
-> **OUTPUT** → recuperação e produção  
+> **OUTPUT** → produção  
 > **FEEDBACK** → correção  
 > **INTERAÇÃO** → comunicação  
+> **SPACING** → consolidação  
+> **REUTILIZAÇÃO** → automatização  
 > **AVALIAÇÃO** → diagnóstico  
 > **AJUSTE** → eficiência
 
-## Ciclo Principal
+---
 
-> **Compreender → Perceber → Recuperar → Produzir → Receber feedback → Corrigir → Reutilizar**
+# Ciclo Principal
+
+> **Compreender → Perceber → Recuperar → Produzir → Receber feedback → Corrigir → Espaçar → Reutilizar**
 
 ---
 
-# Princípio Final
+# Princípio
 
-> **Consistência + conteúdo compreensível + recuperação + produção + feedback + tempo.**
+> **Consistência + input compreensível + recuperação + produção + feedback + repetição espaçada + uso real do idioma.**
 
-Não procurar o método perfeito.
+Conforme o nível aumenta:
 
-Executar, medir e corrigir o maior gargalo.
-
+> **menos estudar inglês → mais usar inglês.**
