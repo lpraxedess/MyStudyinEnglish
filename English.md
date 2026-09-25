@@ -39,41 +39,11 @@ Usar **um único curso estruturado** como guia principal.
 
 Não acumular cursos, métodos ou professores simultaneamente.
 
----
 
-### 3. Listening — 45–60 min
-
-Priorizar conteúdo adequado ao nível.
-
-#### Listening extensivo — ~80%
-
-- Ouvir para compreender a mensagem.
-- Não pausar constantemente.
-- Não pesquisar cada palavra.
-- Usar legenda em inglês quando necessário.
-- Evitar legenda em português durante o estudo deliberado.
-- Aceitar palavras desconhecidas quando não impedirem a compreensão.
-
-#### Listening intensivo — ~20%
-
-Selecionar apenas pequenos trechos importantes.
-
-1. Ouvir sem legenda.
-2. Tentar identificar o que foi dito.
-3. Conferir com legenda/transcrição.
-4. Ouvir novamente.
-5. Repetir em voz alta.
-6. Imitar pronúncia, ritmo e entonação.
-7. Fazer shadowing algumas vezes.
-8. Reouvir sem apoio.
-
-Ao terminar:
-
-> Resumir oralmente o conteúdo em inglês sem consultar o material.
 
 ---
 
-### 4. Reading — 30–45 min
+### 3. Reading — 30–45 min
 
 Ler conteúdo adequado ao nível.
 
@@ -104,6 +74,37 @@ Priorizar:
 #### B1+
 
 Aumentar progressivamente o contato com conteúdo nativo.
+
+---
+### 4. Listening — 45–60 min
+
+Priorizar conteúdo adequado ao nível.
+
+#### Listening extensivo — ~80%
+
+- Ouvir para compreender a mensagem.
+- Não pausar constantemente.
+- Não pesquisar cada palavra.
+- Usar legenda em inglês quando necessário.
+- Evitar legenda em português durante o estudo deliberado.
+- Aceitar palavras desconhecidas quando não impedirem a compreensão.
+
+#### Listening intensivo — ~20%
+
+Selecionar apenas pequenos trechos importantes.
+
+1. Ouvir sem legenda.
+2. Tentar identificar o que foi dito.
+3. Conferir com legenda/transcrição.
+4. Ouvir novamente.
+5. Repetir em voz alta.
+6. Imitar pronúncia, ritmo e entonação.
+7. Fazer shadowing algumas vezes.
+8. Reouvir sem apoio.
+
+Ao terminar:
+
+> Resumir oralmente o conteúdo em inglês sem consultar o material.
 
 ---
 
