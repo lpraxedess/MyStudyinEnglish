@@ -2,7 +2,7 @@
 
 **Objetivo:** atingir B2 com foco em Listening e Speaking.  
 **Frequência:** 5x por semana  
-**Carga diária:** 2h30 + Speaking extra livre
+**Carga diária:** 2h30 + Speaking Extra livre
 
 ---
 
@@ -16,10 +16,10 @@
 | 2 | 📚 Estruturas + Gramática | 20 min |
 | 3 | 🎧 Listening + Shadowing | 40 min |
 | 4 | 📖 Reading | 20 min |
-| 5 | ✍️ Writing | 15 min |
-| 6 | 🎙️ Speaking | 40 min |
+| 5 | ✍️ Writing + Correção | 15 min |
+| 6 | 🗣️ Speak | 40 min |
 | | **Total** | **2h30** |
-| 7 | 🗣️ Speaking Extra | **Livre** |
+| 7 | 🎙️ Speaking Extra | **Livre** |
 
 ---
 
@@ -29,15 +29,12 @@
 - [ ] Máximo **5–10 cards novos/dia**.
 - [ ] Prioridade para **frases/chunks**.
 - [ ] Responder **em voz alta antes de revelar**.
-- [ ] Priorizar estruturas e expressões encontradas durante os estudos.
 
 ---
 
 ## 📚 2. Estruturas + Gramática — 20 min
 
 - [ ] Estudar **1 estrutura/tópico por sessão**.
-- [ ] Entender.
-- [ ] Exercitar.
 - [ ] Criar **5–10 frases próprias**.
 - [ ] Falar as frases em voz alta.
 - [ ] Priorizar gramática necessária para comunicação A1/A2.
@@ -50,15 +47,15 @@
 
 ## 🎧 3. Listening + Shadowing — 40 min
 
-### Listening extensivo — 20 min
+### Listening Extensivo — 20 min
 
 - [ ] Conteúdo A1/A2 compreensível.
 - [ ] Buscar aproximadamente **70–90% de compreensão**.
 - [ ] Não pausar constantemente.
 - [ ] Não traduzir palavra por palavra.
-- [ ] Focar no significado geral.
+- [ ] Focar no significado.
 
-### Listening intensivo — 20 min
+### Listening Intensivo — 20 min
 
 Selecionar um trecho de **2–5 minutos**.
 
@@ -66,7 +63,7 @@ Selecionar um trecho de **2–5 minutos**.
 2. [ ] Ouvir com legenda/transcrição em inglês.
 3. [ ] Identificar dificuldades.
 4. [ ] Ouvir novamente.
-5. [ ] Selecionar **3–5 frases/trechos úteis**.
+5. [ ] Selecionar trechos úteis.
 6. [ ] Fazer shadowing.
 7. [ ] Ouvir novamente sem legenda.
 
@@ -74,7 +71,7 @@ Selecionar um trecho de **2–5 minutos**.
 
 `OUVIR → IMITAR → REPETIR`
 
-> Shadowing somente depois de compreender o trecho.
+> Fazer shadowing depois de compreender o trecho.
 
 ---
 
@@ -83,16 +80,16 @@ Selecionar um trecho de **2–5 minutos**.
 - [ ] Ler material A1/A2.
 - [ ] Buscar aproximadamente **90%+ de compreensão**.
 - [ ] Ler principalmente pelo significado.
-- [ ] Não consultar todas as palavras desconhecidas.
+- [ ] Não pesquisar todas as palavras desconhecidas.
 - [ ] Pesquisar palavras importantes ou recorrentes.
-- [ ] Salvar somente expressões realmente úteis.
+- [ ] Salvar apenas chunks/vocabulário realmente úteis.
 
 ---
 
-## ✍️ 5. Writing — 15 min
+## ✍️ 5. Writing + Correção — 15 min
 
 - [ ] Escrever **5–10 frases**.
-- [ ] Usar estruturas/vocabulário estudados no dia.
+- [ ] Usar estruturas/vocabulário estudados.
 - [ ] Corrigir com IA.
 - [ ] Identificar erros recorrentes.
 - [ ] Falar as frases corrigidas.
@@ -104,43 +101,41 @@ Selecionar um trecho de **2–5 minutos**.
 
 ---
 
-## 🎙️ 6. Speaking — 40 min
+## 🗣️ 6. Speak — 40 min
 
-### Automatização — 10 min
+### Curso Estruturado — 25 min
 
-- [ ] Perguntas e respostas rápidas.
-- [ ] Usar estruturas estudadas.
-- [ ] Não escrever antes.
+- [ ] Seguir a progressão do Speak.
+- [ ] Fazer os exercícios oralmente.
+- [ ] Não pular conteúdo básico por parecer fácil.
+- [ ] Repetir frases quando houver dificuldade.
 - [ ] Buscar respostas cada vez mais automáticas.
 
-### Conversação guiada — 15 min
+### Speak Tutor / Roleplay — 15 min
 
-- [ ] Conversar com IA.
-- [ ] Receber correção dos erros importantes.
-- [ ] Repetir oralmente a frase corrigida.
+- [ ] Fazer conversação guiada.
+- [ ] Priorizar estruturas e assuntos estudados.
+- [ ] Corrigir erros importantes.
+- [ ] Repetir oralmente a forma correta.
 - [ ] Continuar a conversa.
-
-### Repetição de tarefa — 15 min
-
-- [ ] Escolher um tema/situação.
-- [ ] Falar/conversar.
-- [ ] Receber feedback.
-- [ ] Refazer a mesma tarefa.
-- [ ] Buscar mais fluência e precisão na segunda tentativa.
 
 ---
 
-## 🗣️ 7. Speaking Extra — Livre
+## 🎙️ 7. Speaking Extra — Livre
 
-Após completar as 2h30:
+Depois de completar as 2h30:
 
-- Conversar com IA.
-- Fazer self-talk.
-- Narrar atividades.
-- Falar sobre games/animes.
-- Explicar assuntos de tecnologia.
-- Falar sobre SOC/Cybersecurity/IAM.
-- Simular situações cotidianas.
+- Speak Tutor.
+- ChatGPT Voice.
+- Self-talk.
+- Games.
+- Anime.
+- Cotidiano.
+- Tecnologia.
+- Cybersecurity.
+- SOC.
+- IAM.
+- Roleplays.
 
 ### Prioridade
 
@@ -161,9 +156,9 @@ Após completar as 2h30:
 | 3 | 🎧 Listening | 50 min |
 | 4 | 📖 Reading | 25 min |
 | 5 | ✍️ Writing | 15 min |
-| 6 | 🎙️ Speaking | 40 min |
+| 6 | 🗣️ Speak + Conversação | 40 min |
 | | **Total** | **2h30** |
-| 7 | 🗣️ Speaking Extra | **Livre** |
+| 7 | 🎙️ Speaking Extra | **Livre** |
 
 ---
 
@@ -195,7 +190,7 @@ Após completar as 2h30:
 
 ## 🎧 3. Listening — 50 min
 
-### Listening extensivo — 35 min
+### Listening Extensivo — 35 min
 
 Consumir conteúdo progressivamente autêntico:
 
@@ -215,9 +210,9 @@ Regras:
 - [ ] Não pausar constantemente.
 - [ ] Não traduzir palavra por palavra.
 
-### Listening intensivo — 15 min
+### Listening Intensivo — 15 min
 
-1. [ ] Selecionar trecho difícil.
+1. [ ] Selecionar um trecho difícil.
 2. [ ] Ouvir sem legenda.
 3. [ ] Ouvir com legenda/transcrição em inglês.
 4. [ ] Analisar dificuldades.
@@ -225,7 +220,7 @@ Regras:
 6. [ ] Fazer shadowing seletivo quando útil.
 7. [ ] Ouvir novamente sem legenda.
 
-> Shadowing deve ser usado principalmente para pronúncia, ritmo e entonação.
+> Usar shadowing principalmente para pronúncia, ritmo e entonação.
 
 ---
 
@@ -236,8 +231,8 @@ Consumir conteúdo progressivamente autêntico:
 - Livros.
 - Artigos.
 - Tecnologia.
-- SOC.
 - Cybersecurity.
+- SOC.
 - IAM.
 - Documentação.
 - Histórias.
@@ -248,25 +243,14 @@ Regras:
 - [ ] Ler principalmente pelo significado.
 - [ ] Evitar interromper constantemente a leitura.
 - [ ] Não transformar Reading em mineração de vocabulário.
-- [ ] Salvar apenas vocabulário/chunks realmente úteis.
+- [ ] Salvar apenas chunks/vocabulário realmente úteis.
 
 ---
 
 ## ✍️ 5. Writing — 15 min
 
-Escrever aproximadamente **100–150 palavras**.
-
-Alternar entre:
-
-- Resumo.
-- Narrativa.
-- Explicação.
-- Opinião.
-- Tecnologia.
-- Cybersecurity.
-
-Depois:
-
+- [ ] Escrever aproximadamente **100–150 palavras**.
+- [ ] Alternar entre resumo, narrativa, explicação e opinião.
 - [ ] Corrigir com IA.
 - [ ] Identificar erros recorrentes.
 - [ ] Revisar os principais erros.
@@ -274,32 +258,32 @@ Depois:
 
 ---
 
-## 🎙️ 6. Speaking — 40 min
+## 🗣️ 6. Speak + Conversação — 40 min
 
-### Fluência — 10 min
+### Speak — 10 min
 
-- [ ] Escolher um tema.
-- [ ] Falar **2–3 minutos sem parar**.
-- [ ] Identificar os principais problemas.
-- [ ] Corrigir.
-- [ ] Repetir o mesmo monólogo.
-- [ ] Buscar menos pausas e maior precisão.
+- [ ] Revisar pontos fracos.
+- [ ] Trabalhar pronúncia.
+- [ ] Trabalhar estruturas problemáticas.
+- [ ] Repetir frases que ainda não estejam automáticas.
 
-### Conversação — 30 min
+### Speak Tutor — 30 min
 
 - [ ] Conversação predominantemente livre.
 - [ ] Variar os assuntos.
+- [ ] Fazer roleplays.
 - [ ] Não preparar respostas por escrito.
 - [ ] Evitar interrupções constantes para correção.
 - [ ] Registrar os principais erros.
-- [ ] Corrigir ao final.
+- [ ] Corrigir os erros ao final.
 - [ ] Reutilizar oralmente as correções.
 
 ---
 
-## 🗣️ 7. Speaking Extra — Livre
+## 🎙️ 7. Speaking Extra — Livre
 
-- Conversação com IA.
+- Speak Tutor.
+- ChatGPT Voice.
 - Self-talk.
 - Games.
 - Anime.
@@ -324,9 +308,9 @@ Depois:
 
 ## A1 → A2
 
-Substituir os últimos **15 min do Speaking**:
+Substituir os últimos **15 min do Speak**:
 
-- [ ] Gravar **5 minutos sem roteiro**.
+- [ ] Falar **5 minutos sem roteiro**.
 - [ ] Não reiniciar ao errar.
 - [ ] Identificar **3 erros recorrentes**.
 - [ ] Corrigir.
@@ -336,7 +320,7 @@ Substituir os últimos **15 min do Speaking**:
 
 Substituir os últimos **15 min do Speaking**:
 
-- [ ] Gravar/conversar **10 minutos sem roteiro**.
+- [ ] Conversar/falar **10 minutos sem roteiro**.
 - [ ] Não reiniciar ao errar.
 - [ ] Identificar **3 erros recorrentes**.
 - [ ] Corrigir.
@@ -369,8 +353,32 @@ Substituir os últimos **15 min do Speaking**:
 
 `REVISAR → APRENDER → OUVIR → IMITAR → LER → ESCREVER → FALAR → CORRIGIR → REPETIR`
 
+### Speak
+
+`CURSO ESTRUTURADO → PRÁTICA ORAL → CORREÇÃO → REPETIÇÃO → CONVERSAÇÃO GUIADA`
+
+---
+
 ## B1 → B2
 
 **Objetivo:** expandir e utilizar o inglês espontaneamente.
 
 `INPUT REAL → COMPREENDER → PRODUZIR → INTERAGIR → RECEBER FEEDBACK → REFINAR → AUTOMATIZAR`
+
+### Speak
+
+`REVISÃO DIRECIONADA → CONVERSAÇÃO → FEEDBACK → CORREÇÃO → REUTILIZAÇÃO`
+
+---
+
+# 🏁 Princípio Central
+
+### A1 → A2
+
+**Construir + Automatizar**
+
+### B1 → B2
+
+**Expandir + Usar**
+
+> Consistência > quantidade de ferramentas.
