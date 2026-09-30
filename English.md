@@ -51,8 +51,6 @@ Nunca terminar gramática apenas sabendo explicar a regra.
 
 🎧 Legenda/transcrição em INGLÊS.
 
-### PASSAGEM 3 — 15 MIN
-
 🗣️ Shadowing: OUVIR → PAUSAR → IMITAR → REPETIR
 
 ## PASSAGEM 4 — 5 MIN
