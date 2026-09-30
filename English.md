@@ -42,8 +42,6 @@ Nunca terminar gramática apenas sabendo explicar a regra.
 
 # 🎧 3. LISTENING + SHADOWING — 40 MIN
 
-> Este é um dos blocos de maior prioridade.
-> Escolher um conteúdo curto **ligeiramente acima do meu nível**.
 
 ### PASSAGEM 1 — 5 MIN (Anime / Série / Vídeo)
 
@@ -52,13 +50,6 @@ Nunca terminar gramática apenas sabendo explicar a regra.
 ### PASSAGEM 2 — 10 MIN
 
 🎧 Legenda/transcrição em INGLÊS.
-
-Agora identificar:
-
-- sons que não reconheci;
-- palavras que conhecia mas não ouvi;
-- chunks novos;
-- reduções/connected speech.
 
 ### PASSAGEM 3 — 15 MIN
 
